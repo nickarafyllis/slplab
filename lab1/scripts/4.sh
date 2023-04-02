@@ -1,8 +1,10 @@
 #!/bin/bash
 
+# 4a,b
 # write the fst file
 python scripts/make_L.py > ./fsts/L.fst
 
+# 4c
 # compile the fst to bin
 fstcompile --isymbols=./vocab/chars.syms --osymbols=./vocab/chars.syms ./fsts/L.fst ./fsts/L.binfst
 

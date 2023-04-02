@@ -1,4 +1,4 @@
-alphabet = 'abcdefghijklmnopqrstuvwxyz'
+alphabet = 'abcdefghijklmnopqrstuvwxyz' #'abc' #for drawing fst at 4z
 weight = {
     "delete": 1.0,
     "insert": 1.0,
