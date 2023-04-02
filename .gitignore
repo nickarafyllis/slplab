@@ -1,0 +1,9 @@
+.gitignore
+
+# ignore temporary objects 
+*.cpython 
+**/__pycache__/
+
+#ignore fsts
+*.fst
+*.binfst
