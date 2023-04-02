@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/slp-ntua/slp-labs/master/lab1/scripts/fetch_gutenberg.py > scripts/fetch_gutenberg.py
