@@ -1,0 +1,4 @@
+adam	148
+adapted	6
+add	91
+and	95444
