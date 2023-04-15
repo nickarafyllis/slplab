@@ -7,3 +7,5 @@
 #ignore fsts
 *.fst
 *.binfst
+
+lab1/data/aclImdb/

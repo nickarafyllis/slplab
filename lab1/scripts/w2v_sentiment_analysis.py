@@ -1,13 +1,24 @@
 import glob
 import os
 import re
+import sys
 
 import numpy as np
 import sklearn
+from sklearn.model_selection import train_test_split
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+
+from gensim.models import Word2Vec
+
+from gensim.models import KeyedVectors
+NUM_W2V_TO_LOAD = 1000000
 
 SCRIPT_DIRECTORY = os.path.realpath(__file__)
 
-data_dir = os.path.join(SCRIPT_DIRECTORY, "../data/aclImdb/")
+#data_dir = os.path.join(SCRIPT_DIRECTORY, "../data/aclImdb/")
+data_dir = "data/aclImdb/"
 train_dir = os.path.join(data_dir, "train")
 test_dir = os.path.join(data_dir, "test")
 pos_train_dir = os.path.join(train_dir, "pos")
@@ -61,7 +72,7 @@ def read_samples(folder, preprocess=lambda x: x):
 
 
 def create_corpus(pos, neg):
-    corpus = np.array(pos + neg)
+    corpus = np.array(pos + neg, dtype='object')
     y = np.array([1 for _ in pos] + [0 for _ in neg])
     indices = np.arange(y.shape[0])
     np.random.shuffle(indices)
@@ -69,30 +80,76 @@ def create_corpus(pos, neg):
     return list(corpus[indices]), list(y[indices])
 
 
-def extract_nbow(corpus):
+def extract_nbow(corpus, google):
     """Extract neural bag of words representations"""
+    
+    # Compute BoW representation with average of word embeddings
+    
+    if (google==1):
+        # Load the trained Word2Vec model
+        word_vectors = KeyedVectors.load_word2vec_format('./models/GoogleNews-vectors-negative300.bin', binary=True, limit=NUM_W2V_TO_LOAD)
+    
+    else:
+        # Load the trained Word2Vec model
+        model = Word2Vec.load("models/gutenberg_w2v.1000e.5w.model")
+        
+        # Obtain word embeddings
+        word_vectors = model.wv
+    
+    bow_corpus=[]
+    for doc in corpus:
+        word_embeddings = []
+        for word in doc:
+            if word in word_vectors:
+                word_embeddings.append(word_vectors[word])
+        if not word_embeddings:
+            bow_corpus.append(np.zeros(word_vectors.vector_size))
+        else:
+            bow_corpus.append(np.mean(word_embeddings, axis=0))
+
+    return bow_corpus
     raise NotImplementedError("Implement nbow extractor")
 
 
 def train_sentiment_analysis(train_corpus, train_labels):
     """Train a sentiment analysis classifier using NBOW + Logistic regression"""
+    
+    # Define the clasifier
+    clf = LogisticRegression()
+    # Train the model
+    clf.fit(train_corpus, train_labels)
+    return clf
+
     raise NotImplementedError("Implement sentiment analysis training")
 
 
 def evaluate_sentiment_analysis(classifier, test_corpus, test_labels):
     """Evaluate classifier in the test corpus and report accuracy"""
+    
+    return accuracy_score(test_labels, classifier.predict(test_corpus))
+    
     raise NotImplementedError("Implement sentiment analysis evaluation")
 
 
 if __name__ == "__main__":
     # TODO: read Imdb corpus
-    corpus, labels = ...
-    nbow_corpus = extract_nbow(corpus)
+    corpus, labels = create_corpus(read_samples(pos_train_dir, preproc_tok), read_samples(neg_train_dir, preproc_tok))
+    google=sys.argv[1]
+    if (google=='google'):
+        nbow_corpus = extract_nbow(corpus,1)
+    else:
+        nbow_corpus = extract_nbow(corpus,0)
     (
         train_corpus,
         test_corpus,
         train_labels,
         test_labels,
-    ) = sklearn.model_selection.train_test_split(corpus, labels)
+    ) = train_test_split(nbow_corpus, labels)
 
     # TODO: train / evaluate and report accuracy
+    
+    trained_classifier = train_sentiment_analysis(train_corpus, train_labels)
+    
+    accuracy = evaluate_sentiment_analysis(trained_classifier, test_corpus, test_labels)
+    
+    print("Accuracy score: ", accuracy)
