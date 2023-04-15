@@ -1,11 +1,15 @@
 #!/bin/bash
 
+# Command line args
+DICTIONARY=${1}
+WORDS=${2}
+
 # 9.b
 # make acceptor and save it as W.fst
-python3 scripts/make_acceptor_word_freq.py 'vocab/words.vocab.txt' >./fsts/W.fst
+python3 scripts/make_acceptor_word_freq.py $DICTIONARY >./fsts/W.fst
 
 # compile model to bin and save it as W.binfst
-fstcompile --isymbols=./vocab/words.syms --osymbols=./vocab/words.syms ./fsts/W.fst ./fsts/W.binfst
+fstcompile --isymbols=./$WORDS --osymbols=./$WORDS ./fsts/W.fst ./fsts/W.binfst
 
 # optimize model and save it as W_opt.binfst
 fstrmepsilon fsts/W.binfst | fstdeterminize | fstminimize >fsts/W_opt.binfst
