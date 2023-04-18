@@ -3,7 +3,7 @@ import numpy as np
 
 def make_acceptor_wf(lexicon = 'vocab/words.vocab.txt'):
     f=open(lexicon,"r")
-    lines = [ln.strip().split("\t") for ln in f.readlines()]
+    lines = [ln.strip().split() for ln in f.readlines()]
 
     f.close()
 
