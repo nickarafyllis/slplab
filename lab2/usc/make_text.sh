@@ -4,7 +4,7 @@
 input_files=("./data/train/uttids" "./data/test/uttids" "./data/dev/uttids")
 output_files=("./data/train/text" "./data/test/text" "./data/dev/text")
 
-transcriptions_file=("/home/nickarafyllis/Downloads/usc/transcriptions.txt")
+transcriptions_file=("./transcriptions.txt")
 
 # Loop through each input/output file pair
 for i in "${!input_files[@]}"; do

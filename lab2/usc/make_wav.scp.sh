@@ -18,7 +18,7 @@ for i in "${!input_files[@]}"; do
 
     # Combine line number with "utterance_id"
     utterance_id="utterance_id_${line_num}"
-    path="/home/nickarafyllis/Downloads/usc/wav/${strings[0]}.wav"
+    path="./wav/${strings[0]}.wav"
 
     # Write the new line to the output file
     echo "$utterance_id $path" >> "${output_files[$i]}"
