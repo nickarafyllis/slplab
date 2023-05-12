@@ -1,0 +1,1320 @@
+utterance_id_1 <s> She is thinner than I am. </s>
+utterance_id_2 <s> Bright sunshine shimmers on the ocean. </s>
+utterance_id_3 <s> Nothing is as offensive as innocence. </s>
+utterance_id_4 <s> Where were you while we were away? </s>
+utterance_id_5 <s> Are your grades higher or lower than Nancy's. </s>
+utterance_id_6 <s> He will allow a rare lie. </s>
+utterance_id_7 <s> Will robin wear a yellow lily. </s>
+utterance_id_8 <s> Before Thursday's exam review every formula. </s>
+utterance_id_9 <s> The museum hires musicians every evening. </s>
+utterance_id_10 <s> Carl lives in a lively home. </s>
+utterance_id_11 <s> She wore warm fleecy woolen overalls. </s>
+utterance_id_12 <s> Alfalfa is healthy for you. </s>
+utterance_id_13 <s> When all else fails use force. </s>
+utterance_id_14 <s> Although always alone we survive. </s>
+utterance_id_15 <s> Did dad do academic bidding? </s>
+utterance_id_16 <s> Help greg to pick a peck of potatoes. </s>
+utterance_id_17 <s> A good attitude is unbeatable. </s>
+utterance_id_18 <s> Coconut cream pie makes a nice dessert. </s>
+utterance_id_19 <s> Only the most accomplished artists obtain popularity. </s>
+utterance_id_20 <s> Critical equipment needs proper maintenance. </s>
+utterance_id_21 <s> Young people participate in athletic activities. </s>
+utterance_id_22 <s> Stimulating discussions keep students' attention. </s>
+utterance_id_23 <s> Etiquette mandates compliance with existing regulations. </s>
+utterance_id_24 <s> Biblical scholars argue history. </s>
+utterance_id_25 <s> Elderly people are often excluded. </s>
+utterance_id_26 <s> Addition and subtraction are learned skills. </s>
+utterance_id_27 <s> Grandmother outgrew her upbringing in petticoats. </s>
+utterance_id_28 <s> Catastrophic economic cutbacks neglect the poor. </s>
+utterance_id_29 <s> Even a simple vocabulary contains symbols. </s>
+utterance_id_30 <s> The eastern coast is a place for pure pleasure and excitement. </s>
+utterance_id_31 <s> The lack of heat compounded the tenant's grievances. </s>
+utterance_id_32 <s> Academic aptitude guarantees your diploma. </s>
+utterance_id_33 <s> We experience distress and frustration obtaining our degrees. </s>
+utterance_id_34 <s> The singer's finger had a splinter. </s>
+utterance_id_35 <s> The legislature met to judge the state of public education. </s>
+utterance_id_36 <s> Chocolate and roses never fail as a romantic gift. </s>
+utterance_id_37 <s> Regular attendance is seldom required. </s>
+utterance_id_38 <s> Challenge each general's intelligence. </s>
+utterance_id_39 <s> We got drenched from the uninterrupted rain. </s>
+utterance_id_40 <s> Upgrade your status to reflect your wealth. </s>
+utterance_id_41 <s> Eat your raisins outdoors on the porch steps. </s>
+utterance_id_42 <s> Porcupines resemble sea urchins. </s>
+utterance_id_43 <s> Spring street is straight ahead. </s>
+utterance_id_44 <s> An official deadline cannot be postponed. </s>
+utterance_id_45 <s> Fill that canteen with fresh spring water. </s>
+utterance_id_46 <s> Bagpipes and bongos are musical instruments. </s>
+utterance_id_47 <s> Will you please describe the idiotic predicament. </s>
+utterance_id_48 <s> It's impossible to deal with bureaucracy. </s>
+utterance_id_49 <s> Good service should be rewarded by big tips. </s>
+utterance_id_50 <s> My instructions desperately need updating. </s>
+utterance_id_51 <s> Cement is measured in cubic yards. </s>
+utterance_id_52 <s> Primitive tribes have an upbeat attitude. </s>
+utterance_id_53 <s> Flying standby can be practical if you want to save money. </s>
+utterance_id_54 <s> It's hard to tell an original from a forgery. </s>
+utterance_id_55 <s> A large household needs lots of appliances. </s>
+utterance_id_56 <s> Cut a small corner off each edge. </s>
+utterance_id_57 <s> Iguanas and alligators are tropical reptiles. </s>
+utterance_id_58 <s> Penguins live near the icy antarctic. </s>
+utterance_id_59 <s> Guess the question from the answer. </s>
+utterance_id_60 <s> Medieval society was based on hierarchies. </s>
+utterance_id_61 <s> Project development was proceeding too slowly. </s>
+utterance_id_62 <s> Special task forces rescue hostages from kidnappers. </s>
+utterance_id_63 <s> Call an ambulance for medical assistance. </s>
+utterance_id_64 <s> You must explicitly delete files. </s>
+utterance_id_65 <s> Birthday parties have cupcakes and ice cream. </s>
+utterance_id_66 <s> His scalp was blistered from today's hot sun. </s>
+utterance_id_67 <s> She slipped and sprained her ankle on the steep slope. </s>
+utterance_id_68 <s> The best way to learn is to solve extra problems. </s>
+utterance_id_69 <s> Tugboats are capable of hauling huge loads. </s>
+utterance_id_70 <s> A muscular abdomen is good for your back. </s>
+utterance_id_71 <s> The cartoon features a muskrat and a tadpole. </s>
+utterance_id_72 <s> The emblem depicts the acropolis all aglow. </s>
+utterance_id_73 <s> Combine all the ingredients in a large bowl. </s>
+utterance_id_74 <s> The misquote was retracted with an apology. </s>
+utterance_id_75 <s> The coyote bobcat and hyena are wild animals. </s>
+utterance_id_76 <s> Encyclopedias seldom present anecdotal evidence. </s>
+utterance_id_77 <s> A screwdriver is made from vodka and orange juice. </s>
+utterance_id_78 <s> Objects made of pewter are beautiful. </s>
+utterance_id_79 <s> Westchester is a county in New York. </s>
+utterance_id_80 <s> The emperor had a mean temper. </s>
+utterance_id_81 <s> Lots of foreign movies have subtitles. </s>
+utterance_id_82 <s> He ate four extra eggs for breakfast. </s>
+utterance_id_83 <s> Publicity and notoriety go hand in hand. </s>
+utterance_id_84 <s> Pizzerias are convenient for a quick lunch. </s>
+utterance_id_85 <s> December and january are nice months to spend in Miami. </s>
+utterance_id_86 <s> Technical writers can abbreviate in bibliographies. </s>
+utterance_id_87 <s> The clumsy customer spilled some expensive perfume. </s>
+utterance_id_88 <s> The bungalow was pleasantly situated near the shore. </s>
+utterance_id_89 <s> Agricultural products are unevenly distributed. </s>
+utterance_id_90 <s> Pledge to participate in nevada's aquatic competition. </s>
+utterance_id_91 <s> The willowy woman wore a muskrat coat. </s>
+utterance_id_92 <s> Too much curiosity can get you into trouble. </s>
+utterance_id_93 <s> Cyclical programs will never compile. </s>
+utterance_id_94 <s> Most precincts had a third of the votes counted. </s>
+utterance_id_95 <s> While waiting for Chipper, she crisscrossed the square many times. </s>
+utterance_id_96 <s> Vietnamese cuisine is exquisite. </s>
+utterance_id_97 <s> The previous speaker presented ambiguous results. </s>
+utterance_id_98 <s> Scholastic aptitude is judged by standardized tests. </s>
+utterance_id_99 <s> Orange juice tastes funny after toothpaste. </s>
+utterance_id_100 <s> Our experiment's positive outcome was unexpected. </s>
+utterance_id_101 <s> The drunkard is a social outcast. </s>
+utterance_id_102 <s> The government sought authorization of his citizenship. </s>
+utterance_id_103 <s> As coauthors we presented our new book to the haughty audience. </s>
+utterance_id_104 <s> As a precaution the outlaws bought gunpowder for their stronghold. </s>
+utterance_id_105 <s> They remained lifelong friends and companions. </s>
+utterance_id_106 <s> Curiosity and mediocrity seldom coexist. </s>
+utterance_id_107 <s> Biologists use radioactive isotopes to study microorganisms. </s>
+utterance_id_108 <s> Employee layoffs coincided with the company's reorganization. </s>
+utterance_id_109 <s> The Mayan neoclassic scholar disappeared while surveying ancient ruins. </s>
+utterance_id_110 <s> The diagnosis was discouraging however he was not overly worried. </s>
+utterance_id_111 <s> The triumphant warrior exhibited naive heroism. </s>
+utterance_id_112 <s> Severe myopia contributed to ron's inferiority complex. </s>
+utterance_id_113 <s> Buying a thoroughbred horse requires intuition and expertise. </s>
+utterance_id_114 <s> Does creole cooking use curry? </s>
+utterance_id_115 <s> She encouraged her children to make their own halloween costumes. </s>
+utterance_id_116 <s> Almost all colleges are now coeducational. </s>
+utterance_id_117 <s> Rich looked for spotted hyenas and jaguars on the safari. </s>
+utterance_id_118 <s> Why else would Danny allow others to go? </s>
+utterance_id_119 <s> Did you buy any corduroy overalls? </s>
+utterance_id_120 <s> Would a tomboy often play outdoors. </s>
+utterance_id_121 <s> They often go out in the evening. </s>
+utterance_id_122 <s> Who authorized the unlimited expense account? </s>
+utterance_id_123 <s> Serve the coleslaw after i add the oil. </s>
+utterance_id_124 <s> Withdraw all phony accusations at once. </s>
+utterance_id_125 <s> Straw hats are out of fashion this year. </s>
+utterance_id_126 <s> Why buy oil when you always use mine? </s>
+utterance_id_127 <s> How do oysters make pearls? </s>
+utterance_id_128 <s> Draw each graph on a new axis. </s>
+utterance_id_129 <s> Norwegian sweaters are made of lamb's wool. </s>
+utterance_id_130 <s> Ralph controlled the stopwatch from the bleachers. </s>
+utterance_id_131 <s> Approach your interview with statuesque composure. </s>
+utterance_id_132 <s> How much allowance do you get? </s>
+utterance_id_133 <s> The causeway ended abruptly at the shore. </s>
+utterance_id_134 <s> Military personnel are expected to obey government orders. </s>
+utterance_id_135 <s> When peeling an orange it is hard not to spray juice. </s>
+utterance_id_136 <s> Rob sat by the pond and sketched the stray geese. </s>
+utterance_id_137 <s> Only the best players enjoy popularity. </s>
+utterance_id_138 <s> I gave them several choices and let them set the priorities. </s>
+utterance_id_139 <s> The news agency hired a great journalist. </s>
+utterance_id_140 <s> The morning dew on the spider web glistened in the sun. </s>
+utterance_id_141 <s> The small boy put the worm on the hook. </s>
+utterance_id_142 <s> How permanent are their records? </s>
+utterance_id_143 <s> Try to recall the events in chronological order. </s>
+utterance_id_144 <s> The most recent geological survey found seismic activity. </s>
+utterance_id_145 <s> Put the butcher block table in the garage. </s>
+utterance_id_146 <s> How good is your endurance? </s>
+utterance_id_147 <s> Keep the thermometer under your tongue. </s>
+utterance_id_148 <s> It's healthier to cook without sugar. </s>
+utterance_id_149 <s> The viewpoint overlooked the ocean. </s>
+utterance_id_150 <s> Are you looking for employment. </s>
+utterance_id_151 <s> His failure to open the store by eight cost him his job. </s>
+utterance_id_152 <s> The paper boy bought two apples and three ices. </s>
+utterance_id_153 <s> I itemize all accounts in my agency. </s>
+utterance_id_154 <s> The courier was a dwarf. </s>
+utterance_id_155 <s> Puree some fruit before preparing the skewers. </s>
+utterance_id_156 <s> It's not easy to create illuminating examples. </s>
+utterance_id_157 <s> The hallway opens into a huge chamber. </s>
+utterance_id_158 <s> They all agree that the essay is barely intelligible. </s>
+utterance_id_159 <s> The cigarettes in the clay ashtray overflowed onto the oak table. </s>
+utterance_id_160 <s> Reading in poor light gives you eyestrain. </s>
+utterance_id_161 <s> I ate every oyster on Nora's plate. </s>
+utterance_id_162 <s> The boston ballet overcame their funding shortage. </s>
+utterance_id_163 <s> Do they allow atheists in church? </s>
+utterance_id_164 <s> My ideal morning begins with hot coffee. </s>
+utterance_id_165 <s> The irate actor stomped away idiotically. </s>
+utterance_id_166 <s> The essay undeniably reflects our view ably. </s>
+utterance_id_167 <s> Remember to allow identical twins to enter freely. </s>
+utterance_id_168 <s> Do you have the yellow ointment ready? </s>
+utterance_id_169 <s> Can the agency overthrow alien forces. </s>
+utterance_id_170 <s> We saw eight tiny icicles below our roof. </s>
+utterance_id_171 <s> The saw is broken so chop the wood instead. </s>
+utterance_id_172 <s> Draw every outer line first then fill in the interior. </s>
+utterance_id_173 <s> Do atypical farmers grow oats? </s>
+utterance_id_174 <s> Are holiday aprons available to us. </s>
+utterance_id_175 <s> Be careful not to plow over the flower beds. </s>
+utterance_id_176 <s> Allow each child to have an ice pop. </s>
+utterance_id_177 <s> Cliff was soothed by the luxurious massage. </s>
+utterance_id_178 <s> Steve wore a bright red cashmere sweater. </s>
+utterance_id_179 <s> John's brother repainted the garage door. </s>
+utterance_id_180 <s> The rose corsage smelled sweet. </s>
+utterance_id_181 <s> The oasis was a mirage. </s>
+utterance_id_182 <s> Cory and trish played tag with beach balls for hours. </s>
+utterance_id_183 <s> The tooth fairy forgot to come when Roger's tooth fell out. </s>
+utterance_id_184 <s> Rich purchased several signed lithographs. </s>
+utterance_id_185 <s> In every major cloverleaf traffic sometimes gets backed up. </s>
+utterance_id_186 <s> In the long run it pays to buy quality clothing. </s>
+utterance_id_187 <s> Brush fires are common in the dry underbrush of Nevada. </s>
+utterance_id_188 <s> This brochure is particularly informative for a prospective buyer. </s>
+utterance_id_189 <s> The avalanche triggered a minor earthquake. </s>
+utterance_id_190 <s> Please take this dirty table cloth to the cleaners for me. </s>
+utterance_id_191 <s> If Carol comes tomorrow have her arrange for a meeting at two. </s>
+utterance_id_192 <s> The two artists exchanged autographs. </s>
+utterance_id_193 <s> I'd rather not buy these shoes than be overcharged. </s>
+utterance_id_194 <s> Shaving cream is a popular item on Halloween. </s>
+utterance_id_195 <s> Tofu is made from processed soybeans. </s>
+utterance_id_196 <s> The bluejay flew over the high building. </s>
+utterance_id_197 <s> Cheap stockings run the first time they're worn. </s>
+utterance_id_198 <s> Cottage cheese with chives is delicious. </s>
+utterance_id_199 <s> Shipbuilding is a most fascinating process. </s>
+utterance_id_200 <s> The proof that you are seeking is not available in books. </s>
+utterance_id_201 <s> The hood of the jeep was steaming in the hot sun. </s>
+utterance_id_202 <s> Those answers will be straightforward if you think them through carefully first. </s>
+utterance_id_203 <s> Drop five forms in the box before you go out. </s>
+utterance_id_204 <s> If people were more generous there would be no need for welfare. </s>
+utterance_id_205 <s> Bob found more clams at the ocean's edge. </s>
+utterance_id_206 <s> The cranberry bog gets very pretty in autumn. </s>
+utterance_id_207 <s> A big goat idly ambled through the farmyard. </s>
+utterance_id_208 <s> The groundhog clearly saw his shadow but stayed out only a moment. </s>
+utterance_id_209 <s> The fog prevented them from arriving on time. </s>
+utterance_id_210 <s> The local drugstore was charged with illegally dispensing tranquilizers. </s>
+utterance_id_211 <s> The full moon shone brightly that night. </s>
+utterance_id_212 <s> Steve collects rare and novel coins. </s>
+utterance_id_213 <s> Gregory and Tom chose to watch cartoons in the afternoon. </s>
+utterance_id_214 <s> Chip postponed alimony payments until the latest possible date. </s>
+utterance_id_215 <s> Count the number of teaspoons of soysauce that you add. </s>
+utterance_id_216 <s> The big dog loved to chew on the old rag doll. </s>
+utterance_id_217 <s> Often you'll get back more than you put in. </s>
+utterance_id_218 <s> Gus saw pine trees and redwoods on his walk through Sequoia National Forest. </s>
+utterance_id_219 <s> Bob bandaged both wounds with the skill of a doctor. </s>
+utterance_id_220 <s> Did Shawn catch that big goose without help? </s>
+utterance_id_221 <s> Ducks have webbed feet and colorful feathers. </s>
+utterance_id_222 <s> The high security prison was surrounded by barbed wire. </s>
+utterance_id_223 <s> Take charge of choosing her bride's maids' gowns. </s>
+utterance_id_224 <s> I know I didn't meet her early enough. </s>
+utterance_id_225 <s> The barracuda recoiled from the serpent's poisonous fangs. </s>
+utterance_id_226 <s> I'll have a scoop of that exotic purple and turquoise sherbet. </s>
+utterance_id_227 <s> Many wealthy tycoons splurged and bought both a yacht and a schooner. </s>
+utterance_id_228 <s> The new suburbanites worked hard on refurbishing their older home. </s>
+utterance_id_229 <s> According to my interpretation of the problem, two lines must be perpendicular. </s>
+utterance_id_230 <s> A connoisseur will enjoy this shellfish dish. </s>
+utterance_id_231 <s> Dolphins are intelligent marine mammals. </s>
+utterance_id_232 <s> Diane may splurge and buy a turquoise necklace. </s>
+utterance_id_233 <s> The moisture in my eyes is from eyedrops, not from tears. </s>
+utterance_id_234 <s> George seldom watches daytime movies. </s>
+utterance_id_235 <s> The annoying raccoons slipped into Phil's garden every night. </s>
+utterance_id_236 <s> The cow wandered from the farmland and became lost. </s>
+utterance_id_237 <s> Each untimely income loss coincided with the breakdown of a heating system part. </s>
+utterance_id_238 <s> Will you please confirm government policy regarding waste removal. </s>
+utterance_id_239 <s> The surplus shoes were sold at a discount price. </s>
+utterance_id_240 <s> Lori's costume needed black gloves to be completely elegant. </s>
+utterance_id_241 <s> Bob papered over the living room murals. </s>
+utterance_id_242 <s> Right now may not be the best time for business mergers. </s>
+utterance_id_243 <s> That diagram makes sense only after much study. </s>
+utterance_id_244 <s> John cleans shellfish for a living. </s>
+utterance_id_245 <s> She always jokes about too much garlic in his food. </s>
+utterance_id_246 <s> I just saw Jim near the new archeological museum. </s>
+utterance_id_247 <s> Pam gives driving lessons on Thursdays. </s>
+utterance_id_248 <s> Why charge money for such garbage? </s>
+utterance_id_249 <s> George is paranoid about a future gas shortage. </s>
+utterance_id_250 <s> The carpet cleaners shampooed our oriental rug. </s>
+utterance_id_251 <s> Please shorten this skirt for Joyce. </s>
+utterance_id_252 <s> His shoulder felt as if it were broken. </s>
+utterance_id_253 <s> Her right hand aches whenever the barometric pressure changes. </s>
+utterance_id_254 <s> They own a big house in the remote countryside. </s>
+utterance_id_255 <s> He picked up nine pairs of socks for each brother. </s>
+utterance_id_256 <s> A young mouse scampered across the field and disappeared. </s>
+utterance_id_257 <s> She uses both names interchangeably. </s>
+utterance_id_258 <s> Calcium makes bones and teeth strong. </s>
+utterance_id_259 <s> The fish began to leap frantically on the surface of the small lake. </s>
+utterance_id_260 <s> They assume no burglar will ever enter here. </s>
+utterance_id_261 <s> Just drop notices in any suggestion box. </s>
+utterance_id_262 <s> We'll serve rhubarb pie after Rachel's talk. </s>
+utterance_id_263 <s> Barb burned paper and leaves in a big bonfire. </s>
+utterance_id_264 <s> Of course you can have another tunafish sandwich. </s>
+utterance_id_265 <s> There was a gigantic wasp next to Irving's big top hat. </s>
+utterance_id_266 <s> Laugh, dance and sing, if fortune smiles upon you. </s>
+utterance_id_267 <s> Eating spinach nightly increases strength miraculously. </s>
+utterance_id_268 <s> Butterscotch fudge goes well with vanilla ice cream. </s>
+utterance_id_269 <s> Daphne's Swedish needlepoint scarf matched her skirt. </s>
+utterance_id_270 <s> Irish youngsters eat fresh kippers for breakfast. </s>
+utterance_id_271 <s> Valley lodge yearly celebrates the first calf born. </s>
+utterance_id_272 <s> Iris thinks this zoo has eleven Spanish zebras. </s>
+utterance_id_273 <s> Those who teach values first abolish cheating. </s>
+utterance_id_274 <s> Smash lightbulbs and their cash value will diminish to nothing. </s>
+utterance_id_275 <s> Top zinnias rarely have crooked stems. </s>
+utterance_id_276 <s> Movies never have enough villains. </s>
+utterance_id_277 <s> Every cab needs repainting often. </s>
+utterance_id_278 <s> A toothpaste tube should be squeezed from the bottom. </s>
+utterance_id_279 <s> Those who are not purists use canned vegetables when making stew. </s>
+utterance_id_280 <s> The overweight charmer could slip poison into anyone's tea. </s>
+utterance_id_281 <s> The rich should invest in black zircons instead of stylish shoes. </s>
+utterance_id_282 <s> Please sing just the club theme. </s>
+utterance_id_283 <s> They used an aggressive policeman to flag thoughtless motorists. </s>
+utterance_id_284 <s> Shell shock caused by shrapnel is sometimes cured through group therapy. </s>
+utterance_id_285 <s> Suburban housewives often suffer from the gab habit. </s>
+utterance_id_286 <s> A lone star shone in the early evening sky. </s>
+utterance_id_287 <s> The toddler found a clamshell near the camp site. </s>
+utterance_id_288 <s> What is this large thing by the ironing board? </s>
+utterance_id_289 <s> Spherical gifts are difficult to wrap. </s>
+utterance_id_290 <s> Ralph prepared red snapper with fresh lemon sauce for dinner. </s>
+utterance_id_291 <s> Roy ignored the spurious data points in drawing the graph. </s>
+utterance_id_292 <s> In developing film many toxic chemicals are used. </s>
+utterance_id_293 <s> Is this seesaw safe. </s>
+utterance_id_294 <s> Those thieves stole thirty jewels. </s>
+utterance_id_295 <s> Aluminium cutlery can often be flimsy. </s>
+utterance_id_296 <s> Most young rabbits rise early every morning. </s>
+utterance_id_297 <s> Beg that guard for one gallon of petrol. </s>
+utterance_id_298 <s> Tina turner is a pop singer. </s>
+utterance_id_299 <s> Mum strongly dislikes appetizers. </s>
+utterance_id_300 <s> Her classical repertoire gained critical acclaim. </s>
+utterance_id_301 <s> Did you eat lunch yesterday? </s>
+utterance_id_302 <s> It's illegal to postdate a cheque. </s>
+utterance_id_303 <s> Youngsters love corn candy as a treat. </s>
+utterance_id_304 <s> Glucose and fructose are natural sugars found in fruit. </s>
+utterance_id_305 <s> Few people live to be a hundred. </s>
+utterance_id_306 <s> Tradition requires parental approval for underage marriage. </s>
+utterance_id_307 <s> The haunted house was a hit due to outstanding audiovisual effects. </s>
+utterance_id_308 <s> They all enjoy ice cream sundaes. </s>
+utterance_id_309 <s> Jeff's toy gocart never worked. </s>
+utterance_id_310 <s> Allow leeway here. </s>
+utterance_id_311 <s> I honour my mum. </s>
+utterance_id_312 <s> Rationalize all errors. </s>
+utterance_id_313 <s> May I order a parfait after i eat dinner. </s>
+utterance_id_314 <s> Does Hindu ideology honour cows? </s>
+utterance_id_315 <s> We apply auditory modelling to computer speech recognition. </s>
+utterance_id_316 <s> Jeff thought you argued in favour of a centrifuge purchase. </s>
+utterance_id_317 <s> We like blue cheese but Victor likes brie. </s>
+utterance_id_318 <s> Please dig my potatoes up before the frost. </s>
+utterance_id_319 <s> Rob made hungarian goulash for dinner and gooseberry pie for desert. </s>
+utterance_id_320 <s> Trish saw hours and hours of movies this Saturday. </s>
+utterance_id_321 <s> Gremlins is yet another exciting movie by Steven Spielberg. </s>
+utterance_id_322 <s> Growing well-kept gardens is very time consuming. </s>
+utterance_id_323 <s> Is she going with you. </s>
+utterance_id_324 <s> I took her word for it. </s>
+utterance_id_325 <s> Gwen grows green beans in her vegetable garden. </s>
+utterance_id_326 <s> The football team coach has a watch as thin as a dime. </s>
+utterance_id_327 <s> Seamstresses attach zips with a thimble needle and thread. </s>
+utterance_id_328 <s> Coffee is grown on steep junglelike slopes in temperate zones. </s>
+utterance_id_329 <s> That stinging vapour was caused by chloride vaporization. </s>
+utterance_id_330 <s> Don't look for cheap valuables in a bank vault. </s>
+utterance_id_331 <s> Which theatre shows Mother Goose? </s>
+utterance_id_332 <s> She is thinner than I am. </s>
+utterance_id_333 <s> Bright sunshine shimmers on the ocean. </s>
+utterance_id_334 <s> Nothing is as offensive as innocence. </s>
+utterance_id_335 <s> Where were you while we were away? </s>
+utterance_id_336 <s> Are your grades higher or lower than Nancy's. </s>
+utterance_id_337 <s> He will allow a rare lie. </s>
+utterance_id_338 <s> Will robin wear a yellow lily. </s>
+utterance_id_339 <s> Before Thursday's exam review every formula. </s>
+utterance_id_340 <s> The museum hires musicians every evening. </s>
+utterance_id_341 <s> Carl lives in a lively home. </s>
+utterance_id_342 <s> She wore warm fleecy woolen overalls. </s>
+utterance_id_343 <s> Alfalfa is healthy for you. </s>
+utterance_id_344 <s> When all else fails use force. </s>
+utterance_id_345 <s> Although always alone we survive. </s>
+utterance_id_346 <s> Did dad do academic bidding? </s>
+utterance_id_347 <s> Help greg to pick a peck of potatoes. </s>
+utterance_id_348 <s> A good attitude is unbeatable. </s>
+utterance_id_349 <s> Coconut cream pie makes a nice dessert. </s>
+utterance_id_350 <s> Only the most accomplished artists obtain popularity. </s>
+utterance_id_351 <s> Critical equipment needs proper maintenance. </s>
+utterance_id_352 <s> Young people participate in athletic activities. </s>
+utterance_id_353 <s> Stimulating discussions keep students' attention. </s>
+utterance_id_354 <s> Etiquette mandates compliance with existing regulations. </s>
+utterance_id_355 <s> Biblical scholars argue history. </s>
+utterance_id_356 <s> Elderly people are often excluded. </s>
+utterance_id_357 <s> Addition and subtraction are learned skills. </s>
+utterance_id_358 <s> Grandmother outgrew her upbringing in petticoats. </s>
+utterance_id_359 <s> Catastrophic economic cutbacks neglect the poor. </s>
+utterance_id_360 <s> Even a simple vocabulary contains symbols. </s>
+utterance_id_361 <s> The eastern coast is a place for pure pleasure and excitement. </s>
+utterance_id_362 <s> The lack of heat compounded the tenant's grievances. </s>
+utterance_id_363 <s> Academic aptitude guarantees your diploma. </s>
+utterance_id_364 <s> We experience distress and frustration obtaining our degrees. </s>
+utterance_id_365 <s> The singer's finger had a splinter. </s>
+utterance_id_366 <s> The legislature met to judge the state of public education. </s>
+utterance_id_367 <s> Chocolate and roses never fail as a romantic gift. </s>
+utterance_id_368 <s> Regular attendance is seldom required. </s>
+utterance_id_369 <s> Challenge each general's intelligence. </s>
+utterance_id_370 <s> We got drenched from the uninterrupted rain. </s>
+utterance_id_371 <s> Upgrade your status to reflect your wealth. </s>
+utterance_id_372 <s> Eat your raisins outdoors on the porch steps. </s>
+utterance_id_373 <s> Porcupines resemble sea urchins. </s>
+utterance_id_374 <s> Spring street is straight ahead. </s>
+utterance_id_375 <s> An official deadline cannot be postponed. </s>
+utterance_id_376 <s> Fill that canteen with fresh spring water. </s>
+utterance_id_377 <s> Bagpipes and bongos are musical instruments. </s>
+utterance_id_378 <s> Will you please describe the idiotic predicament. </s>
+utterance_id_379 <s> It's impossible to deal with bureaucracy. </s>
+utterance_id_380 <s> Good service should be rewarded by big tips. </s>
+utterance_id_381 <s> My instructions desperately need updating. </s>
+utterance_id_382 <s> Cement is measured in cubic yards. </s>
+utterance_id_383 <s> Primitive tribes have an upbeat attitude. </s>
+utterance_id_384 <s> Flying standby can be practical if you want to save money. </s>
+utterance_id_385 <s> It's hard to tell an original from a forgery. </s>
+utterance_id_386 <s> A large household needs lots of appliances. </s>
+utterance_id_387 <s> Cut a small corner off each edge. </s>
+utterance_id_388 <s> Iguanas and alligators are tropical reptiles. </s>
+utterance_id_389 <s> Penguins live near the icy antarctic. </s>
+utterance_id_390 <s> Guess the question from the answer. </s>
+utterance_id_391 <s> Medieval society was based on hierarchies. </s>
+utterance_id_392 <s> Project development was proceeding too slowly. </s>
+utterance_id_393 <s> Special task forces rescue hostages from kidnappers. </s>
+utterance_id_394 <s> Call an ambulance for medical assistance. </s>
+utterance_id_395 <s> You must explicitly delete files. </s>
+utterance_id_396 <s> Birthday parties have cupcakes and ice cream. </s>
+utterance_id_397 <s> His scalp was blistered from today's hot sun. </s>
+utterance_id_398 <s> She slipped and sprained her ankle on the steep slope. </s>
+utterance_id_399 <s> The best way to learn is to solve extra problems. </s>
+utterance_id_400 <s> Tugboats are capable of hauling huge loads. </s>
+utterance_id_401 <s> A muscular abdomen is good for your back. </s>
+utterance_id_402 <s> The cartoon features a muskrat and a tadpole. </s>
+utterance_id_403 <s> The emblem depicts the acropolis all aglow. </s>
+utterance_id_404 <s> Combine all the ingredients in a large bowl. </s>
+utterance_id_405 <s> The misquote was retracted with an apology. </s>
+utterance_id_406 <s> The coyote bobcat and hyena are wild animals. </s>
+utterance_id_407 <s> Encyclopedias seldom present anecdotal evidence. </s>
+utterance_id_408 <s> A screwdriver is made from vodka and orange juice. </s>
+utterance_id_409 <s> Objects made of pewter are beautiful. </s>
+utterance_id_410 <s> Westchester is a county in New York. </s>
+utterance_id_411 <s> The emperor had a mean temper. </s>
+utterance_id_412 <s> Lots of foreign movies have subtitles. </s>
+utterance_id_413 <s> He ate four extra eggs for breakfast. </s>
+utterance_id_414 <s> Publicity and notoriety go hand in hand. </s>
+utterance_id_415 <s> Pizzerias are convenient for a quick lunch. </s>
+utterance_id_416 <s> December and january are nice months to spend in Miami. </s>
+utterance_id_417 <s> Technical writers can abbreviate in bibliographies. </s>
+utterance_id_418 <s> The clumsy customer spilled some expensive perfume. </s>
+utterance_id_419 <s> The bungalow was pleasantly situated near the shore. </s>
+utterance_id_420 <s> Agricultural products are unevenly distributed. </s>
+utterance_id_421 <s> Pledge to participate in nevada's aquatic competition. </s>
+utterance_id_422 <s> The willowy woman wore a muskrat coat. </s>
+utterance_id_423 <s> Too much curiosity can get you into trouble. </s>
+utterance_id_424 <s> Cyclical programs will never compile. </s>
+utterance_id_425 <s> Most precincts had a third of the votes counted. </s>
+utterance_id_426 <s> While waiting for Chipper, she crisscrossed the square many times. </s>
+utterance_id_427 <s> Vietnamese cuisine is exquisite. </s>
+utterance_id_428 <s> The previous speaker presented ambiguous results. </s>
+utterance_id_429 <s> Scholastic aptitude is judged by standardized tests. </s>
+utterance_id_430 <s> Orange juice tastes funny after toothpaste. </s>
+utterance_id_431 <s> Our experiment's positive outcome was unexpected. </s>
+utterance_id_432 <s> The drunkard is a social outcast. </s>
+utterance_id_433 <s> The government sought authorization of his citizenship. </s>
+utterance_id_434 <s> As coauthors we presented our new book to the haughty audience. </s>
+utterance_id_435 <s> As a precaution the outlaws bought gunpowder for their stronghold. </s>
+utterance_id_436 <s> They remained lifelong friends and companions. </s>
+utterance_id_437 <s> Curiosity and mediocrity seldom coexist. </s>
+utterance_id_438 <s> Biologists use radioactive isotopes to study microorganisms. </s>
+utterance_id_439 <s> Employee layoffs coincided with the company's reorganization. </s>
+utterance_id_440 <s> The Mayan neoclassic scholar disappeared while surveying ancient ruins. </s>
+utterance_id_441 <s> The diagnosis was discouraging however he was not overly worried. </s>
+utterance_id_442 <s> The triumphant warrior exhibited naive heroism. </s>
+utterance_id_443 <s> Severe myopia contributed to ron's inferiority complex. </s>
+utterance_id_444 <s> Buying a thoroughbred horse requires intuition and expertise. </s>
+utterance_id_445 <s> Does creole cooking use curry? </s>
+utterance_id_446 <s> She encouraged her children to make their own halloween costumes. </s>
+utterance_id_447 <s> Almost all colleges are now coeducational. </s>
+utterance_id_448 <s> Rich looked for spotted hyenas and jaguars on the safari. </s>
+utterance_id_449 <s> Why else would Danny allow others to go? </s>
+utterance_id_450 <s> Did you buy any corduroy overalls? </s>
+utterance_id_451 <s> Would a tomboy often play outdoors. </s>
+utterance_id_452 <s> They often go out in the evening. </s>
+utterance_id_453 <s> Who authorized the unlimited expense account? </s>
+utterance_id_454 <s> Serve the coleslaw after i add the oil. </s>
+utterance_id_455 <s> Withdraw all phony accusations at once. </s>
+utterance_id_456 <s> Straw hats are out of fashion this year. </s>
+utterance_id_457 <s> Why buy oil when you always use mine? </s>
+utterance_id_458 <s> How do oysters make pearls? </s>
+utterance_id_459 <s> Draw each graph on a new axis. </s>
+utterance_id_460 <s> Norwegian sweaters are made of lamb's wool. </s>
+utterance_id_461 <s> Ralph controlled the stopwatch from the bleachers. </s>
+utterance_id_462 <s> Approach your interview with statuesque composure. </s>
+utterance_id_463 <s> How much allowance do you get? </s>
+utterance_id_464 <s> The causeway ended abruptly at the shore. </s>
+utterance_id_465 <s> Military personnel are expected to obey government orders. </s>
+utterance_id_466 <s> When peeling an orange it is hard not to spray juice. </s>
+utterance_id_467 <s> Rob sat by the pond and sketched the stray geese. </s>
+utterance_id_468 <s> Only the best players enjoy popularity. </s>
+utterance_id_469 <s> I gave them several choices and let them set the priorities. </s>
+utterance_id_470 <s> The news agency hired a great journalist. </s>
+utterance_id_471 <s> The morning dew on the spider web glistened in the sun. </s>
+utterance_id_472 <s> The small boy put the worm on the hook. </s>
+utterance_id_473 <s> How permanent are their records? </s>
+utterance_id_474 <s> Try to recall the events in chronological order. </s>
+utterance_id_475 <s> The most recent geological survey found seismic activity. </s>
+utterance_id_476 <s> Put the butcher block table in the garage. </s>
+utterance_id_477 <s> How good is your endurance? </s>
+utterance_id_478 <s> Keep the thermometer under your tongue. </s>
+utterance_id_479 <s> It's healthier to cook without sugar. </s>
+utterance_id_480 <s> The viewpoint overlooked the ocean. </s>
+utterance_id_481 <s> Are you looking for employment. </s>
+utterance_id_482 <s> His failure to open the store by eight cost him his job. </s>
+utterance_id_483 <s> The paper boy bought two apples and three ices. </s>
+utterance_id_484 <s> I itemize all accounts in my agency. </s>
+utterance_id_485 <s> The courier was a dwarf. </s>
+utterance_id_486 <s> Puree some fruit before preparing the skewers. </s>
+utterance_id_487 <s> It's not easy to create illuminating examples. </s>
+utterance_id_488 <s> The hallway opens into a huge chamber. </s>
+utterance_id_489 <s> They all agree that the essay is barely intelligible. </s>
+utterance_id_490 <s> The cigarettes in the clay ashtray overflowed onto the oak table. </s>
+utterance_id_491 <s> Reading in poor light gives you eyestrain. </s>
+utterance_id_492 <s> I ate every oyster on Nora's plate. </s>
+utterance_id_493 <s> The boston ballet overcame their funding shortage. </s>
+utterance_id_494 <s> Do they allow atheists in church? </s>
+utterance_id_495 <s> My ideal morning begins with hot coffee. </s>
+utterance_id_496 <s> The irate actor stomped away idiotically. </s>
+utterance_id_497 <s> The essay undeniably reflects our view ably. </s>
+utterance_id_498 <s> Remember to allow identical twins to enter freely. </s>
+utterance_id_499 <s> Do you have the yellow ointment ready? </s>
+utterance_id_500 <s> Can the agency overthrow alien forces. </s>
+utterance_id_501 <s> We saw eight tiny icicles below our roof. </s>
+utterance_id_502 <s> The saw is broken so chop the wood instead. </s>
+utterance_id_503 <s> Draw every outer line first then fill in the interior. </s>
+utterance_id_504 <s> Do atypical farmers grow oats? </s>
+utterance_id_505 <s> Are holiday aprons available to us. </s>
+utterance_id_506 <s> Be careful not to plow over the flower beds. </s>
+utterance_id_507 <s> Allow each child to have an ice pop. </s>
+utterance_id_508 <s> Cliff was soothed by the luxurious massage. </s>
+utterance_id_509 <s> Steve wore a bright red cashmere sweater. </s>
+utterance_id_510 <s> John's brother repainted the garage door. </s>
+utterance_id_511 <s> The rose corsage smelled sweet. </s>
+utterance_id_512 <s> The oasis was a mirage. </s>
+utterance_id_513 <s> Cory and trish played tag with beach balls for hours. </s>
+utterance_id_514 <s> The tooth fairy forgot to come when Roger's tooth fell out. </s>
+utterance_id_515 <s> Rich purchased several signed lithographs. </s>
+utterance_id_516 <s> In every major cloverleaf traffic sometimes gets backed up. </s>
+utterance_id_517 <s> In the long run it pays to buy quality clothing. </s>
+utterance_id_518 <s> Brush fires are common in the dry underbrush of Nevada. </s>
+utterance_id_519 <s> This brochure is particularly informative for a prospective buyer. </s>
+utterance_id_520 <s> The avalanche triggered a minor earthquake. </s>
+utterance_id_521 <s> Please take this dirty table cloth to the cleaners for me. </s>
+utterance_id_522 <s> If Carol comes tomorrow have her arrange for a meeting at two. </s>
+utterance_id_523 <s> The two artists exchanged autographs. </s>
+utterance_id_524 <s> I'd rather not buy these shoes than be overcharged. </s>
+utterance_id_525 <s> Shaving cream is a popular item on Halloween. </s>
+utterance_id_526 <s> Tofu is made from processed soybeans. </s>
+utterance_id_527 <s> The bluejay flew over the high building. </s>
+utterance_id_528 <s> Cheap stockings run the first time they're worn. </s>
+utterance_id_529 <s> Cottage cheese with chives is delicious. </s>
+utterance_id_530 <s> Shipbuilding is a most fascinating process. </s>
+utterance_id_531 <s> The proof that you are seeking is not available in books. </s>
+utterance_id_532 <s> The hood of the jeep was steaming in the hot sun. </s>
+utterance_id_533 <s> Those answers will be straightforward if you think them through carefully first. </s>
+utterance_id_534 <s> Drop five forms in the box before you go out. </s>
+utterance_id_535 <s> If people were more generous there would be no need for welfare. </s>
+utterance_id_536 <s> Bob found more clams at the ocean's edge. </s>
+utterance_id_537 <s> The cranberry bog gets very pretty in autumn. </s>
+utterance_id_538 <s> A big goat idly ambled through the farmyard. </s>
+utterance_id_539 <s> The groundhog clearly saw his shadow but stayed out only a moment. </s>
+utterance_id_540 <s> The fog prevented them from arriving on time. </s>
+utterance_id_541 <s> The local drugstore was charged with illegally dispensing tranquilizers. </s>
+utterance_id_542 <s> The full moon shone brightly that night. </s>
+utterance_id_543 <s> Steve collects rare and novel coins. </s>
+utterance_id_544 <s> Gregory and Tom chose to watch cartoons in the afternoon. </s>
+utterance_id_545 <s> Chip postponed alimony payments until the latest possible date. </s>
+utterance_id_546 <s> Count the number of teaspoons of soysauce that you add. </s>
+utterance_id_547 <s> The big dog loved to chew on the old rag doll. </s>
+utterance_id_548 <s> Often you'll get back more than you put in. </s>
+utterance_id_549 <s> Gus saw pine trees and redwoods on his walk through Sequoia National Forest. </s>
+utterance_id_550 <s> Bob bandaged both wounds with the skill of a doctor. </s>
+utterance_id_551 <s> Did Shawn catch that big goose without help? </s>
+utterance_id_552 <s> Ducks have webbed feet and colorful feathers. </s>
+utterance_id_553 <s> The high security prison was surrounded by barbed wire. </s>
+utterance_id_554 <s> Take charge of choosing her bride's maids' gowns. </s>
+utterance_id_555 <s> I know I didn't meet her early enough. </s>
+utterance_id_556 <s> The barracuda recoiled from the serpent's poisonous fangs. </s>
+utterance_id_557 <s> I'll have a scoop of that exotic purple and turquoise sherbet. </s>
+utterance_id_558 <s> Many wealthy tycoons splurged and bought both a yacht and a schooner. </s>
+utterance_id_559 <s> The new suburbanites worked hard on refurbishing their older home. </s>
+utterance_id_560 <s> According to my interpretation of the problem, two lines must be perpendicular. </s>
+utterance_id_561 <s> A connoisseur will enjoy this shellfish dish. </s>
+utterance_id_562 <s> Dolphins are intelligent marine mammals. </s>
+utterance_id_563 <s> Diane may splurge and buy a turquoise necklace. </s>
+utterance_id_564 <s> The moisture in my eyes is from eyedrops, not from tears. </s>
+utterance_id_565 <s> George seldom watches daytime movies. </s>
+utterance_id_566 <s> The annoying raccoons slipped into Phil's garden every night. </s>
+utterance_id_567 <s> The cow wandered from the farmland and became lost. </s>
+utterance_id_568 <s> Each untimely income loss coincided with the breakdown of a heating system part. </s>
+utterance_id_569 <s> Will you please confirm government policy regarding waste removal. </s>
+utterance_id_570 <s> The surplus shoes were sold at a discount price. </s>
+utterance_id_571 <s> Lori's costume needed black gloves to be completely elegant. </s>
+utterance_id_572 <s> Bob papered over the living room murals. </s>
+utterance_id_573 <s> Right now may not be the best time for business mergers. </s>
+utterance_id_574 <s> That diagram makes sense only after much study. </s>
+utterance_id_575 <s> John cleans shellfish for a living. </s>
+utterance_id_576 <s> She always jokes about too much garlic in his food. </s>
+utterance_id_577 <s> I just saw Jim near the new archeological museum. </s>
+utterance_id_578 <s> Pam gives driving lessons on Thursdays. </s>
+utterance_id_579 <s> Why charge money for such garbage? </s>
+utterance_id_580 <s> George is paranoid about a future gas shortage. </s>
+utterance_id_581 <s> The carpet cleaners shampooed our oriental rug. </s>
+utterance_id_582 <s> Please shorten this skirt for Joyce. </s>
+utterance_id_583 <s> His shoulder felt as if it were broken. </s>
+utterance_id_584 <s> Her right hand aches whenever the barometric pressure changes. </s>
+utterance_id_585 <s> They own a big house in the remote countryside. </s>
+utterance_id_586 <s> He picked up nine pairs of socks for each brother. </s>
+utterance_id_587 <s> A young mouse scampered across the field and disappeared. </s>
+utterance_id_588 <s> She uses both names interchangeably. </s>
+utterance_id_589 <s> Calcium makes bones and teeth strong. </s>
+utterance_id_590 <s> The fish began to leap frantically on the surface of the small lake. </s>
+utterance_id_591 <s> They assume no burglar will ever enter here. </s>
+utterance_id_592 <s> Just drop notices in any suggestion box. </s>
+utterance_id_593 <s> We'll serve rhubarb pie after Rachel's talk. </s>
+utterance_id_594 <s> Barb burned paper and leaves in a big bonfire. </s>
+utterance_id_595 <s> Of course you can have another tunafish sandwich. </s>
+utterance_id_596 <s> There was a gigantic wasp next to Irving's big top hat. </s>
+utterance_id_597 <s> Laugh, dance and sing, if fortune smiles upon you. </s>
+utterance_id_598 <s> Eating spinach nightly increases strength miraculously. </s>
+utterance_id_599 <s> Butterscotch fudge goes well with vanilla ice cream. </s>
+utterance_id_600 <s> Daphne's Swedish needlepoint scarf matched her skirt. </s>
+utterance_id_601 <s> Irish youngsters eat fresh kippers for breakfast. </s>
+utterance_id_602 <s> Valley lodge yearly celebrates the first calf born. </s>
+utterance_id_603 <s> Iris thinks this zoo has eleven Spanish zebras. </s>
+utterance_id_604 <s> Those who teach values first abolish cheating. </s>
+utterance_id_605 <s> Smash lightbulbs and their cash value will diminish to nothing. </s>
+utterance_id_606 <s> Top zinnias rarely have crooked stems. </s>
+utterance_id_607 <s> Movies never have enough villains. </s>
+utterance_id_608 <s> Every cab needs repainting often. </s>
+utterance_id_609 <s> A toothpaste tube should be squeezed from the bottom. </s>
+utterance_id_610 <s> Those who are not purists use canned vegetables when making stew. </s>
+utterance_id_611 <s> The overweight charmer could slip poison into anyone's tea. </s>
+utterance_id_612 <s> The rich should invest in black zircons instead of stylish shoes. </s>
+utterance_id_613 <s> Please sing just the club theme. </s>
+utterance_id_614 <s> They used an aggressive policeman to flag thoughtless motorists. </s>
+utterance_id_615 <s> Shell shock caused by shrapnel is sometimes cured through group therapy. </s>
+utterance_id_616 <s> Suburban housewives often suffer from the gab habit. </s>
+utterance_id_617 <s> A lone star shone in the early evening sky. </s>
+utterance_id_618 <s> The toddler found a clamshell near the camp site. </s>
+utterance_id_619 <s> What is this large thing by the ironing board? </s>
+utterance_id_620 <s> Spherical gifts are difficult to wrap. </s>
+utterance_id_621 <s> Ralph prepared red snapper with fresh lemon sauce for dinner. </s>
+utterance_id_622 <s> Roy ignored the spurious data points in drawing the graph. </s>
+utterance_id_623 <s> In developing film many toxic chemicals are used. </s>
+utterance_id_624 <s> Is this seesaw safe. </s>
+utterance_id_625 <s> Those thieves stole thirty jewels. </s>
+utterance_id_626 <s> Aluminium cutlery can often be flimsy. </s>
+utterance_id_627 <s> Most young rabbits rise early every morning. </s>
+utterance_id_628 <s> Beg that guard for one gallon of petrol. </s>
+utterance_id_629 <s> Tina turner is a pop singer. </s>
+utterance_id_630 <s> Mum strongly dislikes appetizers. </s>
+utterance_id_631 <s> Her classical repertoire gained critical acclaim. </s>
+utterance_id_632 <s> Did you eat lunch yesterday? </s>
+utterance_id_633 <s> It's illegal to postdate a cheque. </s>
+utterance_id_634 <s> Youngsters love corn candy as a treat. </s>
+utterance_id_635 <s> Glucose and fructose are natural sugars found in fruit. </s>
+utterance_id_636 <s> Few people live to be a hundred. </s>
+utterance_id_637 <s> Tradition requires parental approval for underage marriage. </s>
+utterance_id_638 <s> The haunted house was a hit due to outstanding audiovisual effects. </s>
+utterance_id_639 <s> They all enjoy ice cream sundaes. </s>
+utterance_id_640 <s> Jeff's toy gocart never worked. </s>
+utterance_id_641 <s> Allow leeway here. </s>
+utterance_id_642 <s> I honour my mum. </s>
+utterance_id_643 <s> Rationalize all errors. </s>
+utterance_id_644 <s> May I order a parfait after i eat dinner. </s>
+utterance_id_645 <s> Does Hindu ideology honour cows? </s>
+utterance_id_646 <s> We apply auditory modelling to computer speech recognition. </s>
+utterance_id_647 <s> Jeff thought you argued in favour of a centrifuge purchase. </s>
+utterance_id_648 <s> We like blue cheese but Victor likes brie. </s>
+utterance_id_649 <s> Please dig my potatoes up before the frost. </s>
+utterance_id_650 <s> Rob made hungarian goulash for dinner and gooseberry pie for desert. </s>
+utterance_id_651 <s> Trish saw hours and hours of movies this Saturday. </s>
+utterance_id_652 <s> Gremlins is yet another exciting movie by Steven Spielberg. </s>
+utterance_id_653 <s> Growing well-kept gardens is very time consuming. </s>
+utterance_id_654 <s> Is she going with you. </s>
+utterance_id_655 <s> I took her word for it. </s>
+utterance_id_656 <s> Gwen grows green beans in her vegetable garden. </s>
+utterance_id_657 <s> The football team coach has a watch as thin as a dime. </s>
+utterance_id_658 <s> Seamstresses attach zips with a thimble needle and thread. </s>
+utterance_id_659 <s> Coffee is grown on steep junglelike slopes in temperate zones. </s>
+utterance_id_660 <s> That stinging vapour was caused by chloride vaporization. </s>
+utterance_id_661 <s> Don't look for cheap valuables in a bank vault. </s>
+utterance_id_662 <s> Which theatre shows Mother Goose? </s>
+utterance_id_663 <s> She is thinner than I am. </s>
+utterance_id_664 <s> Bright sunshine shimmers on the ocean. </s>
+utterance_id_665 <s> Nothing is as offensive as innocence. </s>
+utterance_id_666 <s> Where were you while we were away? </s>
+utterance_id_667 <s> Are your grades higher or lower than Nancy's. </s>
+utterance_id_668 <s> He will allow a rare lie. </s>
+utterance_id_669 <s> Will robin wear a yellow lily. </s>
+utterance_id_670 <s> Before Thursday's exam review every formula. </s>
+utterance_id_671 <s> The museum hires musicians every evening. </s>
+utterance_id_672 <s> Carl lives in a lively home. </s>
+utterance_id_673 <s> She wore warm fleecy woolen overalls. </s>
+utterance_id_674 <s> Alfalfa is healthy for you. </s>
+utterance_id_675 <s> When all else fails use force. </s>
+utterance_id_676 <s> Although always alone we survive. </s>
+utterance_id_677 <s> Did dad do academic bidding? </s>
+utterance_id_678 <s> Help greg to pick a peck of potatoes. </s>
+utterance_id_679 <s> A good attitude is unbeatable. </s>
+utterance_id_680 <s> Coconut cream pie makes a nice dessert. </s>
+utterance_id_681 <s> Only the most accomplished artists obtain popularity. </s>
+utterance_id_682 <s> Critical equipment needs proper maintenance. </s>
+utterance_id_683 <s> Young people participate in athletic activities. </s>
+utterance_id_684 <s> Stimulating discussions keep students' attention. </s>
+utterance_id_685 <s> Etiquette mandates compliance with existing regulations. </s>
+utterance_id_686 <s> Biblical scholars argue history. </s>
+utterance_id_687 <s> Elderly people are often excluded. </s>
+utterance_id_688 <s> Addition and subtraction are learned skills. </s>
+utterance_id_689 <s> Grandmother outgrew her upbringing in petticoats. </s>
+utterance_id_690 <s> Catastrophic economic cutbacks neglect the poor. </s>
+utterance_id_691 <s> Even a simple vocabulary contains symbols. </s>
+utterance_id_692 <s> The eastern coast is a place for pure pleasure and excitement. </s>
+utterance_id_693 <s> The lack of heat compounded the tenant's grievances. </s>
+utterance_id_694 <s> Academic aptitude guarantees your diploma. </s>
+utterance_id_695 <s> We experience distress and frustration obtaining our degrees. </s>
+utterance_id_696 <s> The singer's finger had a splinter. </s>
+utterance_id_697 <s> The legislature met to judge the state of public education. </s>
+utterance_id_698 <s> Chocolate and roses never fail as a romantic gift. </s>
+utterance_id_699 <s> Regular attendance is seldom required. </s>
+utterance_id_700 <s> Challenge each general's intelligence. </s>
+utterance_id_701 <s> We got drenched from the uninterrupted rain. </s>
+utterance_id_702 <s> Upgrade your status to reflect your wealth. </s>
+utterance_id_703 <s> Eat your raisins outdoors on the porch steps. </s>
+utterance_id_704 <s> Porcupines resemble sea urchins. </s>
+utterance_id_705 <s> Spring street is straight ahead. </s>
+utterance_id_706 <s> An official deadline cannot be postponed. </s>
+utterance_id_707 <s> Fill that canteen with fresh spring water. </s>
+utterance_id_708 <s> Bagpipes and bongos are musical instruments. </s>
+utterance_id_709 <s> Will you please describe the idiotic predicament. </s>
+utterance_id_710 <s> It's impossible to deal with bureaucracy. </s>
+utterance_id_711 <s> Good service should be rewarded by big tips. </s>
+utterance_id_712 <s> My instructions desperately need updating. </s>
+utterance_id_713 <s> Cement is measured in cubic yards. </s>
+utterance_id_714 <s> Primitive tribes have an upbeat attitude. </s>
+utterance_id_715 <s> Flying standby can be practical if you want to save money. </s>
+utterance_id_716 <s> It's hard to tell an original from a forgery. </s>
+utterance_id_717 <s> A large household needs lots of appliances. </s>
+utterance_id_718 <s> Cut a small corner off each edge. </s>
+utterance_id_719 <s> Iguanas and alligators are tropical reptiles. </s>
+utterance_id_720 <s> Penguins live near the icy antarctic. </s>
+utterance_id_721 <s> Guess the question from the answer. </s>
+utterance_id_722 <s> Medieval society was based on hierarchies. </s>
+utterance_id_723 <s> Project development was proceeding too slowly. </s>
+utterance_id_724 <s> Special task forces rescue hostages from kidnappers. </s>
+utterance_id_725 <s> Call an ambulance for medical assistance. </s>
+utterance_id_726 <s> You must explicitly delete files. </s>
+utterance_id_727 <s> Birthday parties have cupcakes and ice cream. </s>
+utterance_id_728 <s> His scalp was blistered from today's hot sun. </s>
+utterance_id_729 <s> She slipped and sprained her ankle on the steep slope. </s>
+utterance_id_730 <s> The best way to learn is to solve extra problems. </s>
+utterance_id_731 <s> Tugboats are capable of hauling huge loads. </s>
+utterance_id_732 <s> A muscular abdomen is good for your back. </s>
+utterance_id_733 <s> The cartoon features a muskrat and a tadpole. </s>
+utterance_id_734 <s> The emblem depicts the acropolis all aglow. </s>
+utterance_id_735 <s> Combine all the ingredients in a large bowl. </s>
+utterance_id_736 <s> The misquote was retracted with an apology. </s>
+utterance_id_737 <s> The coyote bobcat and hyena are wild animals. </s>
+utterance_id_738 <s> Encyclopedias seldom present anecdotal evidence. </s>
+utterance_id_739 <s> A screwdriver is made from vodka and orange juice. </s>
+utterance_id_740 <s> Objects made of pewter are beautiful. </s>
+utterance_id_741 <s> Westchester is a county in New York. </s>
+utterance_id_742 <s> The emperor had a mean temper. </s>
+utterance_id_743 <s> Lots of foreign movies have subtitles. </s>
+utterance_id_744 <s> He ate four extra eggs for breakfast. </s>
+utterance_id_745 <s> Publicity and notoriety go hand in hand. </s>
+utterance_id_746 <s> Pizzerias are convenient for a quick lunch. </s>
+utterance_id_747 <s> December and january are nice months to spend in Miami. </s>
+utterance_id_748 <s> Technical writers can abbreviate in bibliographies. </s>
+utterance_id_749 <s> The clumsy customer spilled some expensive perfume. </s>
+utterance_id_750 <s> The bungalow was pleasantly situated near the shore. </s>
+utterance_id_751 <s> Agricultural products are unevenly distributed. </s>
+utterance_id_752 <s> Pledge to participate in nevada's aquatic competition. </s>
+utterance_id_753 <s> The willowy woman wore a muskrat coat. </s>
+utterance_id_754 <s> Too much curiosity can get you into trouble. </s>
+utterance_id_755 <s> Cyclical programs will never compile. </s>
+utterance_id_756 <s> Most precincts had a third of the votes counted. </s>
+utterance_id_757 <s> While waiting for Chipper, she crisscrossed the square many times. </s>
+utterance_id_758 <s> Vietnamese cuisine is exquisite. </s>
+utterance_id_759 <s> The previous speaker presented ambiguous results. </s>
+utterance_id_760 <s> Scholastic aptitude is judged by standardized tests. </s>
+utterance_id_761 <s> Orange juice tastes funny after toothpaste. </s>
+utterance_id_762 <s> Our experiment's positive outcome was unexpected. </s>
+utterance_id_763 <s> The drunkard is a social outcast. </s>
+utterance_id_764 <s> The government sought authorization of his citizenship. </s>
+utterance_id_765 <s> As coauthors we presented our new book to the haughty audience. </s>
+utterance_id_766 <s> As a precaution the outlaws bought gunpowder for their stronghold. </s>
+utterance_id_767 <s> They remained lifelong friends and companions. </s>
+utterance_id_768 <s> Curiosity and mediocrity seldom coexist. </s>
+utterance_id_769 <s> Biologists use radioactive isotopes to study microorganisms. </s>
+utterance_id_770 <s> Employee layoffs coincided with the company's reorganization. </s>
+utterance_id_771 <s> The Mayan neoclassic scholar disappeared while surveying ancient ruins. </s>
+utterance_id_772 <s> The diagnosis was discouraging however he was not overly worried. </s>
+utterance_id_773 <s> The triumphant warrior exhibited naive heroism. </s>
+utterance_id_774 <s> Severe myopia contributed to ron's inferiority complex. </s>
+utterance_id_775 <s> Buying a thoroughbred horse requires intuition and expertise. </s>
+utterance_id_776 <s> Does creole cooking use curry? </s>
+utterance_id_777 <s> She encouraged her children to make their own halloween costumes. </s>
+utterance_id_778 <s> Almost all colleges are now coeducational. </s>
+utterance_id_779 <s> Rich looked for spotted hyenas and jaguars on the safari. </s>
+utterance_id_780 <s> Why else would Danny allow others to go? </s>
+utterance_id_781 <s> Did you buy any corduroy overalls? </s>
+utterance_id_782 <s> Would a tomboy often play outdoors. </s>
+utterance_id_783 <s> They often go out in the evening. </s>
+utterance_id_784 <s> Who authorized the unlimited expense account? </s>
+utterance_id_785 <s> Serve the coleslaw after i add the oil. </s>
+utterance_id_786 <s> Withdraw all phony accusations at once. </s>
+utterance_id_787 <s> Straw hats are out of fashion this year. </s>
+utterance_id_788 <s> Why buy oil when you always use mine? </s>
+utterance_id_789 <s> How do oysters make pearls? </s>
+utterance_id_790 <s> Draw each graph on a new axis. </s>
+utterance_id_791 <s> Norwegian sweaters are made of lamb's wool. </s>
+utterance_id_792 <s> Ralph controlled the stopwatch from the bleachers. </s>
+utterance_id_793 <s> Approach your interview with statuesque composure. </s>
+utterance_id_794 <s> How much allowance do you get? </s>
+utterance_id_795 <s> The causeway ended abruptly at the shore. </s>
+utterance_id_796 <s> Military personnel are expected to obey government orders. </s>
+utterance_id_797 <s> When peeling an orange it is hard not to spray juice. </s>
+utterance_id_798 <s> Rob sat by the pond and sketched the stray geese. </s>
+utterance_id_799 <s> Only the best players enjoy popularity. </s>
+utterance_id_800 <s> I gave them several choices and let them set the priorities. </s>
+utterance_id_801 <s> The news agency hired a great journalist. </s>
+utterance_id_802 <s> The morning dew on the spider web glistened in the sun. </s>
+utterance_id_803 <s> The small boy put the worm on the hook. </s>
+utterance_id_804 <s> How permanent are their records? </s>
+utterance_id_805 <s> Try to recall the events in chronological order. </s>
+utterance_id_806 <s> The most recent geological survey found seismic activity. </s>
+utterance_id_807 <s> Put the butcher block table in the garage. </s>
+utterance_id_808 <s> How good is your endurance? </s>
+utterance_id_809 <s> Keep the thermometer under your tongue. </s>
+utterance_id_810 <s> It's healthier to cook without sugar. </s>
+utterance_id_811 <s> The viewpoint overlooked the ocean. </s>
+utterance_id_812 <s> Are you looking for employment. </s>
+utterance_id_813 <s> His failure to open the store by eight cost him his job. </s>
+utterance_id_814 <s> The paper boy bought two apples and three ices. </s>
+utterance_id_815 <s> I itemize all accounts in my agency. </s>
+utterance_id_816 <s> The courier was a dwarf. </s>
+utterance_id_817 <s> Puree some fruit before preparing the skewers. </s>
+utterance_id_818 <s> It's not easy to create illuminating examples. </s>
+utterance_id_819 <s> The hallway opens into a huge chamber. </s>
+utterance_id_820 <s> They all agree that the essay is barely intelligible. </s>
+utterance_id_821 <s> The cigarettes in the clay ashtray overflowed onto the oak table. </s>
+utterance_id_822 <s> Reading in poor light gives you eyestrain. </s>
+utterance_id_823 <s> I ate every oyster on Nora's plate. </s>
+utterance_id_824 <s> The boston ballet overcame their funding shortage. </s>
+utterance_id_825 <s> Do they allow atheists in church? </s>
+utterance_id_826 <s> My ideal morning begins with hot coffee. </s>
+utterance_id_827 <s> The irate actor stomped away idiotically. </s>
+utterance_id_828 <s> We saw eight tiny icicles below our roof. </s>
+utterance_id_829 <s> The saw is broken so chop the wood instead. </s>
+utterance_id_830 <s> Withdraw only as much money as you need. </s>
+utterance_id_831 <s> Draw every outer line first then fill in the interior. </s>
+utterance_id_832 <s> Do atypical farmers grow oats? </s>
+utterance_id_833 <s> Are holiday aprons available to us. </s>
+utterance_id_834 <s> Allow each child to have an ice pop. </s>
+utterance_id_835 <s> Cliff was soothed by the luxurious massage. </s>
+utterance_id_836 <s> Steve wore a bright red cashmere sweater. </s>
+utterance_id_837 <s> John's brother repainted the garage door. </s>
+utterance_id_838 <s> The rose corsage smelled sweet. </s>
+utterance_id_839 <s> Alice's ability to work without supervision is noteworthy. </s>
+utterance_id_840 <s> The oasis was a mirage. </s>
+utterance_id_841 <s> Cory and trish played tag with beach balls for hours. </s>
+utterance_id_842 <s> The tooth fairy forgot to come when Roger's tooth fell out. </s>
+utterance_id_843 <s> In every major cloverleaf traffic sometimes gets backed up. </s>
+utterance_id_844 <s> In the long run it pays to buy quality clothing. </s>
+utterance_id_845 <s> Brush fires are common in the dry underbrush of Nevada. </s>
+utterance_id_846 <s> This brochure is particularly informative for a prospective buyer. </s>
+utterance_id_847 <s> The avalanche triggered a minor earthquake. </s>
+utterance_id_848 <s> These exclusive documents must be locked up at all times. </s>
+utterance_id_849 <s> Please take this dirty table cloth to the cleaners for me. </s>
+utterance_id_850 <s> If Carol comes tomorrow have her arrange for a meeting at two. </s>
+utterance_id_851 <s> The two artists exchanged autographs. </s>
+utterance_id_852 <s> Shaving cream is a popular item on Halloween. </s>
+utterance_id_853 <s> Tofu is made from processed soybeans. </s>
+utterance_id_854 <s> The bluejay flew over the high building. </s>
+utterance_id_855 <s> Cheap stockings run the first time they're worn. </s>
+utterance_id_856 <s> Cottage cheese with chives is delicious. </s>
+utterance_id_857 <s> The meeting is now adjourned. </s>
+utterance_id_858 <s> Shipbuilding is a most fascinating process. </s>
+utterance_id_859 <s> The proof that you are seeking is not available in books. </s>
+utterance_id_860 <s> The hood of the jeep was steaming in the hot sun. </s>
+utterance_id_861 <s> Drop five forms in the box before you go out. </s>
+utterance_id_862 <s> If people were more generous there would be no need for welfare. </s>
+utterance_id_863 <s> Bob found more clams at the ocean's edge. </s>
+utterance_id_864 <s> The cranberry bog gets very pretty in autumn. </s>
+utterance_id_865 <s> A big goat idly ambled through the farmyard. </s>
+utterance_id_866 <s> The nearest synagogue may not be within walking distance. </s>
+utterance_id_867 <s> The groundhog clearly saw his shadow but stayed out only a moment. </s>
+utterance_id_868 <s> The fog prevented them from arriving on time. </s>
+utterance_id_869 <s> The local drugstore was charged with illegally dispensing tranquilizers. </s>
+utterance_id_870 <s> Steve collects rare and novel coins. </s>
+utterance_id_871 <s> Gregory and Tom chose to watch cartoons in the afternoon. </s>
+utterance_id_872 <s> Chip postponed alimony payments until the latest possible date. </s>
+utterance_id_873 <s> Count the number of teaspoons of soysauce that you add. </s>
+utterance_id_874 <s> The big dog loved to chew on the old rag doll. </s>
+utterance_id_875 <s> An adult male baboon's teeth are not suitable for eating shellfish. </s>
+utterance_id_876 <s> Often you'll get back more than you put in. </s>
+utterance_id_877 <s> Gus saw pine trees and redwoods on his walk through Sequoia National Forest. </s>
+utterance_id_878 <s> Bob bandaged both wounds with the skill of a doctor. </s>
+utterance_id_879 <s> Ducks have webbed feet and colorful feathers. </s>
+utterance_id_880 <s> The high security prison was surrounded by barbed wire. </s>
+utterance_id_881 <s> Take charge of choosing her bride's maids' gowns. </s>
+utterance_id_882 <s> I know I didn't meet her early enough. </s>
+utterance_id_883 <s> The barracuda recoiled from the serpent's poisonous fangs. </s>
+utterance_id_884 <s> The patient and the surgeon are both recuperating from the lengthy operation. </s>
+utterance_id_885 <s> I'll have a scoop of that exotic purple and turquoise sherbet. </s>
+utterance_id_886 <s> Many wealthy tycoons splurged and bought both a yacht and a schooner. </s>
+utterance_id_887 <s> The new suburbanites worked hard on refurbishing their older home. </s>
+utterance_id_888 <s> A connoisseur will enjoy this shellfish dish. </s>
+utterance_id_889 <s> Dolphins are intelligent marine mammals. </s>
+utterance_id_890 <s> Diane may splurge and buy a turquoise necklace. </s>
+utterance_id_891 <s> The moisture in my eyes is from eyedrops, not from tears. </s>
+utterance_id_892 <s> George seldom watches daytime movies. </s>
+utterance_id_893 <s> I assume moisture will damage this ship's hull. </s>
+utterance_id_894 <s> The annoying raccoons slipped into Phil's garden every night. </s>
+utterance_id_895 <s> The cow wandered from the farmland and became lost. </s>
+utterance_id_896 <s> Each untimely income loss coincided with the breakdown of a heating system part. </s>
+utterance_id_897 <s> The surplus shoes were sold at a discount price. </s>
+utterance_id_898 <s> Lori's costume needed black gloves to be completely elegant. </s>
+utterance_id_899 <s> Bob papered over the living room murals. </s>
+utterance_id_900 <s> Right now may not be the best time for business mergers. </s>
+utterance_id_901 <s> That diagram makes sense only after much study. </s>
+utterance_id_902 <s> A boring novel is a superb sleeping pill. </s>
+utterance_id_903 <s> John cleans shellfish for a living. </s>
+utterance_id_904 <s> She always jokes about too much garlic in his food. </s>
+utterance_id_905 <s> I just saw Jim near the new archeological museum. </s>
+utterance_id_906 <s> Why charge money for such garbage? </s>
+utterance_id_907 <s> George is paranoid about a future gas shortage. </s>
+utterance_id_908 <s> The carpet cleaners shampooed our oriental rug. </s>
+utterance_id_909 <s> Please shorten this skirt for Joyce. </s>
+utterance_id_910 <s> His shoulder felt as if it were broken. </s>
+utterance_id_911 <s> The giant redwoods shimmered in the glistening sun. </s>
+utterance_id_912 <s> Her right hand aches whenever the barometric pressure changes. </s>
+utterance_id_913 <s> They own a big house in the remote countryside. </s>
+utterance_id_914 <s> He picked up nine pairs of socks for each brother. </s>
+utterance_id_915 <s> She uses both names interchangeably. </s>
+utterance_id_916 <s> Calcium makes bones and teeth strong. </s>
+utterance_id_917 <s> The fish began to leap frantically on the surface of the small lake. </s>
+utterance_id_918 <s> They assume no burglar will ever enter here. </s>
+utterance_id_919 <s> Just drop notices in any suggestion box. </s>
+utterance_id_920 <s> The taxicab broke down and caused a traffic jam. </s>
+utterance_id_921 <s> We'll serve rhubarb pie after Rachel's talk. </s>
+utterance_id_922 <s> Barb burned paper and leaves in a big bonfire. </s>
+utterance_id_923 <s> Of course you can have another tunafish sandwich. </s>
+utterance_id_924 <s> Laugh, dance and sing, if fortune smiles upon you. </s>
+utterance_id_925 <s> Eating spinach nightly increases strength miraculously. </s>
+utterance_id_926 <s> Butterscotch fudge goes well with vanilla ice cream. </s>
+utterance_id_927 <s> Daphne's Swedish needlepoint scarf matched her skirt. </s>
+utterance_id_928 <s> Irish youngsters eat fresh kippers for breakfast. </s>
+utterance_id_929 <s> A huge power outage rarely occurs. </s>
+utterance_id_930 <s> Valley lodge yearly celebrates the first calf born. </s>
+utterance_id_931 <s> Iris thinks this zoo has eleven Spanish zebras. </s>
+utterance_id_932 <s> Those who teach values first abolish cheating. </s>
+utterance_id_933 <s> Top zinnias rarely have crooked stems. </s>
+utterance_id_934 <s> Movies never have enough villains. </s>
+utterance_id_935 <s> Every cab needs repainting often. </s>
+utterance_id_936 <s> A toothpaste tube should be squeezed from the bottom. </s>
+utterance_id_937 <s> Those who are not purists use canned vegetables when making stew. </s>
+utterance_id_938 <s> The fifth jar contains big juicy peaches. </s>
+utterance_id_939 <s> The overweight charmer could slip poison into anyone's tea. </s>
+utterance_id_940 <s> The rich should invest in black zircons instead of stylish shoes. </s>
+utterance_id_941 <s> Please sing just the club theme. </s>
+utterance_id_942 <s> Shell shock caused by shrapnel is sometimes cured through group therapy. </s>
+utterance_id_943 <s> Suburban housewives often suffer from the gab habit. </s>
+utterance_id_944 <s> A lone star shone in the early evening sky. </s>
+utterance_id_945 <s> The toddler found a clamshell near the camp site. </s>
+utterance_id_946 <s> What is this large thing by the ironing board? </s>
+utterance_id_947 <s> First add milk to the shredded cheese. </s>
+utterance_id_948 <s> Spherical gifts are difficult to wrap. </s>
+utterance_id_949 <s> Ralph prepared red snapper with fresh lemon sauce for dinner. </s>
+utterance_id_950 <s> Roy ignored the spurious data points in drawing the graph. </s>
+utterance_id_951 <s> Is this seesaw safe. </s>
+utterance_id_952 <s> Those thieves stole thirty jewels. </s>
+utterance_id_953 <s> Aluminium cutlery can often be flimsy. </s>
+utterance_id_954 <s> Most young rabbits rise early every morning. </s>
+utterance_id_955 <s> Beg that guard for one gallon of petrol. </s>
+utterance_id_956 <s> Get a calico cat to keep the rodents away. </s>
+utterance_id_957 <s> Tina turner is a pop singer. </s>
+utterance_id_958 <s> Mum strongly dislikes appetizers. </s>
+utterance_id_959 <s> Her classical repertoire gained critical acclaim. </s>
+utterance_id_960 <s> It's illegal to postdate a cheque. </s>
+utterance_id_961 <s> Youngsters love corn candy as a treat. </s>
+utterance_id_962 <s> Glucose and fructose are natural sugars found in fruit. </s>
+utterance_id_963 <s> Few people live to be a hundred. </s>
+utterance_id_964 <s> Tradition requires parental approval for underage marriage. </s>
+utterance_id_965 <s> The altruistic dowager helped many malnourished vagrants. </s>
+utterance_id_966 <s> The haunted house was a hit due to outstanding audiovisual effects. </s>
+utterance_id_967 <s> They all enjoy ice cream sundaes. </s>
+utterance_id_968 <s> Jeff's toy gocart never worked. </s>
+utterance_id_969 <s> I honour my mum. </s>
+utterance_id_970 <s> Rationalize all errors. </s>
+utterance_id_971 <s> May I order a parfait after i eat dinner. </s>
+utterance_id_972 <s> Does Hindu ideology honour cows? </s>
+utterance_id_973 <s> We apply auditory modelling to computer speech recognition. </s>
+utterance_id_974 <s> Tornados often destroy aviaries. </s>
+utterance_id_975 <s> Jeff thought you argued in favour of a centrifuge purchase. </s>
+utterance_id_976 <s> We like blue cheese but Victor likes brie. </s>
+utterance_id_977 <s> Please dig my potatoes up before the frost. </s>
+utterance_id_978 <s> Trish saw hours and hours of movies this Saturday. </s>
+utterance_id_979 <s> Gremlins is yet another exciting movie by Steven Spielberg. </s>
+utterance_id_980 <s> Growing well-kept gardens is very time consuming. </s>
+utterance_id_981 <s> Is she going with you. </s>
+utterance_id_982 <s> I took her word for it. </s>
+utterance_id_983 <s> People drink much water with horseradish relish. </s>
+utterance_id_984 <s> Gwen grows green beans in her vegetable garden. </s>
+utterance_id_985 <s> The football team coach has a watch as thin as a dime. </s>
+utterance_id_986 <s> Seamstresses attach zips with a thimble needle and thread. </s>
+utterance_id_987 <s> That stinging vapour was caused by chloride vaporization. </s>
+utterance_id_988 <s> Don't look for cheap valuables in a bank vault. </s>
+utterance_id_989 <s> Which theatre shows Mother Goose? </s>
+utterance_id_990 <s> She is thinner than I am. </s>
+utterance_id_991 <s> Bright sunshine shimmers on the ocean. </s>
+utterance_id_992 <s> Nothing is as offensive as innocence. </s>
+utterance_id_993 <s> Where were you while we were away? </s>
+utterance_id_994 <s> Are your grades higher or lower than Nancy's. </s>
+utterance_id_995 <s> He will allow a rare lie. </s>
+utterance_id_996 <s> Will robin wear a yellow lily. </s>
+utterance_id_997 <s> Before Thursday's exam review every formula. </s>
+utterance_id_998 <s> The museum hires musicians every evening. </s>
+utterance_id_999 <s> Carl lives in a lively home. </s>
+utterance_id_1000 <s> She wore warm fleecy woolen overalls. </s>
+utterance_id_1001 <s> Alfalfa is healthy for you. </s>
+utterance_id_1002 <s> When all else fails use force. </s>
+utterance_id_1003 <s> Although always alone we survive. </s>
+utterance_id_1004 <s> Did dad do academic bidding? </s>
+utterance_id_1005 <s> Help greg to pick a peck of potatoes. </s>
+utterance_id_1006 <s> A good attitude is unbeatable. </s>
+utterance_id_1007 <s> Coconut cream pie makes a nice dessert. </s>
+utterance_id_1008 <s> Only the most accomplished artists obtain popularity. </s>
+utterance_id_1009 <s> Critical equipment needs proper maintenance. </s>
+utterance_id_1010 <s> Young people participate in athletic activities. </s>
+utterance_id_1011 <s> Stimulating discussions keep students' attention. </s>
+utterance_id_1012 <s> Etiquette mandates compliance with existing regulations. </s>
+utterance_id_1013 <s> Biblical scholars argue history. </s>
+utterance_id_1014 <s> Elderly people are often excluded. </s>
+utterance_id_1015 <s> Addition and subtraction are learned skills. </s>
+utterance_id_1016 <s> Grandmother outgrew her upbringing in petticoats. </s>
+utterance_id_1017 <s> Catastrophic economic cutbacks neglect the poor. </s>
+utterance_id_1018 <s> Even a simple vocabulary contains symbols. </s>
+utterance_id_1019 <s> The eastern coast is a place for pure pleasure and excitement. </s>
+utterance_id_1020 <s> The lack of heat compounded the tenant's grievances. </s>
+utterance_id_1021 <s> Academic aptitude guarantees your diploma. </s>
+utterance_id_1022 <s> We experience distress and frustration obtaining our degrees. </s>
+utterance_id_1023 <s> The singer's finger had a splinter. </s>
+utterance_id_1024 <s> The legislature met to judge the state of public education. </s>
+utterance_id_1025 <s> Chocolate and roses never fail as a romantic gift. </s>
+utterance_id_1026 <s> Regular attendance is seldom required. </s>
+utterance_id_1027 <s> Challenge each general's intelligence. </s>
+utterance_id_1028 <s> We got drenched from the uninterrupted rain. </s>
+utterance_id_1029 <s> Upgrade your status to reflect your wealth. </s>
+utterance_id_1030 <s> Eat your raisins outdoors on the porch steps. </s>
+utterance_id_1031 <s> Porcupines resemble sea urchins. </s>
+utterance_id_1032 <s> Spring street is straight ahead. </s>
+utterance_id_1033 <s> An official deadline cannot be postponed. </s>
+utterance_id_1034 <s> Fill that canteen with fresh spring water. </s>
+utterance_id_1035 <s> Bagpipes and bongos are musical instruments. </s>
+utterance_id_1036 <s> Will you please describe the idiotic predicament. </s>
+utterance_id_1037 <s> It's impossible to deal with bureaucracy. </s>
+utterance_id_1038 <s> Good service should be rewarded by big tips. </s>
+utterance_id_1039 <s> My instructions desperately need updating. </s>
+utterance_id_1040 <s> Cement is measured in cubic yards. </s>
+utterance_id_1041 <s> Primitive tribes have an upbeat attitude. </s>
+utterance_id_1042 <s> Flying standby can be practical if you want to save money. </s>
+utterance_id_1043 <s> It's hard to tell an original from a forgery. </s>
+utterance_id_1044 <s> A large household needs lots of appliances. </s>
+utterance_id_1045 <s> Cut a small corner off each edge. </s>
+utterance_id_1046 <s> Iguanas and alligators are tropical reptiles. </s>
+utterance_id_1047 <s> Penguins live near the icy antarctic. </s>
+utterance_id_1048 <s> Guess the question from the answer. </s>
+utterance_id_1049 <s> Medieval society was based on hierarchies. </s>
+utterance_id_1050 <s> Project development was proceeding too slowly. </s>
+utterance_id_1051 <s> Special task forces rescue hostages from kidnappers. </s>
+utterance_id_1052 <s> Call an ambulance for medical assistance. </s>
+utterance_id_1053 <s> You must explicitly delete files. </s>
+utterance_id_1054 <s> Birthday parties have cupcakes and ice cream. </s>
+utterance_id_1055 <s> His scalp was blistered from today's hot sun. </s>
+utterance_id_1056 <s> She slipped and sprained her ankle on the steep slope. </s>
+utterance_id_1057 <s> The best way to learn is to solve extra problems. </s>
+utterance_id_1058 <s> Tugboats are capable of hauling huge loads. </s>
+utterance_id_1059 <s> A muscular abdomen is good for your back. </s>
+utterance_id_1060 <s> The cartoon features a muskrat and a tadpole. </s>
+utterance_id_1061 <s> The emblem depicts the acropolis all aglow. </s>
+utterance_id_1062 <s> Combine all the ingredients in a large bowl. </s>
+utterance_id_1063 <s> The misquote was retracted with an apology. </s>
+utterance_id_1064 <s> The coyote bobcat and hyena are wild animals. </s>
+utterance_id_1065 <s> Encyclopedias seldom present anecdotal evidence. </s>
+utterance_id_1066 <s> A screwdriver is made from vodka and orange juice. </s>
+utterance_id_1067 <s> Objects made of pewter are beautiful. </s>
+utterance_id_1068 <s> Westchester is a county in New York. </s>
+utterance_id_1069 <s> The emperor had a mean temper. </s>
+utterance_id_1070 <s> Lots of foreign movies have subtitles. </s>
+utterance_id_1071 <s> He ate four extra eggs for breakfast. </s>
+utterance_id_1072 <s> Publicity and notoriety go hand in hand. </s>
+utterance_id_1073 <s> Pizzerias are convenient for a quick lunch. </s>
+utterance_id_1074 <s> December and january are nice months to spend in Miami. </s>
+utterance_id_1075 <s> Technical writers can abbreviate in bibliographies. </s>
+utterance_id_1076 <s> The clumsy customer spilled some expensive perfume. </s>
+utterance_id_1077 <s> The bungalow was pleasantly situated near the shore. </s>
+utterance_id_1078 <s> Agricultural products are unevenly distributed. </s>
+utterance_id_1079 <s> Pledge to participate in nevada's aquatic competition. </s>
+utterance_id_1080 <s> The willowy woman wore a muskrat coat. </s>
+utterance_id_1081 <s> Too much curiosity can get you into trouble. </s>
+utterance_id_1082 <s> Cyclical programs will never compile. </s>
+utterance_id_1083 <s> Most precincts had a third of the votes counted. </s>
+utterance_id_1084 <s> While waiting for Chipper, she crisscrossed the square many times. </s>
+utterance_id_1085 <s> Vietnamese cuisine is exquisite. </s>
+utterance_id_1086 <s> The previous speaker presented ambiguous results. </s>
+utterance_id_1087 <s> Scholastic aptitude is judged by standardized tests. </s>
+utterance_id_1088 <s> Orange juice tastes funny after toothpaste. </s>
+utterance_id_1089 <s> Our experiment's positive outcome was unexpected. </s>
+utterance_id_1090 <s> The drunkard is a social outcast. </s>
+utterance_id_1091 <s> The government sought authorization of his citizenship. </s>
+utterance_id_1092 <s> As coauthors we presented our new book to the haughty audience. </s>
+utterance_id_1093 <s> As a precaution the outlaws bought gunpowder for their stronghold. </s>
+utterance_id_1094 <s> They remained lifelong friends and companions. </s>
+utterance_id_1095 <s> Curiosity and mediocrity seldom coexist. </s>
+utterance_id_1096 <s> Biologists use radioactive isotopes to study microorganisms. </s>
+utterance_id_1097 <s> Employee layoffs coincided with the company's reorganization. </s>
+utterance_id_1098 <s> The Mayan neoclassic scholar disappeared while surveying ancient ruins. </s>
+utterance_id_1099 <s> The diagnosis was discouraging however he was not overly worried. </s>
+utterance_id_1100 <s> The triumphant warrior exhibited naive heroism. </s>
+utterance_id_1101 <s> Severe myopia contributed to ron's inferiority complex. </s>
+utterance_id_1102 <s> Buying a thoroughbred horse requires intuition and expertise. </s>
+utterance_id_1103 <s> Does creole cooking use curry? </s>
+utterance_id_1104 <s> She encouraged her children to make their own halloween costumes. </s>
+utterance_id_1105 <s> Almost all colleges are now coeducational. </s>
+utterance_id_1106 <s> Rich looked for spotted hyenas and jaguars on the safari. </s>
+utterance_id_1107 <s> Why else would Danny allow others to go? </s>
+utterance_id_1108 <s> Did you buy any corduroy overalls? </s>
+utterance_id_1109 <s> Would a tomboy often play outdoors. </s>
+utterance_id_1110 <s> They often go out in the evening. </s>
+utterance_id_1111 <s> Who authorized the unlimited expense account? </s>
+utterance_id_1112 <s> Serve the coleslaw after i add the oil. </s>
+utterance_id_1113 <s> Withdraw all phony accusations at once. </s>
+utterance_id_1114 <s> Straw hats are out of fashion this year. </s>
+utterance_id_1115 <s> Why buy oil when you always use mine? </s>
+utterance_id_1116 <s> How do oysters make pearls? </s>
+utterance_id_1117 <s> Draw each graph on a new axis. </s>
+utterance_id_1118 <s> Norwegian sweaters are made of lamb's wool. </s>
+utterance_id_1119 <s> Ralph controlled the stopwatch from the bleachers. </s>
+utterance_id_1120 <s> Approach your interview with statuesque composure. </s>
+utterance_id_1121 <s> How much allowance do you get? </s>
+utterance_id_1122 <s> The causeway ended abruptly at the shore. </s>
+utterance_id_1123 <s> Military personnel are expected to obey government orders. </s>
+utterance_id_1124 <s> When peeling an orange it is hard not to spray juice. </s>
+utterance_id_1125 <s> Rob sat by the pond and sketched the stray geese. </s>
+utterance_id_1126 <s> Only the best players enjoy popularity. </s>
+utterance_id_1127 <s> I gave them several choices and let them set the priorities. </s>
+utterance_id_1128 <s> The news agency hired a great journalist. </s>
+utterance_id_1129 <s> The morning dew on the spider web glistened in the sun. </s>
+utterance_id_1130 <s> The small boy put the worm on the hook. </s>
+utterance_id_1131 <s> How permanent are their records? </s>
+utterance_id_1132 <s> Try to recall the events in chronological order. </s>
+utterance_id_1133 <s> The most recent geological survey found seismic activity. </s>
+utterance_id_1134 <s> Put the butcher block table in the garage. </s>
+utterance_id_1135 <s> How good is your endurance? </s>
+utterance_id_1136 <s> Keep the thermometer under your tongue. </s>
+utterance_id_1137 <s> It's healthier to cook without sugar. </s>
+utterance_id_1138 <s> The viewpoint overlooked the ocean. </s>
+utterance_id_1139 <s> Are you looking for employment. </s>
+utterance_id_1140 <s> His failure to open the store by eight cost him his job. </s>
+utterance_id_1141 <s> The paper boy bought two apples and three ices. </s>
+utterance_id_1142 <s> I itemize all accounts in my agency. </s>
+utterance_id_1143 <s> The courier was a dwarf. </s>
+utterance_id_1144 <s> Puree some fruit before preparing the skewers. </s>
+utterance_id_1145 <s> It's not easy to create illuminating examples. </s>
+utterance_id_1146 <s> The hallway opens into a huge chamber. </s>
+utterance_id_1147 <s> They all agree that the essay is barely intelligible. </s>
+utterance_id_1148 <s> The cigarettes in the clay ashtray overflowed onto the oak table. </s>
+utterance_id_1149 <s> Reading in poor light gives you eyestrain. </s>
+utterance_id_1150 <s> I ate every oyster on Nora's plate. </s>
+utterance_id_1151 <s> The boston ballet overcame their funding shortage. </s>
+utterance_id_1152 <s> Do they allow atheists in church? </s>
+utterance_id_1153 <s> My ideal morning begins with hot coffee. </s>
+utterance_id_1154 <s> The irate actor stomped away idiotically. </s>
+utterance_id_1155 <s> The essay undeniably reflects our view ably. </s>
+utterance_id_1156 <s> Remember to allow identical twins to enter freely. </s>
+utterance_id_1157 <s> Do you have the yellow ointment ready? </s>
+utterance_id_1158 <s> Can the agency overthrow alien forces. </s>
+utterance_id_1159 <s> We saw eight tiny icicles below our roof. </s>
+utterance_id_1160 <s> The saw is broken so chop the wood instead. </s>
+utterance_id_1161 <s> Draw every outer line first then fill in the interior. </s>
+utterance_id_1162 <s> Do atypical farmers grow oats? </s>
+utterance_id_1163 <s> Are holiday aprons available to us. </s>
+utterance_id_1164 <s> Be careful not to plow over the flower beds. </s>
+utterance_id_1165 <s> Allow each child to have an ice pop. </s>
+utterance_id_1166 <s> Cliff was soothed by the luxurious massage. </s>
+utterance_id_1167 <s> Steve wore a bright red cashmere sweater. </s>
+utterance_id_1168 <s> John's brother repainted the garage door. </s>
+utterance_id_1169 <s> The rose corsage smelled sweet. </s>
+utterance_id_1170 <s> The oasis was a mirage. </s>
+utterance_id_1171 <s> Cory and trish played tag with beach balls for hours. </s>
+utterance_id_1172 <s> The tooth fairy forgot to come when Roger's tooth fell out. </s>
+utterance_id_1173 <s> Rich purchased several signed lithographs. </s>
+utterance_id_1174 <s> In every major cloverleaf traffic sometimes gets backed up. </s>
+utterance_id_1175 <s> In the long run it pays to buy quality clothing. </s>
+utterance_id_1176 <s> Brush fires are common in the dry underbrush of Nevada. </s>
+utterance_id_1177 <s> This brochure is particularly informative for a prospective buyer. </s>
+utterance_id_1178 <s> The avalanche triggered a minor earthquake. </s>
+utterance_id_1179 <s> Please take this dirty table cloth to the cleaners for me. </s>
+utterance_id_1180 <s> If Carol comes tomorrow have her arrange for a meeting at two. </s>
+utterance_id_1181 <s> The two artists exchanged autographs. </s>
+utterance_id_1182 <s> I'd rather not buy these shoes than be overcharged. </s>
+utterance_id_1183 <s> Shaving cream is a popular item on Halloween. </s>
+utterance_id_1184 <s> Tofu is made from processed soybeans. </s>
+utterance_id_1185 <s> The bluejay flew over the high building. </s>
+utterance_id_1186 <s> Cheap stockings run the first time they're worn. </s>
+utterance_id_1187 <s> Cottage cheese with chives is delicious. </s>
+utterance_id_1188 <s> Shipbuilding is a most fascinating process. </s>
+utterance_id_1189 <s> The proof that you are seeking is not available in books. </s>
+utterance_id_1190 <s> The hood of the jeep was steaming in the hot sun. </s>
+utterance_id_1191 <s> Those answers will be straightforward if you think them through carefully first. </s>
+utterance_id_1192 <s> Drop five forms in the box before you go out. </s>
+utterance_id_1193 <s> If people were more generous there would be no need for welfare. </s>
+utterance_id_1194 <s> Bob found more clams at the ocean's edge. </s>
+utterance_id_1195 <s> The cranberry bog gets very pretty in autumn. </s>
+utterance_id_1196 <s> A big goat idly ambled through the farmyard. </s>
+utterance_id_1197 <s> The groundhog clearly saw his shadow but stayed out only a moment. </s>
+utterance_id_1198 <s> The fog prevented them from arriving on time. </s>
+utterance_id_1199 <s> The local drugstore was charged with illegally dispensing tranquilizers. </s>
+utterance_id_1200 <s> The full moon shone brightly that night. </s>
+utterance_id_1201 <s> Steve collects rare and novel coins. </s>
+utterance_id_1202 <s> Gregory and Tom chose to watch cartoons in the afternoon. </s>
+utterance_id_1203 <s> Chip postponed alimony payments until the latest possible date. </s>
+utterance_id_1204 <s> Count the number of teaspoons of soysauce that you add. </s>
+utterance_id_1205 <s> The big dog loved to chew on the old rag doll. </s>
+utterance_id_1206 <s> Often you'll get back more than you put in. </s>
+utterance_id_1207 <s> Gus saw pine trees and redwoods on his walk through Sequoia National Forest. </s>
+utterance_id_1208 <s> Bob bandaged both wounds with the skill of a doctor. </s>
+utterance_id_1209 <s> Did Shawn catch that big goose without help? </s>
+utterance_id_1210 <s> Ducks have webbed feet and colorful feathers. </s>
+utterance_id_1211 <s> The high security prison was surrounded by barbed wire. </s>
+utterance_id_1212 <s> Take charge of choosing her bride's maids' gowns. </s>
+utterance_id_1213 <s> I know I didn't meet her early enough. </s>
+utterance_id_1214 <s> The barracuda recoiled from the serpent's poisonous fangs. </s>
+utterance_id_1215 <s> I'll have a scoop of that exotic purple and turquoise sherbet. </s>
+utterance_id_1216 <s> Many wealthy tycoons splurged and bought both a yacht and a schooner. </s>
+utterance_id_1217 <s> The new suburbanites worked hard on refurbishing their older home. </s>
+utterance_id_1218 <s> According to my interpretation of the problem, two lines must be perpendicular. </s>
+utterance_id_1219 <s> A connoisseur will enjoy this shellfish dish. </s>
+utterance_id_1220 <s> Dolphins are intelligent marine mammals. </s>
+utterance_id_1221 <s> Diane may splurge and buy a turquoise necklace. </s>
+utterance_id_1222 <s> The moisture in my eyes is from eyedrops, not from tears. </s>
+utterance_id_1223 <s> George seldom watches daytime movies. </s>
+utterance_id_1224 <s> The annoying raccoons slipped into Phil's garden every night. </s>
+utterance_id_1225 <s> The cow wandered from the farmland and became lost. </s>
+utterance_id_1226 <s> Each untimely income loss coincided with the breakdown of a heating system part. </s>
+utterance_id_1227 <s> Will you please confirm government policy regarding waste removal. </s>
+utterance_id_1228 <s> The surplus shoes were sold at a discount price. </s>
+utterance_id_1229 <s> Lori's costume needed black gloves to be completely elegant. </s>
+utterance_id_1230 <s> Bob papered over the living room murals. </s>
+utterance_id_1231 <s> Right now may not be the best time for business mergers. </s>
+utterance_id_1232 <s> That diagram makes sense only after much study. </s>
+utterance_id_1233 <s> John cleans shellfish for a living. </s>
+utterance_id_1234 <s> She always jokes about too much garlic in his food. </s>
+utterance_id_1235 <s> I just saw Jim near the new archeological museum. </s>
+utterance_id_1236 <s> Pam gives driving lessons on Thursdays. </s>
+utterance_id_1237 <s> Why charge money for such garbage? </s>
+utterance_id_1238 <s> George is paranoid about a future gas shortage. </s>
+utterance_id_1239 <s> The carpet cleaners shampooed our oriental rug. </s>
+utterance_id_1240 <s> Please shorten this skirt for Joyce. </s>
+utterance_id_1241 <s> His shoulder felt as if it were broken. </s>
+utterance_id_1242 <s> Her right hand aches whenever the barometric pressure changes. </s>
+utterance_id_1243 <s> They own a big house in the remote countryside. </s>
+utterance_id_1244 <s> He picked up nine pairs of socks for each brother. </s>
+utterance_id_1245 <s> A young mouse scampered across the field and disappeared. </s>
+utterance_id_1246 <s> She uses both names interchangeably. </s>
+utterance_id_1247 <s> Calcium makes bones and teeth strong. </s>
+utterance_id_1248 <s> The fish began to leap frantically on the surface of the small lake. </s>
+utterance_id_1249 <s> They assume no burglar will ever enter here. </s>
+utterance_id_1250 <s> Just drop notices in any suggestion box. </s>
+utterance_id_1251 <s> We'll serve rhubarb pie after Rachel's talk. </s>
+utterance_id_1252 <s> Barb burned paper and leaves in a big bonfire. </s>
+utterance_id_1253 <s> Of course you can have another tunafish sandwich. </s>
+utterance_id_1254 <s> There was a gigantic wasp next to Irving's big top hat. </s>
+utterance_id_1255 <s> Laugh, dance and sing, if fortune smiles upon you. </s>
+utterance_id_1256 <s> Eating spinach nightly increases strength miraculously. </s>
+utterance_id_1257 <s> Butterscotch fudge goes well with vanilla ice cream. </s>
+utterance_id_1258 <s> Daphne's Swedish needlepoint scarf matched her skirt. </s>
+utterance_id_1259 <s> Irish youngsters eat fresh kippers for breakfast. </s>
+utterance_id_1260 <s> Valley lodge yearly celebrates the first calf born. </s>
+utterance_id_1261 <s> Iris thinks this zoo has eleven Spanish zebras. </s>
+utterance_id_1262 <s> Those who teach values first abolish cheating. </s>
+utterance_id_1263 <s> Smash lightbulbs and their cash value will diminish to nothing. </s>
+utterance_id_1264 <s> Top zinnias rarely have crooked stems. </s>
+utterance_id_1265 <s> Movies never have enough villains. </s>
+utterance_id_1266 <s> Every cab needs repainting often. </s>
+utterance_id_1267 <s> A toothpaste tube should be squeezed from the bottom. </s>
+utterance_id_1268 <s> Those who are not purists use canned vegetables when making stew. </s>
+utterance_id_1269 <s> The overweight charmer could slip poison into anyone's tea. </s>
+utterance_id_1270 <s> The rich should invest in black zircons instead of stylish shoes. </s>
+utterance_id_1271 <s> Please sing just the club theme. </s>
+utterance_id_1272 <s> They used an aggressive policeman to flag thoughtless motorists. </s>
+utterance_id_1273 <s> Shell shock caused by shrapnel is sometimes cured through group therapy. </s>
+utterance_id_1274 <s> Suburban housewives often suffer from the gab habit. </s>
+utterance_id_1275 <s> A lone star shone in the early evening sky. </s>
+utterance_id_1276 <s> The toddler found a clamshell near the camp site. </s>
+utterance_id_1277 <s> What is this large thing by the ironing board? </s>
+utterance_id_1278 <s> Spherical gifts are difficult to wrap. </s>
+utterance_id_1279 <s> Ralph prepared red snapper with fresh lemon sauce for dinner. </s>
+utterance_id_1280 <s> Roy ignored the spurious data points in drawing the graph. </s>
+utterance_id_1281 <s> In developing film many toxic chemicals are used. </s>
+utterance_id_1282 <s> Is this seesaw safe. </s>
+utterance_id_1283 <s> Those thieves stole thirty jewels. </s>
+utterance_id_1284 <s> Aluminium cutlery can often be flimsy. </s>
+utterance_id_1285 <s> Most young rabbits rise early every morning. </s>
+utterance_id_1286 <s> Beg that guard for one gallon of petrol. </s>
+utterance_id_1287 <s> Tina turner is a pop singer. </s>
+utterance_id_1288 <s> Mum strongly dislikes appetizers. </s>
+utterance_id_1289 <s> Her classical repertoire gained critical acclaim. </s>
+utterance_id_1290 <s> Did you eat lunch yesterday? </s>
+utterance_id_1291 <s> It's illegal to postdate a cheque. </s>
+utterance_id_1292 <s> Youngsters love corn candy as a treat. </s>
+utterance_id_1293 <s> Glucose and fructose are natural sugars found in fruit. </s>
+utterance_id_1294 <s> Few people live to be a hundred. </s>
+utterance_id_1295 <s> Tradition requires parental approval for underage marriage. </s>
+utterance_id_1296 <s> The haunted house was a hit due to outstanding audiovisual effects. </s>
+utterance_id_1297 <s> They all enjoy ice cream sundaes. </s>
+utterance_id_1298 <s> Jeff's toy gocart never worked. </s>
+utterance_id_1299 <s> Allow leeway here. </s>
+utterance_id_1300 <s> I honour my mum. </s>
+utterance_id_1301 <s> Rationalize all errors. </s>
+utterance_id_1302 <s> May I order a parfait after i eat dinner. </s>
+utterance_id_1303 <s> Does Hindu ideology honour cows? </s>
+utterance_id_1304 <s> We apply auditory modelling to computer speech recognition. </s>
+utterance_id_1305 <s> Jeff thought you argued in favour of a centrifuge purchase. </s>
+utterance_id_1306 <s> We like blue cheese but Victor likes brie. </s>
+utterance_id_1307 <s> Please dig my potatoes up before the frost. </s>
+utterance_id_1308 <s> Rob made hungarian goulash for dinner and gooseberry pie for desert. </s>
+utterance_id_1309 <s> Trish saw hours and hours of movies this Saturday. </s>
+utterance_id_1310 <s> Gremlins is yet another exciting movie by Steven Spielberg. </s>
+utterance_id_1311 <s> Growing well-kept gardens is very time consuming. </s>
+utterance_id_1312 <s> Is she going with you. </s>
+utterance_id_1313 <s> I took her word for it. </s>
+utterance_id_1314 <s> Gwen grows green beans in her vegetable garden. </s>
+utterance_id_1315 <s> The football team coach has a watch as thin as a dime. </s>
+utterance_id_1316 <s> Seamstresses attach zips with a thimble needle and thread. </s>
+utterance_id_1317 <s> Coffee is grown on steep junglelike slopes in temperate zones. </s>
+utterance_id_1318 <s> That stinging vapour was caused by chloride vaporization. </s>
+utterance_id_1319 <s> Don't look for cheap valuables in a bank vault. </s>
+utterance_id_1320 <s> Which theatre shows Mother Goose? </s>
