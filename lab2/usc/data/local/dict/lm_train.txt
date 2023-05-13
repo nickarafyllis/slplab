@@ -1,0 +1,1320 @@
+ <s> She is thinner than I am. </s>
+ <s> Bright sunshine shimmers on the ocean. </s>
+ <s> Nothing is as offensive as innocence. </s>
+ <s> Where were you while we were away? </s>
+ <s> Are your grades higher or lower than Nancy's. </s>
+ <s> He will allow a rare lie. </s>
+ <s> Will robin wear a yellow lily. </s>
+ <s> Before Thursday's exam review every formula. </s>
+ <s> The museum hires musicians every evening. </s>
+ <s> Carl lives in a lively home. </s>
+ <s> She wore warm fleecy woolen overalls. </s>
+ <s> Alfalfa is healthy for you. </s>
+ <s> When all else fails use force. </s>
+ <s> Although always alone we survive. </s>
+ <s> Did dad do academic bidding? </s>
+ <s> Help greg to pick a peck of potatoes. </s>
+ <s> A good attitude is unbeatable. </s>
+ <s> Coconut cream pie makes a nice dessert. </s>
+ <s> Only the most accomplished artists obtain popularity. </s>
+ <s> Critical equipment needs proper maintenance. </s>
+ <s> Young people participate in athletic activities. </s>
+ <s> Stimulating discussions keep students' attention. </s>
+ <s> Etiquette mandates compliance with existing regulations. </s>
+ <s> Biblical scholars argue history. </s>
+ <s> Elderly people are often excluded. </s>
+ <s> Addition and subtraction are learned skills. </s>
+ <s> Grandmother outgrew her upbringing in petticoats. </s>
+ <s> Catastrophic economic cutbacks neglect the poor. </s>
+ <s> Even a simple vocabulary contains symbols. </s>
+ <s> The eastern coast is a place for pure pleasure and excitement. </s>
+ <s> The lack of heat compounded the tenant's grievances. </s>
+ <s> Academic aptitude guarantees your diploma. </s>
+ <s> We experience distress and frustration obtaining our degrees. </s>
+ <s> The singer's finger had a splinter. </s>
+ <s> The legislature met to judge the state of public education. </s>
+ <s> Chocolate and roses never fail as a romantic gift. </s>
+ <s> Regular attendance is seldom required. </s>
+ <s> Challenge each general's intelligence. </s>
+ <s> We got drenched from the uninterrupted rain. </s>
+ <s> Upgrade your status to reflect your wealth. </s>
+ <s> Eat your raisins outdoors on the porch steps. </s>
+ <s> Porcupines resemble sea urchins. </s>
+ <s> Spring street is straight ahead. </s>
+ <s> An official deadline cannot be postponed. </s>
+ <s> Fill that canteen with fresh spring water. </s>
+ <s> Bagpipes and bongos are musical instruments. </s>
+ <s> Will you please describe the idiotic predicament. </s>
+ <s> It's impossible to deal with bureaucracy. </s>
+ <s> Good service should be rewarded by big tips. </s>
+ <s> My instructions desperately need updating. </s>
+ <s> Cement is measured in cubic yards. </s>
+ <s> Primitive tribes have an upbeat attitude. </s>
+ <s> Flying standby can be practical if you want to save money. </s>
+ <s> It's hard to tell an original from a forgery. </s>
+ <s> A large household needs lots of appliances. </s>
+ <s> Cut a small corner off each edge. </s>
+ <s> Iguanas and alligators are tropical reptiles. </s>
+ <s> Penguins live near the icy antarctic. </s>
+ <s> Guess the question from the answer. </s>
+ <s> Medieval society was based on hierarchies. </s>
+ <s> Project development was proceeding too slowly. </s>
+ <s> Special task forces rescue hostages from kidnappers. </s>
+ <s> Call an ambulance for medical assistance. </s>
+ <s> You must explicitly delete files. </s>
+ <s> Birthday parties have cupcakes and ice cream. </s>
+ <s> His scalp was blistered from today's hot sun. </s>
+ <s> She slipped and sprained her ankle on the steep slope. </s>
+ <s> The best way to learn is to solve extra problems. </s>
+ <s> Tugboats are capable of hauling huge loads. </s>
+ <s> A muscular abdomen is good for your back. </s>
+ <s> The cartoon features a muskrat and a tadpole. </s>
+ <s> The emblem depicts the acropolis all aglow. </s>
+ <s> Combine all the ingredients in a large bowl. </s>
+ <s> The misquote was retracted with an apology. </s>
+ <s> The coyote bobcat and hyena are wild animals. </s>
+ <s> Encyclopedias seldom present anecdotal evidence. </s>
+ <s> A screwdriver is made from vodka and orange juice. </s>
+ <s> Objects made of pewter are beautiful. </s>
+ <s> Westchester is a county in New York. </s>
+ <s> The emperor had a mean temper. </s>
+ <s> Lots of foreign movies have subtitles. </s>
+ <s> He ate four extra eggs for breakfast. </s>
+ <s> Publicity and notoriety go hand in hand. </s>
+ <s> Pizzerias are convenient for a quick lunch. </s>
+ <s> December and january are nice months to spend in Miami. </s>
+ <s> Technical writers can abbreviate in bibliographies. </s>
+ <s> The clumsy customer spilled some expensive perfume. </s>
+ <s> The bungalow was pleasantly situated near the shore. </s>
+ <s> Agricultural products are unevenly distributed. </s>
+ <s> Pledge to participate in nevada's aquatic competition. </s>
+ <s> The willowy woman wore a muskrat coat. </s>
+ <s> Too much curiosity can get you into trouble. </s>
+ <s> Cyclical programs will never compile. </s>
+ <s> Most precincts had a third of the votes counted. </s>
+ <s> While waiting for Chipper, she crisscrossed the square many times. </s>
+ <s> Vietnamese cuisine is exquisite. </s>
+ <s> The previous speaker presented ambiguous results. </s>
+ <s> Scholastic aptitude is judged by standardized tests. </s>
+ <s> Orange juice tastes funny after toothpaste. </s>
+ <s> Our experiment's positive outcome was unexpected. </s>
+ <s> The drunkard is a social outcast. </s>
+ <s> The government sought authorization of his citizenship. </s>
+ <s> As coauthors we presented our new book to the haughty audience. </s>
+ <s> As a precaution the outlaws bought gunpowder for their stronghold. </s>
+ <s> They remained lifelong friends and companions. </s>
+ <s> Curiosity and mediocrity seldom coexist. </s>
+ <s> Biologists use radioactive isotopes to study microorganisms. </s>
+ <s> Employee layoffs coincided with the company's reorganization. </s>
+ <s> The Mayan neoclassic scholar disappeared while surveying ancient ruins. </s>
+ <s> The diagnosis was discouraging however he was not overly worried. </s>
+ <s> The triumphant warrior exhibited naive heroism. </s>
+ <s> Severe myopia contributed to ron's inferiority complex. </s>
+ <s> Buying a thoroughbred horse requires intuition and expertise. </s>
+ <s> Does creole cooking use curry? </s>
+ <s> She encouraged her children to make their own halloween costumes. </s>
+ <s> Almost all colleges are now coeducational. </s>
+ <s> Rich looked for spotted hyenas and jaguars on the safari. </s>
+ <s> Why else would Danny allow others to go? </s>
+ <s> Did you buy any corduroy overalls? </s>
+ <s> Would a tomboy often play outdoors. </s>
+ <s> They often go out in the evening. </s>
+ <s> Who authorized the unlimited expense account? </s>
+ <s> Serve the coleslaw after i add the oil. </s>
+ <s> Withdraw all phony accusations at once. </s>
+ <s> Straw hats are out of fashion this year. </s>
+ <s> Why buy oil when you always use mine? </s>
+ <s> How do oysters make pearls? </s>
+ <s> Draw each graph on a new axis. </s>
+ <s> Norwegian sweaters are made of lamb's wool. </s>
+ <s> Ralph controlled the stopwatch from the bleachers. </s>
+ <s> Approach your interview with statuesque composure. </s>
+ <s> How much allowance do you get? </s>
+ <s> The causeway ended abruptly at the shore. </s>
+ <s> Military personnel are expected to obey government orders. </s>
+ <s> When peeling an orange it is hard not to spray juice. </s>
+ <s> Rob sat by the pond and sketched the stray geese. </s>
+ <s> Only the best players enjoy popularity. </s>
+ <s> I gave them several choices and let them set the priorities. </s>
+ <s> The news agency hired a great journalist. </s>
+ <s> The morning dew on the spider web glistened in the sun. </s>
+ <s> The small boy put the worm on the hook. </s>
+ <s> How permanent are their records? </s>
+ <s> Try to recall the events in chronological order. </s>
+ <s> The most recent geological survey found seismic activity. </s>
+ <s> Put the butcher block table in the garage. </s>
+ <s> How good is your endurance? </s>
+ <s> Keep the thermometer under your tongue. </s>
+ <s> It's healthier to cook without sugar. </s>
+ <s> The viewpoint overlooked the ocean. </s>
+ <s> Are you looking for employment. </s>
+ <s> His failure to open the store by eight cost him his job. </s>
+ <s> The paper boy bought two apples and three ices. </s>
+ <s> I itemize all accounts in my agency. </s>
+ <s> The courier was a dwarf. </s>
+ <s> Puree some fruit before preparing the skewers. </s>
+ <s> It's not easy to create illuminating examples. </s>
+ <s> The hallway opens into a huge chamber. </s>
+ <s> They all agree that the essay is barely intelligible. </s>
+ <s> The cigarettes in the clay ashtray overflowed onto the oak table. </s>
+ <s> Reading in poor light gives you eyestrain. </s>
+ <s> I ate every oyster on Nora's plate. </s>
+ <s> The boston ballet overcame their funding shortage. </s>
+ <s> Do they allow atheists in church? </s>
+ <s> My ideal morning begins with hot coffee. </s>
+ <s> The irate actor stomped away idiotically. </s>
+ <s> The essay undeniably reflects our view ably. </s>
+ <s> Remember to allow identical twins to enter freely. </s>
+ <s> Do you have the yellow ointment ready? </s>
+ <s> Can the agency overthrow alien forces. </s>
+ <s> We saw eight tiny icicles below our roof. </s>
+ <s> The saw is broken so chop the wood instead. </s>
+ <s> Draw every outer line first then fill in the interior. </s>
+ <s> Do atypical farmers grow oats? </s>
+ <s> Are holiday aprons available to us. </s>
+ <s> Be careful not to plow over the flower beds. </s>
+ <s> Allow each child to have an ice pop. </s>
+ <s> Cliff was soothed by the luxurious massage. </s>
+ <s> Steve wore a bright red cashmere sweater. </s>
+ <s> John's brother repainted the garage door. </s>
+ <s> The rose corsage smelled sweet. </s>
+ <s> The oasis was a mirage. </s>
+ <s> Cory and trish played tag with beach balls for hours. </s>
+ <s> The tooth fairy forgot to come when Roger's tooth fell out. </s>
+ <s> Rich purchased several signed lithographs. </s>
+ <s> In every major cloverleaf traffic sometimes gets backed up. </s>
+ <s> In the long run it pays to buy quality clothing. </s>
+ <s> Brush fires are common in the dry underbrush of Nevada. </s>
+ <s> This brochure is particularly informative for a prospective buyer. </s>
+ <s> The avalanche triggered a minor earthquake. </s>
+ <s> Please take this dirty table cloth to the cleaners for me. </s>
+ <s> If Carol comes tomorrow have her arrange for a meeting at two. </s>
+ <s> The two artists exchanged autographs. </s>
+ <s> I'd rather not buy these shoes than be overcharged. </s>
+ <s> Shaving cream is a popular item on Halloween. </s>
+ <s> Tofu is made from processed soybeans. </s>
+ <s> The bluejay flew over the high building. </s>
+ <s> Cheap stockings run the first time they're worn. </s>
+ <s> Cottage cheese with chives is delicious. </s>
+ <s> Shipbuilding is a most fascinating process. </s>
+ <s> The proof that you are seeking is not available in books. </s>
+ <s> The hood of the jeep was steaming in the hot sun. </s>
+ <s> Those answers will be straightforward if you think them through carefully first. </s>
+ <s> Drop five forms in the box before you go out. </s>
+ <s> If people were more generous there would be no need for welfare. </s>
+ <s> Bob found more clams at the ocean's edge. </s>
+ <s> The cranberry bog gets very pretty in autumn. </s>
+ <s> A big goat idly ambled through the farmyard. </s>
+ <s> The groundhog clearly saw his shadow but stayed out only a moment. </s>
+ <s> The fog prevented them from arriving on time. </s>
+ <s> The local drugstore was charged with illegally dispensing tranquilizers. </s>
+ <s> The full moon shone brightly that night. </s>
+ <s> Steve collects rare and novel coins. </s>
+ <s> Gregory and Tom chose to watch cartoons in the afternoon. </s>
+ <s> Chip postponed alimony payments until the latest possible date. </s>
+ <s> Count the number of teaspoons of soysauce that you add. </s>
+ <s> The big dog loved to chew on the old rag doll. </s>
+ <s> Often you'll get back more than you put in. </s>
+ <s> Gus saw pine trees and redwoods on his walk through Sequoia National Forest. </s>
+ <s> Bob bandaged both wounds with the skill of a doctor. </s>
+ <s> Did Shawn catch that big goose without help? </s>
+ <s> Ducks have webbed feet and colorful feathers. </s>
+ <s> The high security prison was surrounded by barbed wire. </s>
+ <s> Take charge of choosing her bride's maids' gowns. </s>
+ <s> I know I didn't meet her early enough. </s>
+ <s> The barracuda recoiled from the serpent's poisonous fangs. </s>
+ <s> I'll have a scoop of that exotic purple and turquoise sherbet. </s>
+ <s> Many wealthy tycoons splurged and bought both a yacht and a schooner. </s>
+ <s> The new suburbanites worked hard on refurbishing their older home. </s>
+ <s> According to my interpretation of the problem, two lines must be perpendicular. </s>
+ <s> A connoisseur will enjoy this shellfish dish. </s>
+ <s> Dolphins are intelligent marine mammals. </s>
+ <s> Diane may splurge and buy a turquoise necklace. </s>
+ <s> The moisture in my eyes is from eyedrops, not from tears. </s>
+ <s> George seldom watches daytime movies. </s>
+ <s> The annoying raccoons slipped into Phil's garden every night. </s>
+ <s> The cow wandered from the farmland and became lost. </s>
+ <s> Each untimely income loss coincided with the breakdown of a heating system part. </s>
+ <s> Will you please confirm government policy regarding waste removal. </s>
+ <s> The surplus shoes were sold at a discount price. </s>
+ <s> Lori's costume needed black gloves to be completely elegant. </s>
+ <s> Bob papered over the living room murals. </s>
+ <s> Right now may not be the best time for business mergers. </s>
+ <s> That diagram makes sense only after much study. </s>
+ <s> John cleans shellfish for a living. </s>
+ <s> She always jokes about too much garlic in his food. </s>
+ <s> I just saw Jim near the new archeological museum. </s>
+ <s> Pam gives driving lessons on Thursdays. </s>
+ <s> Why charge money for such garbage? </s>
+ <s> George is paranoid about a future gas shortage. </s>
+ <s> The carpet cleaners shampooed our oriental rug. </s>
+ <s> Please shorten this skirt for Joyce. </s>
+ <s> His shoulder felt as if it were broken. </s>
+ <s> Her right hand aches whenever the barometric pressure changes. </s>
+ <s> They own a big house in the remote countryside. </s>
+ <s> He picked up nine pairs of socks for each brother. </s>
+ <s> A young mouse scampered across the field and disappeared. </s>
+ <s> She uses both names interchangeably. </s>
+ <s> Calcium makes bones and teeth strong. </s>
+ <s> The fish began to leap frantically on the surface of the small lake. </s>
+ <s> They assume no burglar will ever enter here. </s>
+ <s> Just drop notices in any suggestion box. </s>
+ <s> We'll serve rhubarb pie after Rachel's talk. </s>
+ <s> Barb burned paper and leaves in a big bonfire. </s>
+ <s> Of course you can have another tunafish sandwich. </s>
+ <s> There was a gigantic wasp next to Irving's big top hat. </s>
+ <s> Laugh, dance and sing, if fortune smiles upon you. </s>
+ <s> Eating spinach nightly increases strength miraculously. </s>
+ <s> Butterscotch fudge goes well with vanilla ice cream. </s>
+ <s> Daphne's Swedish needlepoint scarf matched her skirt. </s>
+ <s> Irish youngsters eat fresh kippers for breakfast. </s>
+ <s> Valley lodge yearly celebrates the first calf born. </s>
+ <s> Iris thinks this zoo has eleven Spanish zebras. </s>
+ <s> Those who teach values first abolish cheating. </s>
+ <s> Smash lightbulbs and their cash value will diminish to nothing. </s>
+ <s> Top zinnias rarely have crooked stems. </s>
+ <s> Movies never have enough villains. </s>
+ <s> Every cab needs repainting often. </s>
+ <s> A toothpaste tube should be squeezed from the bottom. </s>
+ <s> Those who are not purists use canned vegetables when making stew. </s>
+ <s> The overweight charmer could slip poison into anyone's tea. </s>
+ <s> The rich should invest in black zircons instead of stylish shoes. </s>
+ <s> Please sing just the club theme. </s>
+ <s> They used an aggressive policeman to flag thoughtless motorists. </s>
+ <s> Shell shock caused by shrapnel is sometimes cured through group therapy. </s>
+ <s> Suburban housewives often suffer from the gab habit. </s>
+ <s> A lone star shone in the early evening sky. </s>
+ <s> The toddler found a clamshell near the camp site. </s>
+ <s> What is this large thing by the ironing board? </s>
+ <s> Spherical gifts are difficult to wrap. </s>
+ <s> Ralph prepared red snapper with fresh lemon sauce for dinner. </s>
+ <s> Roy ignored the spurious data points in drawing the graph. </s>
+ <s> In developing film many toxic chemicals are used. </s>
+ <s> Is this seesaw safe. </s>
+ <s> Those thieves stole thirty jewels. </s>
+ <s> Aluminium cutlery can often be flimsy. </s>
+ <s> Most young rabbits rise early every morning. </s>
+ <s> Beg that guard for one gallon of petrol. </s>
+ <s> Tina turner is a pop singer. </s>
+ <s> Mum strongly dislikes appetizers. </s>
+ <s> Her classical repertoire gained critical acclaim. </s>
+ <s> Did you eat lunch yesterday? </s>
+ <s> It's illegal to postdate a cheque. </s>
+ <s> Youngsters love corn candy as a treat. </s>
+ <s> Glucose and fructose are natural sugars found in fruit. </s>
+ <s> Few people live to be a hundred. </s>
+ <s> Tradition requires parental approval for underage marriage. </s>
+ <s> The haunted house was a hit due to outstanding audiovisual effects. </s>
+ <s> They all enjoy ice cream sundaes. </s>
+ <s> Jeff's toy gocart never worked. </s>
+ <s> Allow leeway here. </s>
+ <s> I honour my mum. </s>
+ <s> Rationalize all errors. </s>
+ <s> May I order a parfait after i eat dinner. </s>
+ <s> Does Hindu ideology honour cows? </s>
+ <s> We apply auditory modelling to computer speech recognition. </s>
+ <s> Jeff thought you argued in favour of a centrifuge purchase. </s>
+ <s> We like blue cheese but Victor likes brie. </s>
+ <s> Please dig my potatoes up before the frost. </s>
+ <s> Rob made hungarian goulash for dinner and gooseberry pie for desert. </s>
+ <s> Trish saw hours and hours of movies this Saturday. </s>
+ <s> Gremlins is yet another exciting movie by Steven Spielberg. </s>
+ <s> Growing well-kept gardens is very time consuming. </s>
+ <s> Is she going with you. </s>
+ <s> I took her word for it. </s>
+ <s> Gwen grows green beans in her vegetable garden. </s>
+ <s> The football team coach has a watch as thin as a dime. </s>
+ <s> Seamstresses attach zips with a thimble needle and thread. </s>
+ <s> Coffee is grown on steep junglelike slopes in temperate zones. </s>
+ <s> That stinging vapour was caused by chloride vaporization. </s>
+ <s> Don't look for cheap valuables in a bank vault. </s>
+ <s> Which theatre shows Mother Goose? </s>
+ <s> She is thinner than I am. </s>
+ <s> Bright sunshine shimmers on the ocean. </s>
+ <s> Nothing is as offensive as innocence. </s>
+ <s> Where were you while we were away? </s>
+ <s> Are your grades higher or lower than Nancy's. </s>
+ <s> He will allow a rare lie. </s>
+ <s> Will robin wear a yellow lily. </s>
+ <s> Before Thursday's exam review every formula. </s>
+ <s> The museum hires musicians every evening. </s>
+ <s> Carl lives in a lively home. </s>
+ <s> She wore warm fleecy woolen overalls. </s>
+ <s> Alfalfa is healthy for you. </s>
+ <s> When all else fails use force. </s>
+ <s> Although always alone we survive. </s>
+ <s> Did dad do academic bidding? </s>
+ <s> Help greg to pick a peck of potatoes. </s>
+ <s> A good attitude is unbeatable. </s>
+ <s> Coconut cream pie makes a nice dessert. </s>
+ <s> Only the most accomplished artists obtain popularity. </s>
+ <s> Critical equipment needs proper maintenance. </s>
+ <s> Young people participate in athletic activities. </s>
+ <s> Stimulating discussions keep students' attention. </s>
+ <s> Etiquette mandates compliance with existing regulations. </s>
+ <s> Biblical scholars argue history. </s>
+ <s> Elderly people are often excluded. </s>
+ <s> Addition and subtraction are learned skills. </s>
+ <s> Grandmother outgrew her upbringing in petticoats. </s>
+ <s> Catastrophic economic cutbacks neglect the poor. </s>
+ <s> Even a simple vocabulary contains symbols. </s>
+ <s> The eastern coast is a place for pure pleasure and excitement. </s>
+ <s> The lack of heat compounded the tenant's grievances. </s>
+ <s> Academic aptitude guarantees your diploma. </s>
+ <s> We experience distress and frustration obtaining our degrees. </s>
+ <s> The singer's finger had a splinter. </s>
+ <s> The legislature met to judge the state of public education. </s>
+ <s> Chocolate and roses never fail as a romantic gift. </s>
+ <s> Regular attendance is seldom required. </s>
+ <s> Challenge each general's intelligence. </s>
+ <s> We got drenched from the uninterrupted rain. </s>
+ <s> Upgrade your status to reflect your wealth. </s>
+ <s> Eat your raisins outdoors on the porch steps. </s>
+ <s> Porcupines resemble sea urchins. </s>
+ <s> Spring street is straight ahead. </s>
+ <s> An official deadline cannot be postponed. </s>
+ <s> Fill that canteen with fresh spring water. </s>
+ <s> Bagpipes and bongos are musical instruments. </s>
+ <s> Will you please describe the idiotic predicament. </s>
+ <s> It's impossible to deal with bureaucracy. </s>
+ <s> Good service should be rewarded by big tips. </s>
+ <s> My instructions desperately need updating. </s>
+ <s> Cement is measured in cubic yards. </s>
+ <s> Primitive tribes have an upbeat attitude. </s>
+ <s> Flying standby can be practical if you want to save money. </s>
+ <s> It's hard to tell an original from a forgery. </s>
+ <s> A large household needs lots of appliances. </s>
+ <s> Cut a small corner off each edge. </s>
+ <s> Iguanas and alligators are tropical reptiles. </s>
+ <s> Penguins live near the icy antarctic. </s>
+ <s> Guess the question from the answer. </s>
+ <s> Medieval society was based on hierarchies. </s>
+ <s> Project development was proceeding too slowly. </s>
+ <s> Special task forces rescue hostages from kidnappers. </s>
+ <s> Call an ambulance for medical assistance. </s>
+ <s> You must explicitly delete files. </s>
+ <s> Birthday parties have cupcakes and ice cream. </s>
+ <s> His scalp was blistered from today's hot sun. </s>
+ <s> She slipped and sprained her ankle on the steep slope. </s>
+ <s> The best way to learn is to solve extra problems. </s>
+ <s> Tugboats are capable of hauling huge loads. </s>
+ <s> A muscular abdomen is good for your back. </s>
+ <s> The cartoon features a muskrat and a tadpole. </s>
+ <s> The emblem depicts the acropolis all aglow. </s>
+ <s> Combine all the ingredients in a large bowl. </s>
+ <s> The misquote was retracted with an apology. </s>
+ <s> The coyote bobcat and hyena are wild animals. </s>
+ <s> Encyclopedias seldom present anecdotal evidence. </s>
+ <s> A screwdriver is made from vodka and orange juice. </s>
+ <s> Objects made of pewter are beautiful. </s>
+ <s> Westchester is a county in New York. </s>
+ <s> The emperor had a mean temper. </s>
+ <s> Lots of foreign movies have subtitles. </s>
+ <s> He ate four extra eggs for breakfast. </s>
+ <s> Publicity and notoriety go hand in hand. </s>
+ <s> Pizzerias are convenient for a quick lunch. </s>
+ <s> December and january are nice months to spend in Miami. </s>
+ <s> Technical writers can abbreviate in bibliographies. </s>
+ <s> The clumsy customer spilled some expensive perfume. </s>
+ <s> The bungalow was pleasantly situated near the shore. </s>
+ <s> Agricultural products are unevenly distributed. </s>
+ <s> Pledge to participate in nevada's aquatic competition. </s>
+ <s> The willowy woman wore a muskrat coat. </s>
+ <s> Too much curiosity can get you into trouble. </s>
+ <s> Cyclical programs will never compile. </s>
+ <s> Most precincts had a third of the votes counted. </s>
+ <s> While waiting for Chipper, she crisscrossed the square many times. </s>
+ <s> Vietnamese cuisine is exquisite. </s>
+ <s> The previous speaker presented ambiguous results. </s>
+ <s> Scholastic aptitude is judged by standardized tests. </s>
+ <s> Orange juice tastes funny after toothpaste. </s>
+ <s> Our experiment's positive outcome was unexpected. </s>
+ <s> The drunkard is a social outcast. </s>
+ <s> The government sought authorization of his citizenship. </s>
+ <s> As coauthors we presented our new book to the haughty audience. </s>
+ <s> As a precaution the outlaws bought gunpowder for their stronghold. </s>
+ <s> They remained lifelong friends and companions. </s>
+ <s> Curiosity and mediocrity seldom coexist. </s>
+ <s> Biologists use radioactive isotopes to study microorganisms. </s>
+ <s> Employee layoffs coincided with the company's reorganization. </s>
+ <s> The Mayan neoclassic scholar disappeared while surveying ancient ruins. </s>
+ <s> The diagnosis was discouraging however he was not overly worried. </s>
+ <s> The triumphant warrior exhibited naive heroism. </s>
+ <s> Severe myopia contributed to ron's inferiority complex. </s>
+ <s> Buying a thoroughbred horse requires intuition and expertise. </s>
+ <s> Does creole cooking use curry? </s>
+ <s> She encouraged her children to make their own halloween costumes. </s>
+ <s> Almost all colleges are now coeducational. </s>
+ <s> Rich looked for spotted hyenas and jaguars on the safari. </s>
+ <s> Why else would Danny allow others to go? </s>
+ <s> Did you buy any corduroy overalls? </s>
+ <s> Would a tomboy often play outdoors. </s>
+ <s> They often go out in the evening. </s>
+ <s> Who authorized the unlimited expense account? </s>
+ <s> Serve the coleslaw after i add the oil. </s>
+ <s> Withdraw all phony accusations at once. </s>
+ <s> Straw hats are out of fashion this year. </s>
+ <s> Why buy oil when you always use mine? </s>
+ <s> How do oysters make pearls? </s>
+ <s> Draw each graph on a new axis. </s>
+ <s> Norwegian sweaters are made of lamb's wool. </s>
+ <s> Ralph controlled the stopwatch from the bleachers. </s>
+ <s> Approach your interview with statuesque composure. </s>
+ <s> How much allowance do you get? </s>
+ <s> The causeway ended abruptly at the shore. </s>
+ <s> Military personnel are expected to obey government orders. </s>
+ <s> When peeling an orange it is hard not to spray juice. </s>
+ <s> Rob sat by the pond and sketched the stray geese. </s>
+ <s> Only the best players enjoy popularity. </s>
+ <s> I gave them several choices and let them set the priorities. </s>
+ <s> The news agency hired a great journalist. </s>
+ <s> The morning dew on the spider web glistened in the sun. </s>
+ <s> The small boy put the worm on the hook. </s>
+ <s> How permanent are their records? </s>
+ <s> Try to recall the events in chronological order. </s>
+ <s> The most recent geological survey found seismic activity. </s>
+ <s> Put the butcher block table in the garage. </s>
+ <s> How good is your endurance? </s>
+ <s> Keep the thermometer under your tongue. </s>
+ <s> It's healthier to cook without sugar. </s>
+ <s> The viewpoint overlooked the ocean. </s>
+ <s> Are you looking for employment. </s>
+ <s> His failure to open the store by eight cost him his job. </s>
+ <s> The paper boy bought two apples and three ices. </s>
+ <s> I itemize all accounts in my agency. </s>
+ <s> The courier was a dwarf. </s>
+ <s> Puree some fruit before preparing the skewers. </s>
+ <s> It's not easy to create illuminating examples. </s>
+ <s> The hallway opens into a huge chamber. </s>
+ <s> They all agree that the essay is barely intelligible. </s>
+ <s> The cigarettes in the clay ashtray overflowed onto the oak table. </s>
+ <s> Reading in poor light gives you eyestrain. </s>
+ <s> I ate every oyster on Nora's plate. </s>
+ <s> The boston ballet overcame their funding shortage. </s>
+ <s> Do they allow atheists in church? </s>
+ <s> My ideal morning begins with hot coffee. </s>
+ <s> The irate actor stomped away idiotically. </s>
+ <s> The essay undeniably reflects our view ably. </s>
+ <s> Remember to allow identical twins to enter freely. </s>
+ <s> Do you have the yellow ointment ready? </s>
+ <s> Can the agency overthrow alien forces. </s>
+ <s> We saw eight tiny icicles below our roof. </s>
+ <s> The saw is broken so chop the wood instead. </s>
+ <s> Draw every outer line first then fill in the interior. </s>
+ <s> Do atypical farmers grow oats? </s>
+ <s> Are holiday aprons available to us. </s>
+ <s> Be careful not to plow over the flower beds. </s>
+ <s> Allow each child to have an ice pop. </s>
+ <s> Cliff was soothed by the luxurious massage. </s>
+ <s> Steve wore a bright red cashmere sweater. </s>
+ <s> John's brother repainted the garage door. </s>
+ <s> The rose corsage smelled sweet. </s>
+ <s> The oasis was a mirage. </s>
+ <s> Cory and trish played tag with beach balls for hours. </s>
+ <s> The tooth fairy forgot to come when Roger's tooth fell out. </s>
+ <s> Rich purchased several signed lithographs. </s>
+ <s> In every major cloverleaf traffic sometimes gets backed up. </s>
+ <s> In the long run it pays to buy quality clothing. </s>
+ <s> Brush fires are common in the dry underbrush of Nevada. </s>
+ <s> This brochure is particularly informative for a prospective buyer. </s>
+ <s> The avalanche triggered a minor earthquake. </s>
+ <s> Please take this dirty table cloth to the cleaners for me. </s>
+ <s> If Carol comes tomorrow have her arrange for a meeting at two. </s>
+ <s> The two artists exchanged autographs. </s>
+ <s> I'd rather not buy these shoes than be overcharged. </s>
+ <s> Shaving cream is a popular item on Halloween. </s>
+ <s> Tofu is made from processed soybeans. </s>
+ <s> The bluejay flew over the high building. </s>
+ <s> Cheap stockings run the first time they're worn. </s>
+ <s> Cottage cheese with chives is delicious. </s>
+ <s> Shipbuilding is a most fascinating process. </s>
+ <s> The proof that you are seeking is not available in books. </s>
+ <s> The hood of the jeep was steaming in the hot sun. </s>
+ <s> Those answers will be straightforward if you think them through carefully first. </s>
+ <s> Drop five forms in the box before you go out. </s>
+ <s> If people were more generous there would be no need for welfare. </s>
+ <s> Bob found more clams at the ocean's edge. </s>
+ <s> The cranberry bog gets very pretty in autumn. </s>
+ <s> A big goat idly ambled through the farmyard. </s>
+ <s> The groundhog clearly saw his shadow but stayed out only a moment. </s>
+ <s> The fog prevented them from arriving on time. </s>
+ <s> The local drugstore was charged with illegally dispensing tranquilizers. </s>
+ <s> The full moon shone brightly that night. </s>
+ <s> Steve collects rare and novel coins. </s>
+ <s> Gregory and Tom chose to watch cartoons in the afternoon. </s>
+ <s> Chip postponed alimony payments until the latest possible date. </s>
+ <s> Count the number of teaspoons of soysauce that you add. </s>
+ <s> The big dog loved to chew on the old rag doll. </s>
+ <s> Often you'll get back more than you put in. </s>
+ <s> Gus saw pine trees and redwoods on his walk through Sequoia National Forest. </s>
+ <s> Bob bandaged both wounds with the skill of a doctor. </s>
+ <s> Did Shawn catch that big goose without help? </s>
+ <s> Ducks have webbed feet and colorful feathers. </s>
+ <s> The high security prison was surrounded by barbed wire. </s>
+ <s> Take charge of choosing her bride's maids' gowns. </s>
+ <s> I know I didn't meet her early enough. </s>
+ <s> The barracuda recoiled from the serpent's poisonous fangs. </s>
+ <s> I'll have a scoop of that exotic purple and turquoise sherbet. </s>
+ <s> Many wealthy tycoons splurged and bought both a yacht and a schooner. </s>
+ <s> The new suburbanites worked hard on refurbishing their older home. </s>
+ <s> According to my interpretation of the problem, two lines must be perpendicular. </s>
+ <s> A connoisseur will enjoy this shellfish dish. </s>
+ <s> Dolphins are intelligent marine mammals. </s>
+ <s> Diane may splurge and buy a turquoise necklace. </s>
+ <s> The moisture in my eyes is from eyedrops, not from tears. </s>
+ <s> George seldom watches daytime movies. </s>
+ <s> The annoying raccoons slipped into Phil's garden every night. </s>
+ <s> The cow wandered from the farmland and became lost. </s>
+ <s> Each untimely income loss coincided with the breakdown of a heating system part. </s>
+ <s> Will you please confirm government policy regarding waste removal. </s>
+ <s> The surplus shoes were sold at a discount price. </s>
+ <s> Lori's costume needed black gloves to be completely elegant. </s>
+ <s> Bob papered over the living room murals. </s>
+ <s> Right now may not be the best time for business mergers. </s>
+ <s> That diagram makes sense only after much study. </s>
+ <s> John cleans shellfish for a living. </s>
+ <s> She always jokes about too much garlic in his food. </s>
+ <s> I just saw Jim near the new archeological museum. </s>
+ <s> Pam gives driving lessons on Thursdays. </s>
+ <s> Why charge money for such garbage? </s>
+ <s> George is paranoid about a future gas shortage. </s>
+ <s> The carpet cleaners shampooed our oriental rug. </s>
+ <s> Please shorten this skirt for Joyce. </s>
+ <s> His shoulder felt as if it were broken. </s>
+ <s> Her right hand aches whenever the barometric pressure changes. </s>
+ <s> They own a big house in the remote countryside. </s>
+ <s> He picked up nine pairs of socks for each brother. </s>
+ <s> A young mouse scampered across the field and disappeared. </s>
+ <s> She uses both names interchangeably. </s>
+ <s> Calcium makes bones and teeth strong. </s>
+ <s> The fish began to leap frantically on the surface of the small lake. </s>
+ <s> They assume no burglar will ever enter here. </s>
+ <s> Just drop notices in any suggestion box. </s>
+ <s> We'll serve rhubarb pie after Rachel's talk. </s>
+ <s> Barb burned paper and leaves in a big bonfire. </s>
+ <s> Of course you can have another tunafish sandwich. </s>
+ <s> There was a gigantic wasp next to Irving's big top hat. </s>
+ <s> Laugh, dance and sing, if fortune smiles upon you. </s>
+ <s> Eating spinach nightly increases strength miraculously. </s>
+ <s> Butterscotch fudge goes well with vanilla ice cream. </s>
+ <s> Daphne's Swedish needlepoint scarf matched her skirt. </s>
+ <s> Irish youngsters eat fresh kippers for breakfast. </s>
+ <s> Valley lodge yearly celebrates the first calf born. </s>
+ <s> Iris thinks this zoo has eleven Spanish zebras. </s>
+ <s> Those who teach values first abolish cheating. </s>
+ <s> Smash lightbulbs and their cash value will diminish to nothing. </s>
+ <s> Top zinnias rarely have crooked stems. </s>
+ <s> Movies never have enough villains. </s>
+ <s> Every cab needs repainting often. </s>
+ <s> A toothpaste tube should be squeezed from the bottom. </s>
+ <s> Those who are not purists use canned vegetables when making stew. </s>
+ <s> The overweight charmer could slip poison into anyone's tea. </s>
+ <s> The rich should invest in black zircons instead of stylish shoes. </s>
+ <s> Please sing just the club theme. </s>
+ <s> They used an aggressive policeman to flag thoughtless motorists. </s>
+ <s> Shell shock caused by shrapnel is sometimes cured through group therapy. </s>
+ <s> Suburban housewives often suffer from the gab habit. </s>
+ <s> A lone star shone in the early evening sky. </s>
+ <s> The toddler found a clamshell near the camp site. </s>
+ <s> What is this large thing by the ironing board? </s>
+ <s> Spherical gifts are difficult to wrap. </s>
+ <s> Ralph prepared red snapper with fresh lemon sauce for dinner. </s>
+ <s> Roy ignored the spurious data points in drawing the graph. </s>
+ <s> In developing film many toxic chemicals are used. </s>
+ <s> Is this seesaw safe. </s>
+ <s> Those thieves stole thirty jewels. </s>
+ <s> Aluminium cutlery can often be flimsy. </s>
+ <s> Most young rabbits rise early every morning. </s>
+ <s> Beg that guard for one gallon of petrol. </s>
+ <s> Tina turner is a pop singer. </s>
+ <s> Mum strongly dislikes appetizers. </s>
+ <s> Her classical repertoire gained critical acclaim. </s>
+ <s> Did you eat lunch yesterday? </s>
+ <s> It's illegal to postdate a cheque. </s>
+ <s> Youngsters love corn candy as a treat. </s>
+ <s> Glucose and fructose are natural sugars found in fruit. </s>
+ <s> Few people live to be a hundred. </s>
+ <s> Tradition requires parental approval for underage marriage. </s>
+ <s> The haunted house was a hit due to outstanding audiovisual effects. </s>
+ <s> They all enjoy ice cream sundaes. </s>
+ <s> Jeff's toy gocart never worked. </s>
+ <s> Allow leeway here. </s>
+ <s> I honour my mum. </s>
+ <s> Rationalize all errors. </s>
+ <s> May I order a parfait after i eat dinner. </s>
+ <s> Does Hindu ideology honour cows? </s>
+ <s> We apply auditory modelling to computer speech recognition. </s>
+ <s> Jeff thought you argued in favour of a centrifuge purchase. </s>
+ <s> We like blue cheese but Victor likes brie. </s>
+ <s> Please dig my potatoes up before the frost. </s>
+ <s> Rob made hungarian goulash for dinner and gooseberry pie for desert. </s>
+ <s> Trish saw hours and hours of movies this Saturday. </s>
+ <s> Gremlins is yet another exciting movie by Steven Spielberg. </s>
+ <s> Growing well-kept gardens is very time consuming. </s>
+ <s> Is she going with you. </s>
+ <s> I took her word for it. </s>
+ <s> Gwen grows green beans in her vegetable garden. </s>
+ <s> The football team coach has a watch as thin as a dime. </s>
+ <s> Seamstresses attach zips with a thimble needle and thread. </s>
+ <s> Coffee is grown on steep junglelike slopes in temperate zones. </s>
+ <s> That stinging vapour was caused by chloride vaporization. </s>
+ <s> Don't look for cheap valuables in a bank vault. </s>
+ <s> Which theatre shows Mother Goose? </s>
+ <s> She is thinner than I am. </s>
+ <s> Bright sunshine shimmers on the ocean. </s>
+ <s> Nothing is as offensive as innocence. </s>
+ <s> Where were you while we were away? </s>
+ <s> Are your grades higher or lower than Nancy's. </s>
+ <s> He will allow a rare lie. </s>
+ <s> Will robin wear a yellow lily. </s>
+ <s> Before Thursday's exam review every formula. </s>
+ <s> The museum hires musicians every evening. </s>
+ <s> Carl lives in a lively home. </s>
+ <s> She wore warm fleecy woolen overalls. </s>
+ <s> Alfalfa is healthy for you. </s>
+ <s> When all else fails use force. </s>
+ <s> Although always alone we survive. </s>
+ <s> Did dad do academic bidding? </s>
+ <s> Help greg to pick a peck of potatoes. </s>
+ <s> A good attitude is unbeatable. </s>
+ <s> Coconut cream pie makes a nice dessert. </s>
+ <s> Only the most accomplished artists obtain popularity. </s>
+ <s> Critical equipment needs proper maintenance. </s>
+ <s> Young people participate in athletic activities. </s>
+ <s> Stimulating discussions keep students' attention. </s>
+ <s> Etiquette mandates compliance with existing regulations. </s>
+ <s> Biblical scholars argue history. </s>
+ <s> Elderly people are often excluded. </s>
+ <s> Addition and subtraction are learned skills. </s>
+ <s> Grandmother outgrew her upbringing in petticoats. </s>
+ <s> Catastrophic economic cutbacks neglect the poor. </s>
+ <s> Even a simple vocabulary contains symbols. </s>
+ <s> The eastern coast is a place for pure pleasure and excitement. </s>
+ <s> The lack of heat compounded the tenant's grievances. </s>
+ <s> Academic aptitude guarantees your diploma. </s>
+ <s> We experience distress and frustration obtaining our degrees. </s>
+ <s> The singer's finger had a splinter. </s>
+ <s> The legislature met to judge the state of public education. </s>
+ <s> Chocolate and roses never fail as a romantic gift. </s>
+ <s> Regular attendance is seldom required. </s>
+ <s> Challenge each general's intelligence. </s>
+ <s> We got drenched from the uninterrupted rain. </s>
+ <s> Upgrade your status to reflect your wealth. </s>
+ <s> Eat your raisins outdoors on the porch steps. </s>
+ <s> Porcupines resemble sea urchins. </s>
+ <s> Spring street is straight ahead. </s>
+ <s> An official deadline cannot be postponed. </s>
+ <s> Fill that canteen with fresh spring water. </s>
+ <s> Bagpipes and bongos are musical instruments. </s>
+ <s> Will you please describe the idiotic predicament. </s>
+ <s> It's impossible to deal with bureaucracy. </s>
+ <s> Good service should be rewarded by big tips. </s>
+ <s> My instructions desperately need updating. </s>
+ <s> Cement is measured in cubic yards. </s>
+ <s> Primitive tribes have an upbeat attitude. </s>
+ <s> Flying standby can be practical if you want to save money. </s>
+ <s> It's hard to tell an original from a forgery. </s>
+ <s> A large household needs lots of appliances. </s>
+ <s> Cut a small corner off each edge. </s>
+ <s> Iguanas and alligators are tropical reptiles. </s>
+ <s> Penguins live near the icy antarctic. </s>
+ <s> Guess the question from the answer. </s>
+ <s> Medieval society was based on hierarchies. </s>
+ <s> Project development was proceeding too slowly. </s>
+ <s> Special task forces rescue hostages from kidnappers. </s>
+ <s> Call an ambulance for medical assistance. </s>
+ <s> You must explicitly delete files. </s>
+ <s> Birthday parties have cupcakes and ice cream. </s>
+ <s> His scalp was blistered from today's hot sun. </s>
+ <s> She slipped and sprained her ankle on the steep slope. </s>
+ <s> The best way to learn is to solve extra problems. </s>
+ <s> Tugboats are capable of hauling huge loads. </s>
+ <s> A muscular abdomen is good for your back. </s>
+ <s> The cartoon features a muskrat and a tadpole. </s>
+ <s> The emblem depicts the acropolis all aglow. </s>
+ <s> Combine all the ingredients in a large bowl. </s>
+ <s> The misquote was retracted with an apology. </s>
+ <s> The coyote bobcat and hyena are wild animals. </s>
+ <s> Encyclopedias seldom present anecdotal evidence. </s>
+ <s> A screwdriver is made from vodka and orange juice. </s>
+ <s> Objects made of pewter are beautiful. </s>
+ <s> Westchester is a county in New York. </s>
+ <s> The emperor had a mean temper. </s>
+ <s> Lots of foreign movies have subtitles. </s>
+ <s> He ate four extra eggs for breakfast. </s>
+ <s> Publicity and notoriety go hand in hand. </s>
+ <s> Pizzerias are convenient for a quick lunch. </s>
+ <s> December and january are nice months to spend in Miami. </s>
+ <s> Technical writers can abbreviate in bibliographies. </s>
+ <s> The clumsy customer spilled some expensive perfume. </s>
+ <s> The bungalow was pleasantly situated near the shore. </s>
+ <s> Agricultural products are unevenly distributed. </s>
+ <s> Pledge to participate in nevada's aquatic competition. </s>
+ <s> The willowy woman wore a muskrat coat. </s>
+ <s> Too much curiosity can get you into trouble. </s>
+ <s> Cyclical programs will never compile. </s>
+ <s> Most precincts had a third of the votes counted. </s>
+ <s> While waiting for Chipper, she crisscrossed the square many times. </s>
+ <s> Vietnamese cuisine is exquisite. </s>
+ <s> The previous speaker presented ambiguous results. </s>
+ <s> Scholastic aptitude is judged by standardized tests. </s>
+ <s> Orange juice tastes funny after toothpaste. </s>
+ <s> Our experiment's positive outcome was unexpected. </s>
+ <s> The drunkard is a social outcast. </s>
+ <s> The government sought authorization of his citizenship. </s>
+ <s> As coauthors we presented our new book to the haughty audience. </s>
+ <s> As a precaution the outlaws bought gunpowder for their stronghold. </s>
+ <s> They remained lifelong friends and companions. </s>
+ <s> Curiosity and mediocrity seldom coexist. </s>
+ <s> Biologists use radioactive isotopes to study microorganisms. </s>
+ <s> Employee layoffs coincided with the company's reorganization. </s>
+ <s> The Mayan neoclassic scholar disappeared while surveying ancient ruins. </s>
+ <s> The diagnosis was discouraging however he was not overly worried. </s>
+ <s> The triumphant warrior exhibited naive heroism. </s>
+ <s> Severe myopia contributed to ron's inferiority complex. </s>
+ <s> Buying a thoroughbred horse requires intuition and expertise. </s>
+ <s> Does creole cooking use curry? </s>
+ <s> She encouraged her children to make their own halloween costumes. </s>
+ <s> Almost all colleges are now coeducational. </s>
+ <s> Rich looked for spotted hyenas and jaguars on the safari. </s>
+ <s> Why else would Danny allow others to go? </s>
+ <s> Did you buy any corduroy overalls? </s>
+ <s> Would a tomboy often play outdoors. </s>
+ <s> They often go out in the evening. </s>
+ <s> Who authorized the unlimited expense account? </s>
+ <s> Serve the coleslaw after i add the oil. </s>
+ <s> Withdraw all phony accusations at once. </s>
+ <s> Straw hats are out of fashion this year. </s>
+ <s> Why buy oil when you always use mine? </s>
+ <s> How do oysters make pearls? </s>
+ <s> Draw each graph on a new axis. </s>
+ <s> Norwegian sweaters are made of lamb's wool. </s>
+ <s> Ralph controlled the stopwatch from the bleachers. </s>
+ <s> Approach your interview with statuesque composure. </s>
+ <s> How much allowance do you get? </s>
+ <s> The causeway ended abruptly at the shore. </s>
+ <s> Military personnel are expected to obey government orders. </s>
+ <s> When peeling an orange it is hard not to spray juice. </s>
+ <s> Rob sat by the pond and sketched the stray geese. </s>
+ <s> Only the best players enjoy popularity. </s>
+ <s> I gave them several choices and let them set the priorities. </s>
+ <s> The news agency hired a great journalist. </s>
+ <s> The morning dew on the spider web glistened in the sun. </s>
+ <s> The small boy put the worm on the hook. </s>
+ <s> How permanent are their records? </s>
+ <s> Try to recall the events in chronological order. </s>
+ <s> The most recent geological survey found seismic activity. </s>
+ <s> Put the butcher block table in the garage. </s>
+ <s> How good is your endurance? </s>
+ <s> Keep the thermometer under your tongue. </s>
+ <s> It's healthier to cook without sugar. </s>
+ <s> The viewpoint overlooked the ocean. </s>
+ <s> Are you looking for employment. </s>
+ <s> His failure to open the store by eight cost him his job. </s>
+ <s> The paper boy bought two apples and three ices. </s>
+ <s> I itemize all accounts in my agency. </s>
+ <s> The courier was a dwarf. </s>
+ <s> Puree some fruit before preparing the skewers. </s>
+ <s> It's not easy to create illuminating examples. </s>
+ <s> The hallway opens into a huge chamber. </s>
+ <s> They all agree that the essay is barely intelligible. </s>
+ <s> The cigarettes in the clay ashtray overflowed onto the oak table. </s>
+ <s> Reading in poor light gives you eyestrain. </s>
+ <s> I ate every oyster on Nora's plate. </s>
+ <s> The boston ballet overcame their funding shortage. </s>
+ <s> Do they allow atheists in church? </s>
+ <s> My ideal morning begins with hot coffee. </s>
+ <s> The irate actor stomped away idiotically. </s>
+ <s> We saw eight tiny icicles below our roof. </s>
+ <s> The saw is broken so chop the wood instead. </s>
+ <s> Withdraw only as much money as you need. </s>
+ <s> Draw every outer line first then fill in the interior. </s>
+ <s> Do atypical farmers grow oats? </s>
+ <s> Are holiday aprons available to us. </s>
+ <s> Allow each child to have an ice pop. </s>
+ <s> Cliff was soothed by the luxurious massage. </s>
+ <s> Steve wore a bright red cashmere sweater. </s>
+ <s> John's brother repainted the garage door. </s>
+ <s> The rose corsage smelled sweet. </s>
+ <s> Alice's ability to work without supervision is noteworthy. </s>
+ <s> The oasis was a mirage. </s>
+ <s> Cory and trish played tag with beach balls for hours. </s>
+ <s> The tooth fairy forgot to come when Roger's tooth fell out. </s>
+ <s> In every major cloverleaf traffic sometimes gets backed up. </s>
+ <s> In the long run it pays to buy quality clothing. </s>
+ <s> Brush fires are common in the dry underbrush of Nevada. </s>
+ <s> This brochure is particularly informative for a prospective buyer. </s>
+ <s> The avalanche triggered a minor earthquake. </s>
+ <s> These exclusive documents must be locked up at all times. </s>
+ <s> Please take this dirty table cloth to the cleaners for me. </s>
+ <s> If Carol comes tomorrow have her arrange for a meeting at two. </s>
+ <s> The two artists exchanged autographs. </s>
+ <s> Shaving cream is a popular item on Halloween. </s>
+ <s> Tofu is made from processed soybeans. </s>
+ <s> The bluejay flew over the high building. </s>
+ <s> Cheap stockings run the first time they're worn. </s>
+ <s> Cottage cheese with chives is delicious. </s>
+ <s> The meeting is now adjourned. </s>
+ <s> Shipbuilding is a most fascinating process. </s>
+ <s> The proof that you are seeking is not available in books. </s>
+ <s> The hood of the jeep was steaming in the hot sun. </s>
+ <s> Drop five forms in the box before you go out. </s>
+ <s> If people were more generous there would be no need for welfare. </s>
+ <s> Bob found more clams at the ocean's edge. </s>
+ <s> The cranberry bog gets very pretty in autumn. </s>
+ <s> A big goat idly ambled through the farmyard. </s>
+ <s> The nearest synagogue may not be within walking distance. </s>
+ <s> The groundhog clearly saw his shadow but stayed out only a moment. </s>
+ <s> The fog prevented them from arriving on time. </s>
+ <s> The local drugstore was charged with illegally dispensing tranquilizers. </s>
+ <s> Steve collects rare and novel coins. </s>
+ <s> Gregory and Tom chose to watch cartoons in the afternoon. </s>
+ <s> Chip postponed alimony payments until the latest possible date. </s>
+ <s> Count the number of teaspoons of soysauce that you add. </s>
+ <s> The big dog loved to chew on the old rag doll. </s>
+ <s> An adult male baboon's teeth are not suitable for eating shellfish. </s>
+ <s> Often you'll get back more than you put in. </s>
+ <s> Gus saw pine trees and redwoods on his walk through Sequoia National Forest. </s>
+ <s> Bob bandaged both wounds with the skill of a doctor. </s>
+ <s> Ducks have webbed feet and colorful feathers. </s>
+ <s> The high security prison was surrounded by barbed wire. </s>
+ <s> Take charge of choosing her bride's maids' gowns. </s>
+ <s> I know I didn't meet her early enough. </s>
+ <s> The barracuda recoiled from the serpent's poisonous fangs. </s>
+ <s> The patient and the surgeon are both recuperating from the lengthy operation. </s>
+ <s> I'll have a scoop of that exotic purple and turquoise sherbet. </s>
+ <s> Many wealthy tycoons splurged and bought both a yacht and a schooner. </s>
+ <s> The new suburbanites worked hard on refurbishing their older home. </s>
+ <s> A connoisseur will enjoy this shellfish dish. </s>
+ <s> Dolphins are intelligent marine mammals. </s>
+ <s> Diane may splurge and buy a turquoise necklace. </s>
+ <s> The moisture in my eyes is from eyedrops, not from tears. </s>
+ <s> George seldom watches daytime movies. </s>
+ <s> I assume moisture will damage this ship's hull. </s>
+ <s> The annoying raccoons slipped into Phil's garden every night. </s>
+ <s> The cow wandered from the farmland and became lost. </s>
+ <s> Each untimely income loss coincided with the breakdown of a heating system part. </s>
+ <s> The surplus shoes were sold at a discount price. </s>
+ <s> Lori's costume needed black gloves to be completely elegant. </s>
+ <s> Bob papered over the living room murals. </s>
+ <s> Right now may not be the best time for business mergers. </s>
+ <s> That diagram makes sense only after much study. </s>
+ <s> A boring novel is a superb sleeping pill. </s>
+ <s> John cleans shellfish for a living. </s>
+ <s> She always jokes about too much garlic in his food. </s>
+ <s> I just saw Jim near the new archeological museum. </s>
+ <s> Why charge money for such garbage? </s>
+ <s> George is paranoid about a future gas shortage. </s>
+ <s> The carpet cleaners shampooed our oriental rug. </s>
+ <s> Please shorten this skirt for Joyce. </s>
+ <s> His shoulder felt as if it were broken. </s>
+ <s> The giant redwoods shimmered in the glistening sun. </s>
+ <s> Her right hand aches whenever the barometric pressure changes. </s>
+ <s> They own a big house in the remote countryside. </s>
+ <s> He picked up nine pairs of socks for each brother. </s>
+ <s> She uses both names interchangeably. </s>
+ <s> Calcium makes bones and teeth strong. </s>
+ <s> The fish began to leap frantically on the surface of the small lake. </s>
+ <s> They assume no burglar will ever enter here. </s>
+ <s> Just drop notices in any suggestion box. </s>
+ <s> The taxicab broke down and caused a traffic jam. </s>
+ <s> We'll serve rhubarb pie after Rachel's talk. </s>
+ <s> Barb burned paper and leaves in a big bonfire. </s>
+ <s> Of course you can have another tunafish sandwich. </s>
+ <s> Laugh, dance and sing, if fortune smiles upon you. </s>
+ <s> Eating spinach nightly increases strength miraculously. </s>
+ <s> Butterscotch fudge goes well with vanilla ice cream. </s>
+ <s> Daphne's Swedish needlepoint scarf matched her skirt. </s>
+ <s> Irish youngsters eat fresh kippers for breakfast. </s>
+ <s> A huge power outage rarely occurs. </s>
+ <s> Valley lodge yearly celebrates the first calf born. </s>
+ <s> Iris thinks this zoo has eleven Spanish zebras. </s>
+ <s> Those who teach values first abolish cheating. </s>
+ <s> Top zinnias rarely have crooked stems. </s>
+ <s> Movies never have enough villains. </s>
+ <s> Every cab needs repainting often. </s>
+ <s> A toothpaste tube should be squeezed from the bottom. </s>
+ <s> Those who are not purists use canned vegetables when making stew. </s>
+ <s> The fifth jar contains big juicy peaches. </s>
+ <s> The overweight charmer could slip poison into anyone's tea. </s>
+ <s> The rich should invest in black zircons instead of stylish shoes. </s>
+ <s> Please sing just the club theme. </s>
+ <s> Shell shock caused by shrapnel is sometimes cured through group therapy. </s>
+ <s> Suburban housewives often suffer from the gab habit. </s>
+ <s> A lone star shone in the early evening sky. </s>
+ <s> The toddler found a clamshell near the camp site. </s>
+ <s> What is this large thing by the ironing board? </s>
+ <s> First add milk to the shredded cheese. </s>
+ <s> Spherical gifts are difficult to wrap. </s>
+ <s> Ralph prepared red snapper with fresh lemon sauce for dinner. </s>
+ <s> Roy ignored the spurious data points in drawing the graph. </s>
+ <s> Is this seesaw safe. </s>
+ <s> Those thieves stole thirty jewels. </s>
+ <s> Aluminium cutlery can often be flimsy. </s>
+ <s> Most young rabbits rise early every morning. </s>
+ <s> Beg that guard for one gallon of petrol. </s>
+ <s> Get a calico cat to keep the rodents away. </s>
+ <s> Tina turner is a pop singer. </s>
+ <s> Mum strongly dislikes appetizers. </s>
+ <s> Her classical repertoire gained critical acclaim. </s>
+ <s> It's illegal to postdate a cheque. </s>
+ <s> Youngsters love corn candy as a treat. </s>
+ <s> Glucose and fructose are natural sugars found in fruit. </s>
+ <s> Few people live to be a hundred. </s>
+ <s> Tradition requires parental approval for underage marriage. </s>
+ <s> The altruistic dowager helped many malnourished vagrants. </s>
+ <s> The haunted house was a hit due to outstanding audiovisual effects. </s>
+ <s> They all enjoy ice cream sundaes. </s>
+ <s> Jeff's toy gocart never worked. </s>
+ <s> I honour my mum. </s>
+ <s> Rationalize all errors. </s>
+ <s> May I order a parfait after i eat dinner. </s>
+ <s> Does Hindu ideology honour cows? </s>
+ <s> We apply auditory modelling to computer speech recognition. </s>
+ <s> Tornados often destroy aviaries. </s>
+ <s> Jeff thought you argued in favour of a centrifuge purchase. </s>
+ <s> We like blue cheese but Victor likes brie. </s>
+ <s> Please dig my potatoes up before the frost. </s>
+ <s> Trish saw hours and hours of movies this Saturday. </s>
+ <s> Gremlins is yet another exciting movie by Steven Spielberg. </s>
+ <s> Growing well-kept gardens is very time consuming. </s>
+ <s> Is she going with you. </s>
+ <s> I took her word for it. </s>
+ <s> People drink much water with horseradish relish. </s>
+ <s> Gwen grows green beans in her vegetable garden. </s>
+ <s> The football team coach has a watch as thin as a dime. </s>
+ <s> Seamstresses attach zips with a thimble needle and thread. </s>
+ <s> That stinging vapour was caused by chloride vaporization. </s>
+ <s> Don't look for cheap valuables in a bank vault. </s>
+ <s> Which theatre shows Mother Goose? </s>
+ <s> She is thinner than I am. </s>
+ <s> Bright sunshine shimmers on the ocean. </s>
+ <s> Nothing is as offensive as innocence. </s>
+ <s> Where were you while we were away? </s>
+ <s> Are your grades higher or lower than Nancy's. </s>
+ <s> He will allow a rare lie. </s>
+ <s> Will robin wear a yellow lily. </s>
+ <s> Before Thursday's exam review every formula. </s>
+ <s> The museum hires musicians every evening. </s>
+ <s> Carl lives in a lively home. </s>
+ <s> She wore warm fleecy woolen overalls. </s>
+ <s> Alfalfa is healthy for you. </s>
+ <s> When all else fails use force. </s>
+ <s> Although always alone we survive. </s>
+ <s> Did dad do academic bidding? </s>
+ <s> Help greg to pick a peck of potatoes. </s>
+ <s> A good attitude is unbeatable. </s>
+ <s> Coconut cream pie makes a nice dessert. </s>
+ <s> Only the most accomplished artists obtain popularity. </s>
+ <s> Critical equipment needs proper maintenance. </s>
+ <s> Young people participate in athletic activities. </s>
+ <s> Stimulating discussions keep students' attention. </s>
+ <s> Etiquette mandates compliance with existing regulations. </s>
+ <s> Biblical scholars argue history. </s>
+ <s> Elderly people are often excluded. </s>
+ <s> Addition and subtraction are learned skills. </s>
+ <s> Grandmother outgrew her upbringing in petticoats. </s>
+ <s> Catastrophic economic cutbacks neglect the poor. </s>
+ <s> Even a simple vocabulary contains symbols. </s>
+ <s> The eastern coast is a place for pure pleasure and excitement. </s>
+ <s> The lack of heat compounded the tenant's grievances. </s>
+ <s> Academic aptitude guarantees your diploma. </s>
+ <s> We experience distress and frustration obtaining our degrees. </s>
+ <s> The singer's finger had a splinter. </s>
+ <s> The legislature met to judge the state of public education. </s>
+ <s> Chocolate and roses never fail as a romantic gift. </s>
+ <s> Regular attendance is seldom required. </s>
+ <s> Challenge each general's intelligence. </s>
+ <s> We got drenched from the uninterrupted rain. </s>
+ <s> Upgrade your status to reflect your wealth. </s>
+ <s> Eat your raisins outdoors on the porch steps. </s>
+ <s> Porcupines resemble sea urchins. </s>
+ <s> Spring street is straight ahead. </s>
+ <s> An official deadline cannot be postponed. </s>
+ <s> Fill that canteen with fresh spring water. </s>
+ <s> Bagpipes and bongos are musical instruments. </s>
+ <s> Will you please describe the idiotic predicament. </s>
+ <s> It's impossible to deal with bureaucracy. </s>
+ <s> Good service should be rewarded by big tips. </s>
+ <s> My instructions desperately need updating. </s>
+ <s> Cement is measured in cubic yards. </s>
+ <s> Primitive tribes have an upbeat attitude. </s>
+ <s> Flying standby can be practical if you want to save money. </s>
+ <s> It's hard to tell an original from a forgery. </s>
+ <s> A large household needs lots of appliances. </s>
+ <s> Cut a small corner off each edge. </s>
+ <s> Iguanas and alligators are tropical reptiles. </s>
+ <s> Penguins live near the icy antarctic. </s>
+ <s> Guess the question from the answer. </s>
+ <s> Medieval society was based on hierarchies. </s>
+ <s> Project development was proceeding too slowly. </s>
+ <s> Special task forces rescue hostages from kidnappers. </s>
+ <s> Call an ambulance for medical assistance. </s>
+ <s> You must explicitly delete files. </s>
+ <s> Birthday parties have cupcakes and ice cream. </s>
+ <s> His scalp was blistered from today's hot sun. </s>
+ <s> She slipped and sprained her ankle on the steep slope. </s>
+ <s> The best way to learn is to solve extra problems. </s>
+ <s> Tugboats are capable of hauling huge loads. </s>
+ <s> A muscular abdomen is good for your back. </s>
+ <s> The cartoon features a muskrat and a tadpole. </s>
+ <s> The emblem depicts the acropolis all aglow. </s>
+ <s> Combine all the ingredients in a large bowl. </s>
+ <s> The misquote was retracted with an apology. </s>
+ <s> The coyote bobcat and hyena are wild animals. </s>
+ <s> Encyclopedias seldom present anecdotal evidence. </s>
+ <s> A screwdriver is made from vodka and orange juice. </s>
+ <s> Objects made of pewter are beautiful. </s>
+ <s> Westchester is a county in New York. </s>
+ <s> The emperor had a mean temper. </s>
+ <s> Lots of foreign movies have subtitles. </s>
+ <s> He ate four extra eggs for breakfast. </s>
+ <s> Publicity and notoriety go hand in hand. </s>
+ <s> Pizzerias are convenient for a quick lunch. </s>
+ <s> December and january are nice months to spend in Miami. </s>
+ <s> Technical writers can abbreviate in bibliographies. </s>
+ <s> The clumsy customer spilled some expensive perfume. </s>
+ <s> The bungalow was pleasantly situated near the shore. </s>
+ <s> Agricultural products are unevenly distributed. </s>
+ <s> Pledge to participate in nevada's aquatic competition. </s>
+ <s> The willowy woman wore a muskrat coat. </s>
+ <s> Too much curiosity can get you into trouble. </s>
+ <s> Cyclical programs will never compile. </s>
+ <s> Most precincts had a third of the votes counted. </s>
+ <s> While waiting for Chipper, she crisscrossed the square many times. </s>
+ <s> Vietnamese cuisine is exquisite. </s>
+ <s> The previous speaker presented ambiguous results. </s>
+ <s> Scholastic aptitude is judged by standardized tests. </s>
+ <s> Orange juice tastes funny after toothpaste. </s>
+ <s> Our experiment's positive outcome was unexpected. </s>
+ <s> The drunkard is a social outcast. </s>
+ <s> The government sought authorization of his citizenship. </s>
+ <s> As coauthors we presented our new book to the haughty audience. </s>
+ <s> As a precaution the outlaws bought gunpowder for their stronghold. </s>
+ <s> They remained lifelong friends and companions. </s>
+ <s> Curiosity and mediocrity seldom coexist. </s>
+ <s> Biologists use radioactive isotopes to study microorganisms. </s>
+ <s> Employee layoffs coincided with the company's reorganization. </s>
+ <s> The Mayan neoclassic scholar disappeared while surveying ancient ruins. </s>
+ <s> The diagnosis was discouraging however he was not overly worried. </s>
+ <s> The triumphant warrior exhibited naive heroism. </s>
+ <s> Severe myopia contributed to ron's inferiority complex. </s>
+ <s> Buying a thoroughbred horse requires intuition and expertise. </s>
+ <s> Does creole cooking use curry? </s>
+ <s> She encouraged her children to make their own halloween costumes. </s>
+ <s> Almost all colleges are now coeducational. </s>
+ <s> Rich looked for spotted hyenas and jaguars on the safari. </s>
+ <s> Why else would Danny allow others to go? </s>
+ <s> Did you buy any corduroy overalls? </s>
+ <s> Would a tomboy often play outdoors. </s>
+ <s> They often go out in the evening. </s>
+ <s> Who authorized the unlimited expense account? </s>
+ <s> Serve the coleslaw after i add the oil. </s>
+ <s> Withdraw all phony accusations at once. </s>
+ <s> Straw hats are out of fashion this year. </s>
+ <s> Why buy oil when you always use mine? </s>
+ <s> How do oysters make pearls? </s>
+ <s> Draw each graph on a new axis. </s>
+ <s> Norwegian sweaters are made of lamb's wool. </s>
+ <s> Ralph controlled the stopwatch from the bleachers. </s>
+ <s> Approach your interview with statuesque composure. </s>
+ <s> How much allowance do you get? </s>
+ <s> The causeway ended abruptly at the shore. </s>
+ <s> Military personnel are expected to obey government orders. </s>
+ <s> When peeling an orange it is hard not to spray juice. </s>
+ <s> Rob sat by the pond and sketched the stray geese. </s>
+ <s> Only the best players enjoy popularity. </s>
+ <s> I gave them several choices and let them set the priorities. </s>
+ <s> The news agency hired a great journalist. </s>
+ <s> The morning dew on the spider web glistened in the sun. </s>
+ <s> The small boy put the worm on the hook. </s>
+ <s> How permanent are their records? </s>
+ <s> Try to recall the events in chronological order. </s>
+ <s> The most recent geological survey found seismic activity. </s>
+ <s> Put the butcher block table in the garage. </s>
+ <s> How good is your endurance? </s>
+ <s> Keep the thermometer under your tongue. </s>
+ <s> It's healthier to cook without sugar. </s>
+ <s> The viewpoint overlooked the ocean. </s>
+ <s> Are you looking for employment. </s>
+ <s> His failure to open the store by eight cost him his job. </s>
+ <s> The paper boy bought two apples and three ices. </s>
+ <s> I itemize all accounts in my agency. </s>
+ <s> The courier was a dwarf. </s>
+ <s> Puree some fruit before preparing the skewers. </s>
+ <s> It's not easy to create illuminating examples. </s>
+ <s> The hallway opens into a huge chamber. </s>
+ <s> They all agree that the essay is barely intelligible. </s>
+ <s> The cigarettes in the clay ashtray overflowed onto the oak table. </s>
+ <s> Reading in poor light gives you eyestrain. </s>
+ <s> I ate every oyster on Nora's plate. </s>
+ <s> The boston ballet overcame their funding shortage. </s>
+ <s> Do they allow atheists in church? </s>
+ <s> My ideal morning begins with hot coffee. </s>
+ <s> The irate actor stomped away idiotically. </s>
+ <s> The essay undeniably reflects our view ably. </s>
+ <s> Remember to allow identical twins to enter freely. </s>
+ <s> Do you have the yellow ointment ready? </s>
+ <s> Can the agency overthrow alien forces. </s>
+ <s> We saw eight tiny icicles below our roof. </s>
+ <s> The saw is broken so chop the wood instead. </s>
+ <s> Draw every outer line first then fill in the interior. </s>
+ <s> Do atypical farmers grow oats? </s>
+ <s> Are holiday aprons available to us. </s>
+ <s> Be careful not to plow over the flower beds. </s>
+ <s> Allow each child to have an ice pop. </s>
+ <s> Cliff was soothed by the luxurious massage. </s>
+ <s> Steve wore a bright red cashmere sweater. </s>
+ <s> John's brother repainted the garage door. </s>
+ <s> The rose corsage smelled sweet. </s>
+ <s> The oasis was a mirage. </s>
+ <s> Cory and trish played tag with beach balls for hours. </s>
+ <s> The tooth fairy forgot to come when Roger's tooth fell out. </s>
+ <s> Rich purchased several signed lithographs. </s>
+ <s> In every major cloverleaf traffic sometimes gets backed up. </s>
+ <s> In the long run it pays to buy quality clothing. </s>
+ <s> Brush fires are common in the dry underbrush of Nevada. </s>
+ <s> This brochure is particularly informative for a prospective buyer. </s>
+ <s> The avalanche triggered a minor earthquake. </s>
+ <s> Please take this dirty table cloth to the cleaners for me. </s>
+ <s> If Carol comes tomorrow have her arrange for a meeting at two. </s>
+ <s> The two artists exchanged autographs. </s>
+ <s> I'd rather not buy these shoes than be overcharged. </s>
+ <s> Shaving cream is a popular item on Halloween. </s>
+ <s> Tofu is made from processed soybeans. </s>
+ <s> The bluejay flew over the high building. </s>
+ <s> Cheap stockings run the first time they're worn. </s>
+ <s> Cottage cheese with chives is delicious. </s>
+ <s> Shipbuilding is a most fascinating process. </s>
+ <s> The proof that you are seeking is not available in books. </s>
+ <s> The hood of the jeep was steaming in the hot sun. </s>
+ <s> Those answers will be straightforward if you think them through carefully first. </s>
+ <s> Drop five forms in the box before you go out. </s>
+ <s> If people were more generous there would be no need for welfare. </s>
+ <s> Bob found more clams at the ocean's edge. </s>
+ <s> The cranberry bog gets very pretty in autumn. </s>
+ <s> A big goat idly ambled through the farmyard. </s>
+ <s> The groundhog clearly saw his shadow but stayed out only a moment. </s>
+ <s> The fog prevented them from arriving on time. </s>
+ <s> The local drugstore was charged with illegally dispensing tranquilizers. </s>
+ <s> The full moon shone brightly that night. </s>
+ <s> Steve collects rare and novel coins. </s>
+ <s> Gregory and Tom chose to watch cartoons in the afternoon. </s>
+ <s> Chip postponed alimony payments until the latest possible date. </s>
+ <s> Count the number of teaspoons of soysauce that you add. </s>
+ <s> The big dog loved to chew on the old rag doll. </s>
+ <s> Often you'll get back more than you put in. </s>
+ <s> Gus saw pine trees and redwoods on his walk through Sequoia National Forest. </s>
+ <s> Bob bandaged both wounds with the skill of a doctor. </s>
+ <s> Did Shawn catch that big goose without help? </s>
+ <s> Ducks have webbed feet and colorful feathers. </s>
+ <s> The high security prison was surrounded by barbed wire. </s>
+ <s> Take charge of choosing her bride's maids' gowns. </s>
+ <s> I know I didn't meet her early enough. </s>
+ <s> The barracuda recoiled from the serpent's poisonous fangs. </s>
+ <s> I'll have a scoop of that exotic purple and turquoise sherbet. </s>
+ <s> Many wealthy tycoons splurged and bought both a yacht and a schooner. </s>
+ <s> The new suburbanites worked hard on refurbishing their older home. </s>
+ <s> According to my interpretation of the problem, two lines must be perpendicular. </s>
+ <s> A connoisseur will enjoy this shellfish dish. </s>
+ <s> Dolphins are intelligent marine mammals. </s>
+ <s> Diane may splurge and buy a turquoise necklace. </s>
+ <s> The moisture in my eyes is from eyedrops, not from tears. </s>
+ <s> George seldom watches daytime movies. </s>
+ <s> The annoying raccoons slipped into Phil's garden every night. </s>
+ <s> The cow wandered from the farmland and became lost. </s>
+ <s> Each untimely income loss coincided with the breakdown of a heating system part. </s>
+ <s> Will you please confirm government policy regarding waste removal. </s>
+ <s> The surplus shoes were sold at a discount price. </s>
+ <s> Lori's costume needed black gloves to be completely elegant. </s>
+ <s> Bob papered over the living room murals. </s>
+ <s> Right now may not be the best time for business mergers. </s>
+ <s> That diagram makes sense only after much study. </s>
+ <s> John cleans shellfish for a living. </s>
+ <s> She always jokes about too much garlic in his food. </s>
+ <s> I just saw Jim near the new archeological museum. </s>
+ <s> Pam gives driving lessons on Thursdays. </s>
+ <s> Why charge money for such garbage? </s>
+ <s> George is paranoid about a future gas shortage. </s>
+ <s> The carpet cleaners shampooed our oriental rug. </s>
+ <s> Please shorten this skirt for Joyce. </s>
+ <s> His shoulder felt as if it were broken. </s>
+ <s> Her right hand aches whenever the barometric pressure changes. </s>
+ <s> They own a big house in the remote countryside. </s>
+ <s> He picked up nine pairs of socks for each brother. </s>
+ <s> A young mouse scampered across the field and disappeared. </s>
+ <s> She uses both names interchangeably. </s>
+ <s> Calcium makes bones and teeth strong. </s>
+ <s> The fish began to leap frantically on the surface of the small lake. </s>
+ <s> They assume no burglar will ever enter here. </s>
+ <s> Just drop notices in any suggestion box. </s>
+ <s> We'll serve rhubarb pie after Rachel's talk. </s>
+ <s> Barb burned paper and leaves in a big bonfire. </s>
+ <s> Of course you can have another tunafish sandwich. </s>
+ <s> There was a gigantic wasp next to Irving's big top hat. </s>
+ <s> Laugh, dance and sing, if fortune smiles upon you. </s>
+ <s> Eating spinach nightly increases strength miraculously. </s>
+ <s> Butterscotch fudge goes well with vanilla ice cream. </s>
+ <s> Daphne's Swedish needlepoint scarf matched her skirt. </s>
+ <s> Irish youngsters eat fresh kippers for breakfast. </s>
+ <s> Valley lodge yearly celebrates the first calf born. </s>
+ <s> Iris thinks this zoo has eleven Spanish zebras. </s>
+ <s> Those who teach values first abolish cheating. </s>
+ <s> Smash lightbulbs and their cash value will diminish to nothing. </s>
+ <s> Top zinnias rarely have crooked stems. </s>
+ <s> Movies never have enough villains. </s>
+ <s> Every cab needs repainting often. </s>
+ <s> A toothpaste tube should be squeezed from the bottom. </s>
+ <s> Those who are not purists use canned vegetables when making stew. </s>
+ <s> The overweight charmer could slip poison into anyone's tea. </s>
+ <s> The rich should invest in black zircons instead of stylish shoes. </s>
+ <s> Please sing just the club theme. </s>
+ <s> They used an aggressive policeman to flag thoughtless motorists. </s>
+ <s> Shell shock caused by shrapnel is sometimes cured through group therapy. </s>
+ <s> Suburban housewives often suffer from the gab habit. </s>
+ <s> A lone star shone in the early evening sky. </s>
+ <s> The toddler found a clamshell near the camp site. </s>
+ <s> What is this large thing by the ironing board? </s>
+ <s> Spherical gifts are difficult to wrap. </s>
+ <s> Ralph prepared red snapper with fresh lemon sauce for dinner. </s>
+ <s> Roy ignored the spurious data points in drawing the graph. </s>
+ <s> In developing film many toxic chemicals are used. </s>
+ <s> Is this seesaw safe. </s>
+ <s> Those thieves stole thirty jewels. </s>
+ <s> Aluminium cutlery can often be flimsy. </s>
+ <s> Most young rabbits rise early every morning. </s>
+ <s> Beg that guard for one gallon of petrol. </s>
+ <s> Tina turner is a pop singer. </s>
+ <s> Mum strongly dislikes appetizers. </s>
+ <s> Her classical repertoire gained critical acclaim. </s>
+ <s> Did you eat lunch yesterday? </s>
+ <s> It's illegal to postdate a cheque. </s>
+ <s> Youngsters love corn candy as a treat. </s>
+ <s> Glucose and fructose are natural sugars found in fruit. </s>
+ <s> Few people live to be a hundred. </s>
+ <s> Tradition requires parental approval for underage marriage. </s>
+ <s> The haunted house was a hit due to outstanding audiovisual effects. </s>
+ <s> They all enjoy ice cream sundaes. </s>
+ <s> Jeff's toy gocart never worked. </s>
+ <s> Allow leeway here. </s>
+ <s> I honour my mum. </s>
+ <s> Rationalize all errors. </s>
+ <s> May I order a parfait after i eat dinner. </s>
+ <s> Does Hindu ideology honour cows? </s>
+ <s> We apply auditory modelling to computer speech recognition. </s>
+ <s> Jeff thought you argued in favour of a centrifuge purchase. </s>
+ <s> We like blue cheese but Victor likes brie. </s>
+ <s> Please dig my potatoes up before the frost. </s>
+ <s> Rob made hungarian goulash for dinner and gooseberry pie for desert. </s>
+ <s> Trish saw hours and hours of movies this Saturday. </s>
+ <s> Gremlins is yet another exciting movie by Steven Spielberg. </s>
+ <s> Growing well-kept gardens is very time consuming. </s>
+ <s> Is she going with you. </s>
+ <s> I took her word for it. </s>
+ <s> Gwen grows green beans in her vegetable garden. </s>
+ <s> The football team coach has a watch as thin as a dime. </s>
+ <s> Seamstresses attach zips with a thimble needle and thread. </s>
+ <s> Coffee is grown on steep junglelike slopes in temperate zones. </s>
+ <s> That stinging vapour was caused by chloride vaporization. </s>
+ <s> Don't look for cheap valuables in a bank vault. </s>
+ <s> Which theatre shows Mother Goose? </s>

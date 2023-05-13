@@ -2,7 +2,7 @@
 
 # Define the list of input and output file pairs
 input_files=("./data/train/text" "./data/test/text" "./data/dev/text")
-output_files=("./data/train/lm_train.txt" "./data/test/lm_train.txt" "./data/dev/lm_train.txt")
+output_files=("./data/local/dict/lm_train.txt" "./data/local/dict/lm_test.txt" "./data/local/dict/lm_dev.txt")
 
 lexicon_file=("./lexicon.txt")
 
@@ -13,11 +13,11 @@ for i in "${!input_files[@]}"; do
     while read -r line; do
 
         # Split line into utterance ID and sentence
-        utterance_id=${line%% *}
+        #utterance_id=${line%% *}
         sentence=${line#* }
 
         # Write new sentence to output file
-        echo "$utterance_id <s> "${sentence}" </s>" >> "${output_files[$i]}"
+        echo " <s> "${sentence}" </s>" >> "${output_files[$i]}"
 
     done < "${input_files[$i]}"
 

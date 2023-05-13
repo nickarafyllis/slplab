@@ -1,9 +1,7 @@
 #!/bin/bash
 
 # Concatenate the two input files
-sed '1s/^/\n/' "$2" > temp_file
-
-cat "$1" temp_file > combined.txt
+cat "$1" "$2" > combined.txt
 
 # Loop over each line in the combined file
 while read phonem; do
@@ -13,4 +11,3 @@ done < combined.txt
 
 # Remove the temp files
 rm combined.txt
-rm temp_file

@@ -16,7 +16,7 @@ while read -r line; do
     
     for word in "${words[@]}"; do
         #if word not in list, append
-        if [[ ! " ${non_silent_phonemes[@]} " =~ " ${word} " ]]; then
+        if [[ ! " ${non_silent_phonemes[@]} " =~ " ${word} " ]] && [[ "$word" != "sil" ]]; then
             non_silent_phonemes+=("${word} ")
             #echo ${word}
         fi
