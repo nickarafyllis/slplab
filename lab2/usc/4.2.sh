@@ -1,5 +1,4 @@
 #!/bin/bash
-
 source ./path.sh
 
 #4.2.1
@@ -36,5 +35,4 @@ bash sort.sh
 #4.2.7
 wget https://raw.githubusercontent.com/slp-ntua/slp-labs/master/lab2/timit_format_data.sh
 
-#needs fixing
 bash timit_format_data.sh

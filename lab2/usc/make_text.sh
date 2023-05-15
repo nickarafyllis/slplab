@@ -9,17 +9,17 @@ transcriptions_file=("./transcriptions.txt")
 # Loop through each input/output file pair
 for i in "${!input_files[@]}"; do
 
-  # Initialize line counter
-  line_num=1
-
   # Loop through each line in the input file
   while read line; do
 
-    # Split the line into an array of strings
+    #split to get utterance_id
+    IFS='' read -r -a id <<< "$line"
+
+    #split to take utterance number
     IFS='_' read -r -a strings <<< "$line"
 
     # Combine line number with "utterance_id"
-    utterance_id="utterance_id_${line_num}"
+    utterance_id="${id[0]}"
 
     search_string="${strings[1]}"
 
@@ -35,9 +35,6 @@ for i in "${!input_files[@]}"; do
 
     # Write the new line to the output file
     echo "$utterance_id $text" >> "${output_files[$i]}"
-
-    # Increment the line number counter
-    line_num=$((line_num+1))
 
   done < "${input_files[$i]}"
 
