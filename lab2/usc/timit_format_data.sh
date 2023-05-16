@@ -58,4 +58,4 @@ done
 
 
 echo "Succeeded in formatting data."
-rm -r $tmpdir
+#rm -r $tmpdir

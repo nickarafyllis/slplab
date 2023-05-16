@@ -17,9 +17,14 @@ touch ./data/local/dict/extra_questions.txt
 ./lm_build.sh 
 
 #4.2.3
-#TODO complile also dev and test for question 1 
 compile-lm ./data/local/lm_tmp/train_unigram.ilm.gz -t=yes /dev/stdout | grep -v unk | gzip -c > ./data/local/nist_lm/lm_phone_ug.arpa.gz
 compile-lm ./data/local/lm_tmp/train_bigram.ilm.gz -t=yes /dev/stdout | grep -v unk | gzip -c > ./data/local/nist_lm/lm_phone_bg.arpa.gz
+
+compile-lm ./data/local/lm_tmp/test_unigram.ilm.gz -t=yes /dev/stdout | grep -v unk | gzip -c > ./data/local/nist_lm/test_ug.arpa.gz
+compile-lm ./data/local/lm_tmp/test_bigram.ilm.gz -t=yes /dev/stdout | grep -v unk | gzip -c > ./data/local/nist_lm/test_bg.arpa.gz
+
+compile-lm ./data/local/lm_tmp/dev_unigram.ilm.gz -t=yes /dev/stdout | grep -v unk | gzip -c > ./data/local/nist_lm/dev_ug.arpa.gz
+compile-lm ./data/local/lm_tmp/dev_bigram.ilm.gz -t=yes /dev/stdout | grep -v unk | gzip -c > ./data/local/nist_lm/dev_bg.arpa.gz
 
 #4.2.4
 prepare_lang.sh ./data/local/dict "<oov>" ./data/local/lang ./data/lang
@@ -36,3 +41,6 @@ bash sort.sh
 wget https://raw.githubusercontent.com/slp-ntua/slp-labs/master/lab2/timit_format_data.sh
 
 bash timit_format_data.sh
+
+#question 1
+bash comp_perplexity
