@@ -43,4 +43,4 @@ wget https://raw.githubusercontent.com/slp-ntua/slp-labs/master/lab2/timit_forma
 bash timit_format_data.sh
 
 #question 1
-bash comp_perplexity
+bash comp_perplexity.sh
