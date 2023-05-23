@@ -13,6 +13,10 @@ rm -R mfcc_logs
 
 
 # question 3
+
 # frames per sentence
 feat-to-len scp:data/train/feats.scp ark,t:data/train/feats.lengths
 head -5 data/train/feats.lengths
+
+# characteristics dimension 
+feat-to-dim ark:mfcc_train/raw_mfcc_train.1.ark -
