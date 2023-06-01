@@ -31,8 +31,7 @@ class SentenceDataset(Dataset):
         """
 
         # Tokenize text
-        data = [[w for w in x.split(" ") if len(w) > 0] for x in X]
-        self.data = [j for sub in data for j in sub] # convert 2d list to 1d list
+        self.data = [[w for w in x.split(" ") if len(w) > 0] for x in X]
         self.labels = y
         self.word2idx = word2idx
 
