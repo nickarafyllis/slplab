@@ -71,8 +71,8 @@ for i in range(10):
 train_set = SentenceDataset(X_train, y_train, word2idx)
 test_set = SentenceDataset(X_test, y_test, word2idx)
 
-for i in train_set.data[:10]:
-    print("Token: {}".format(i))
+for i, ex in enumerate(train_set.data[:10]):
+    print("Example {}: {}".format(i+1, ex))
 
 """
 # EX7 - Define our PyTorch-based DataLoader
