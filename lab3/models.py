@@ -25,21 +25,30 @@ class BaselineDNN(nn.Module):
         super(BaselineDNN, self).__init__()
 
         # 1 - define the embedding layer
-        ...  # EX4
+
+        # Create the embedding layer
+        self.embedding = nn.Embedding(embeddings.shape[0], embeddings.shape[1]) # EX4
 
         # 2 - initialize the weights of our Embedding layer
         # from the pretrained word embeddings
-        ...  # EX4
+        self.embedding.weight = nn.Parameter(torch.FloatTensor(embeddings))  # EX4
 
         # 3 - define if the embedding layer will be frozen or finetuned
-        ...  # EX4
+        self.embedding.weight.requires_grad = False  # EX4
 
         # 4 - define a non-linear transformation of the representations
-        ...  # EX5
+        self.non_linear = nn.ReLU()  # EX5
 
         # 5 - define the final Linear layer which maps
         # the representations to the classes
-        ...  # EX5
+        
+        # Define the output dimension of the output layer
+        output_dim = 25
+        # Define the number of classes
+        num_classes = 3
+
+        # define the final linear layer that maps representations to classes
+        self.final_layer = nn.Linear(output_dim, num_classes) # EX5
 
     def forward(self, x, lengths):
         """
@@ -51,16 +60,17 @@ class BaselineDNN(nn.Module):
         """
 
         # 1 - embed the words, using the embedding layer
-        embeddings = ...  # EX6
+        embeddings = self.embedding(x) # EX6
 
         # 2 - construct a sentence representation out of the word embeddings
-        representations = ...  # EX6
+        # Take the mean along the time dimension, considering the actual lengths
+        representations = torch.sum(embeddings, dim=1) / lengths.view(-1, 1)   # EX6
 
         # 3 - transform the representations to new ones.
-        representations = ...  # EX6
+        representations = self.non_linear(representations)  # EX6
 
         # 4 - project the representations to classes using a linear layer
-        logits = ...  # EX6
+        logits = self.final_layer(representations)  # EX6
 
         return logits
 
