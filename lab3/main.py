@@ -74,15 +74,15 @@ test_set = SentenceDataset(X_test, y_test, word2idx)
 for i, ex in enumerate(train_set.data[:10]):
     print("Example {}: {}".format(i+1, ex))
 
-"""
+
 # EX7 - Define our PyTorch-based DataLoader
-train_loader = ...  # EX7
-test_loader = ...  # EX7
+train_loader = DataLoader(train_set, batch_size=BATCH_SIZE, shuffle=True)  # EX7
+test_loader = DataLoader(train_set, batch_size=BATCH_SIZE)   # EX7
 
 #############################################################################
 # Model Definition (Model, Loss Function, Optimizer)
 #############################################################################
-model = BaselineDNN(output_size=...,  # EX8
+model = BaselineDNN(output_size=n_classes,  # EX8
                     embeddings=embeddings,
                     trainable_emb=EMB_TRAINABLE)
 
@@ -91,9 +91,13 @@ model.to(DEVICE)
 print(model)
 
 # We optimize ONLY those parameters that are trainable (p.requires_grad==True)
-criterion = ...  # EX8
-parameters = ...  # EX8
-optimizer = ...  # EX8
+if (n_classes == 3):
+    criterion = torch.nn.CrossEntropyLoss()  # EX8
+elif (n_classes == 2):
+    criterion = torch.nn.BCEWithLogitsLoss()
+    
+parameters = filter(lambda p: p.requires_grad, model.parameters()) # EX8
+optimizer = torch.optim.Adam(parameters) # EX8
 
 #############################################################################
 # Training Pipeline
@@ -110,5 +114,3 @@ for epoch in range(1, EPOCHS + 1):
     test_loss, (y_test_gold, y_test_pred) = eval_dataset(test_loader,
                                                          model,
                                                          criterion)
-
-"""

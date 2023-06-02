@@ -34,7 +34,8 @@ class BaselineDNN(nn.Module):
         self.embedding.weight = nn.Parameter(torch.FloatTensor(embeddings))  # EX4
 
         # 3 - define if the embedding layer will be frozen or finetuned
-        self.embedding.weight.requires_grad = False  # EX4
+        if (trainable_emb == False):
+            self.embedding.weight.requires_grad = False  # EX4
 
         # 4 - define a non-linear transformation of the representations
         self.non_linear = nn.ReLU()  # EX5
@@ -43,12 +44,10 @@ class BaselineDNN(nn.Module):
         # the representations to the classes
         
         # Define the output dimension of the output layer
-        output_dim = 25
-        # Define the number of classes
-        num_classes = 3
+        output_dim = 25 #maybe change this
 
         # define the final linear layer that maps representations to classes
-        self.final_layer = nn.Linear(output_dim, num_classes) # EX5
+        self.final_layer = nn.Linear(output_dim, output_size) # EX5
 
     def forward(self, x, lengths):
         """
