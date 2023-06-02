@@ -5,6 +5,13 @@ nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 import numpy as np
 
+# import TweetTokenizer() method from nltk
+from nltk.tokenize import TweetTokenizer
+import nltk
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+
+
 class SentenceDataset(Dataset):
     """
     Our custom PyTorch Dataset, for preparing strings of text (sentences)
@@ -35,7 +42,40 @@ class SentenceDataset(Dataset):
         """
 
         # Tokenize text
-        self.data = [word_tokenize(x) for x in X]
+        # self.data = [word_tokenize(x) for x in X]
+        # self.labels = y
+        # self.word2idx = word2idx
+        
+        self.data = []
+        # Tokenize text
+        Dataset = "MR"
+        if Dataset == "MR":
+            # heavy tokenization
+            # Tokenization and preprocessing
+            nltk.download('wordnet')
+            nltk.download('stopwords')
+            nltk.download('omw-1.4')
+            stop_words = set(stopwords.words('english'))
+            lemmatizer = WordNetLemmatizer()
+
+            for sample in X:
+                # Tokenize the sample
+                tokens = nltk.word_tokenize(sample)
+
+                # Apply preprocessing steps
+                tokens = [lemmatizer.lemmatize(token.lower()) for token in tokens if token.isalnum()]
+                tokens = [token for token in tokens if token not in stop_words]
+
+                self.data.append(tokens)
+                
+            #self.data = [[w for w in x.split(" ") if len(w) > 0] for x in X]
+            
+        elif Dataset == "Semeval2017A":
+            # Create an instance of the TweetTokenizer
+            tokenizer = TweetTokenizer()
+            # Tokenize the dataset
+            self.data  = [tokenizer.tokenize(tweet) for tweet in X]
+        
         self.labels = y
         self.word2idx = word2idx
 
@@ -81,19 +121,33 @@ class SentenceDataset(Dataset):
 
         # EX3
         # Map tokens to numbers
-        word2idx = self.word2idx
-        example = np.array([word2idx[w] if w in word2idx else word2idx['<unk>'] for w in self.data[index]])
+        # word2idx = self.word2idx
+        # example = np.array([word2idx[w] if w in word2idx else word2idx['<unk>'] for w in self.data[index]])
 
-        # We choose 50 as a vector size that covers most of the sentences
-        length = 50
-        if len(example) > 50:
-            example = example[:50]
+        # # We choose 50 as a vector size that covers most of the sentences
+        # length = 50
+        # if len(example) > 50:
+        #     example = example[:50]
 
-        if len(example) < 50:
-            length = len(example)
-            example = np.concatenate((example,np.zeros(50-length)))
+        # if len(example) < 50:
+        #     length = len(example)
+        #     example = np.concatenate((example,np.zeros(50-length)))
 
-        label = self.labels[index]
+        # label = self.labels[index]
 
 
-        return example, label, length
+        # return example, label, length
+    
+        sentence = self.data[index]
+
+        # Encode the sentence using word-to-id mapping
+        encoded_sentence = [self.word2idx.get(word, self.word2idx["<unk>"]) for word in sentence]
+
+        # Pad or truncate the sentence to a fixed length
+        max_length = 42  # Choose a suitable maximum length
+        if len(encoded_sentence) < max_length:
+            encoded_sentence += [0] * (max_length - len(encoded_sentence))
+        else:
+            encoded_sentence = encoded_sentence[:max_length]
+
+        return encoded_sentence, self.labels[index], len(sentence)
