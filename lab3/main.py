@@ -71,8 +71,25 @@ for i in range(10):
 train_set = SentenceDataset(X_train, y_train, word2idx)
 test_set = SentenceDataset(X_test, y_test, word2idx)
 
+# Question 2
 for i, ex in enumerate(train_set.data[:10]):
     print("Example {}: {}".format(i+1, ex))
+
+# Make histogram of lengths of sentences
+lengths = []
+for ex in train_set.data:
+    lengths.append(len(ex))
+
+hist_of_lens = {}
+for i in range(max(lengths)):
+    hist_of_lens[i+1] = lengths.count(i+1)
+
+print(hist_of_lens) # We choose 50 as a vector size that covers most of the sentences
+
+# Question 3
+for i, ex in enumerate(train_set.data[:5]):
+    print('Example {0}: {1}\nTransformed example {0}: {2}'.format(i+1, ex, train_set[i]))
+
 
 
 # EX7 - Define our PyTorch-based DataLoader
@@ -95,7 +112,7 @@ if (n_classes == 3):
     criterion = torch.nn.CrossEntropyLoss()  # EX8
 elif (n_classes == 2):
     criterion = torch.nn.BCEWithLogitsLoss()
-    
+
 parameters = filter(lambda p: p.requires_grad, model.parameters()) # EX8
 optimizer = torch.optim.Adam(parameters) # EX8
 

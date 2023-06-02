@@ -1,5 +1,9 @@
 from torch.utils.data import Dataset
 from tqdm import tqdm
+import nltk
+nltk.download('punkt')
+from nltk.tokenize import word_tokenize
+import numpy as np
 
 class SentenceDataset(Dataset):
     """
@@ -31,7 +35,7 @@ class SentenceDataset(Dataset):
         """
 
         # Tokenize text
-        self.data = [[w for w in x.split(" ") if len(w) > 0] for x in X]
+        self.data = [word_tokenize(x) for x in X]
         self.labels = y
         self.word2idx = word2idx
 
@@ -76,6 +80,20 @@ class SentenceDataset(Dataset):
         """
 
         # EX3
+        # Map tokens to numbers
+        word2idx = self.word2idx
+        example = np.array([word2idx[w] if w in word2idx else word2idx['<unk>'] for w in self.data[index]])
 
-        # return example, label, length
-        raise NotImplementedError
+        # We choose 50 as a vector size that covers most of the sentences
+        length = 50
+        if len(example) > 50:
+            example = example[:50]
+
+        if len(example) < 50:
+            length = len(example)
+            example = np.concatenate((example,np.zeros(50-length)))
+
+        label = self.labels[index]
+
+
+        return example, label, length
