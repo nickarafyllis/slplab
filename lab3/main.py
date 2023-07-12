@@ -9,9 +9,13 @@ from torch.utils.data import DataLoader
 from config import EMB_PATH
 from dataloading import SentenceDataset
 from models import BaselineDNN
-from training import train_dataset, eval_dataset
+from training import train_dataset, eval_dataset, torch_train_val_split
 from utils.load_datasets import load_MR, load_Semeval2017A
 from utils.load_embeddings import load_word_vectors
+
+import numpy as np
+from sklearn.metrics import f1_score, accuracy_score, recall_score
+import matplotlib.pyplot as plt
 
 warnings.filterwarnings("ignore", category=UndefinedMetricWarning)
 
@@ -119,15 +123,39 @@ optimizer = torch.optim.Adam(parameters) # EX8
 #############################################################################
 # Training Pipeline
 #############################################################################
+TRAIN_LOSS = []
+TEST_LOSS = []
+
 for epoch in range(1, EPOCHS + 1):
     # train the model for one epoch
-    train_dataset(epoch, train_loader, model, criterion, optimizer)
+    train_dataset(epoch, train_loader, model, criterion, optimizer, DATASET)
 
     # evaluate the performance of the model, on both data sets
     train_loss, (y_train_gold, y_train_pred) = eval_dataset(train_loader,
                                                             model,
-                                                            criterion)
+                                                            criterion,DATASET)
 
     test_loss, (y_test_gold, y_test_pred) = eval_dataset(test_loader,
                                                          model,
-                                                         criterion)
+                                                         criterion, DATASET)
+
+    TRAIN_LOSS.append(train_loss)
+    TEST_LOSS.append(test_loss)
+    # compute metrics using sklearn functions
+
+    print("Train loss:" , train_loss)
+    print("Test loss:", test_loss)
+    print("Train accuracy:" , accuracy_score(y_train_gold, y_train_pred))
+    print("Test accuracy:" , accuracy_score(y_test_gold, y_test_pred))
+    print("Train F1 score:", f1_score(y_train_gold, y_train_pred, average='macro'))
+    print("Test F1 score:", f1_score(y_test_gold, y_test_pred, average='macro'))
+    print("Train Recall:", recall_score(y_train_gold, y_train_pred, average='macro'))
+    print("Test Recall:", recall_score(y_test_gold, y_test_pred, average='macro'))
+
+plt.plot(range(1, EPOCHS + 1), TRAIN_LOSS, label='Training Loss')
+plt.plot(range(1, EPOCHS + 1), TEST_LOSS, label='Validation Loss')
+plt.xlabel('Epoch')
+plt.ylabel('Loss')
+plt.title('Training and Validation Loss')
+plt.legend()
+plt.show()

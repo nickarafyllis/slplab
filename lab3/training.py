@@ -26,7 +26,7 @@ def progress(loss, epoch, batch, batch_size, dataset_size):
         print()
 
 
-def train_dataset(_epoch, dataloader, model, loss_function, optimizer):
+def train_dataset(_epoch, dataloader, model, loss_function, optimizer, dataset):
     # IMPORTANT: switch to train mode
     # enable regularization layers, such as Dropout
     model.train()
@@ -38,6 +38,7 @@ def train_dataset(_epoch, dataloader, model, loss_function, optimizer):
     for index, batch in enumerate(dataloader, 1):
         # get the inputs (batch)
         inputs, labels, lengths = batch
+
 
         # move the batch tensors to the right device
         inputs = inputs.to(device)    # EX9
@@ -53,9 +54,14 @@ def train_dataset(_epoch, dataloader, model, loss_function, optimizer):
         outputs = model(inputs, lengths) # EX9
 
         # Step 3 - compute loss: L = loss_function(y, y')
-        
+
         ###maybe here need to transform labels based on the dataset.
-        loss = loss_function(outputs, labels) # EX9
+        if dataset == "MR":
+            transformed_labels = torch.FloatTensor([[1,0] if i == 0 else [0,1] for i in labels])
+        else:
+            transformed_labels = labels
+
+        loss = loss_function(outputs, transformed_labels) # EX9
 
         # Step 4 - backward pass: compute gradient wrt model parameters
         loss.backward() # EX9
@@ -75,7 +81,7 @@ def train_dataset(_epoch, dataloader, model, loss_function, optimizer):
     return running_loss / index
 
 
-def eval_dataset(dataloader, model, loss_function):
+def eval_dataset(dataloader, model, loss_function, dataset):
     # IMPORTANT: switch to eval mode
     # disable regularization layers, such as Dropout
     model.eval()
@@ -105,14 +111,20 @@ def eval_dataset(dataloader, model, loss_function):
             # Step 3 - compute loss.
             # We compute the loss only for inspection (compare train/test loss)
             # because we do not actually backpropagate in test time
-            loss = loss_function(outputs, labels)  # EX9
+
+            if dataset == "MR":
+                transformed_labels = torch.FloatTensor([[1,0] if i == 0 else [0,1] for i in labels])
+            else:
+                transformed_labels = labels
+
+            loss = loss_function(outputs, transformed_labels)  # EX9
 
             # Step 4 - make predictions (class = argmax of posteriors)
             _, predicted = torch.max(outputs, 1) # EX9
 
             # Step 5 - collect the predictions, gold labels and batch loss
             y_pred.extend(predicted.cpu().numpy()) # EX9
-            y.extend(labels.cpu().numpy()) 
+            y.extend(labels.cpu().numpy())
 
             running_loss += loss.data.item()
 

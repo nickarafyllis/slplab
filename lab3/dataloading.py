@@ -45,7 +45,7 @@ class SentenceDataset(Dataset):
         # self.data = [word_tokenize(x) for x in X]
         # self.labels = y
         # self.word2idx = word2idx
-        
+
         self.data = []
         # Tokenize text
         Dataset = "MR"
@@ -67,15 +67,15 @@ class SentenceDataset(Dataset):
                 tokens = [token for token in tokens if token not in stop_words]
 
                 self.data.append(tokens)
-                
+
             #self.data = [[w for w in x.split(" ") if len(w) > 0] for x in X]
-            
+
         elif Dataset == "Semeval2017A":
             # Create an instance of the TweetTokenizer
             tokenizer = TweetTokenizer()
             # Tokenize the dataset
             self.data  = [tokenizer.tokenize(tweet) for tweet in X]
-        
+
         self.labels = y
         self.word2idx = word2idx
 
@@ -137,17 +137,20 @@ class SentenceDataset(Dataset):
 
 
         # return example, label, length
-    
+
         sentence = self.data[index]
 
         # Encode the sentence using word-to-id mapping
         encoded_sentence = [self.word2idx.get(word, self.word2idx["<unk>"]) for word in sentence]
 
         # Pad or truncate the sentence to a fixed length
-        max_length = 42  # Choose a suitable maximum length
-        if len(encoded_sentence) < max_length:
-            encoded_sentence += [0] * (max_length - len(encoded_sentence))
+        length = 42  # Choose a suitable maximum length
+        if len(encoded_sentence) < length:
+            encoded_sentence += [0] * (length - len(encoded_sentence))
+            length = len(encoded_sentence)
         else:
-            encoded_sentence = encoded_sentence[:max_length]
+            encoded_sentence = encoded_sentence[:length]
 
-        return encoded_sentence, self.labels[index], len(sentence)
+        length
+
+        return np.array(encoded_sentence), self.labels[index], length

@@ -37,14 +37,16 @@ class BaselineDNN(nn.Module):
         if (trainable_emb == False):
             self.embedding.weight.requires_grad = False  # EX4
 
+        # Define the output dimension of the output layer
+        output_dim = 500 #maybe change this
+
         # 4 - define a non-linear transformation of the representations
-        self.non_linear = nn.ReLU()  # EX5
+        self.linear = nn.Linear(embeddings.shape[1], output_dim)
+        self.relu = nn.ReLU()  # EX5
 
         # 5 - define the final Linear layer which maps
         # the representations to the classes
-        
-        # Define the output dimension of the output layer
-        output_dim = 25 #maybe change this
+
 
         # define the final linear layer that maps representations to classes
         self.final_layer = nn.Linear(output_dim, output_size) # EX5
@@ -66,7 +68,7 @@ class BaselineDNN(nn.Module):
         representations = torch.sum(embeddings, dim=1) / lengths.view(-1, 1)   # EX6
 
         # 3 - transform the representations to new ones.
-        representations = self.non_linear(representations)  # EX6
+        representations = self.relu(self.linear(representations))  # EX6
 
         # 4 - project the representations to classes using a linear layer
         logits = self.final_layer(representations)  # EX6
