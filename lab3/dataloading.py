@@ -144,13 +144,19 @@ class SentenceDataset(Dataset):
         encoded_sentence = [self.word2idx.get(word, self.word2idx["<unk>"]) for word in sentence]
 
         # Pad or truncate the sentence to a fixed length
-        length = 42  # Choose a suitable maximum length
-        if len(encoded_sentence) < length:
-            encoded_sentence += [0] * (length - len(encoded_sentence))
+        max_length = 42  # Choose a suitable maximum length
+        length = max_length
+        if len(encoded_sentence) < max_length:
             length = len(encoded_sentence)
-        else:
-            encoded_sentence = encoded_sentence[:length]
+            encoded_sentence += [0] * (max_length - len(encoded_sentence))
 
-        length
+        else:
+            encoded_sentence = encoded_sentence[:max_length]
+
+        # to avoid dividing by zero
+        if length == 0:
+            length = 1
+
+
 
         return np.array(encoded_sentence), self.labels[index], length

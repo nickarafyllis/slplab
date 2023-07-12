@@ -76,11 +76,86 @@ class BaselineDNN(nn.Module):
         return logits
 
 
+class MaxPoolingDNN(nn.Module):
+    """
+    1. We embed the words in the input texts using an embedding layer
+    2. We compute the min, mean, max of the word embeddings in each sample
+       and use it as the feature representation of the sequence.
+    4. We project with a linear layer the representation
+       to the number of classes.ngth)
+    """
+
+    def __init__(self, output_size, embeddings, trainable_emb=False):
+        """
+
+        Args:
+            output_size(int): the number of classes
+            embeddings(bool):  the 2D matrix with the pretrained embeddings
+            trainable_emb(bool): train (finetune) or freeze the weights
+                the embedding layer
+        """
+
+        super(MaxPoolingDNN, self).__init__()
+
+        # 1 - define the embedding layer
+
+        # Create the embedding layer
+        self.embedding = nn.Embedding(embeddings.shape[0], embeddings.shape[1]) # EX4
+
+        # 2 - initialize the weights of our Embedding layer
+        # from the pretrained word embeddings
+        self.embedding.weight = nn.Parameter(torch.FloatTensor(embeddings))  # EX4
+
+        # 3 - define if the embedding layer will be frozen or finetuned
+        if (trainable_emb == False):
+            self.embedding.weight.requires_grad = False  # EX4
+
+        # Define the output dimension of the output layer
+        output_dim = 500 #maybe change this
+
+        # 4 - define a non-linear transformation of the representations
+        self.linear = nn.Linear(2*embeddings.shape[1], output_dim)
+        self.relu = nn.ReLU()  # EX5
+
+        # 5 - define the final Linear layer which maps
+        # the representations to the classes
+
+
+        # define the final linear layer that maps representations to classes
+        self.final_layer = nn.Linear(output_dim, output_size) # EX5
+
+    def forward(self, x, lengths):
+        """
+        This is the heart of the model.
+        This function, defines how the data passes through the network.
+
+        Returns: the logits for each class
+
+        """
+
+        # 1 - embed the words, using the embedding layer
+        embeddings = self.embedding(x) # EX6
+
+        # 2 - construct a sentence representation out of the word embeddings
+        # Take the mean along the time dimension, considering the actual lengths
+        representations_mean = torch.sum(embeddings, dim=1) / lengths.view(-1, 1)   # EX6
+        representations_max, _ = torch.max(embeddings, dim=1)
+        representations = torch.cat((representations_mean,representations_max), dim=1) # 1.1
+
+        # 3 - transform the representations to new ones.
+        representations = self.relu(self.linear(representations))  # EX6
+
+        # 4 - project the representations to classes using a linear layer
+        logits = self.final_layer(representations)  # EX6
+
+        return logits
+
+
 class LSTM(nn.Module):
     def __init__(self, output_size, embeddings, trainable_emb=False, bidirectional=False):
 
         super(LSTM, self).__init__()
-        self.hidden_size = 100
+        self.hidden_size = 50
         self.num_layers = 1
         self.bidirectional = bidirectional
 
@@ -115,7 +190,11 @@ class LSTM(nn.Module):
 
         # pick the output of the lstm corresponding to the last word
         # TODO: Main-Lab-Q2 (Hint: take actual lengths into consideration)
-        representations = ...
+        # 2.2
+        representations = torch.zeros(batch_size, self.representation_size).float()
+        for i in range(lengths.shape[0]):
+            last = lengths[i] - 1 if lengths[i] <= max_length else max_length - 1
+            representations[i] = ht[i, last, :] # representation is the last ouput of the LSTM, hN
 
         logits = self.linear(representations)
 

@@ -8,14 +8,17 @@ from torch.utils.data import DataLoader
 
 from config import EMB_PATH
 from dataloading import SentenceDataset
-from models import BaselineDNN
+from models import BaselineDNN, MaxPoolingDNN, LSTM
+from attention import SimpleSelfAttentionModel, MultiHeadAttentionModel
 from training import train_dataset, eval_dataset, torch_train_val_split
+from early_stopper import EarlyStopper
 from utils.load_datasets import load_MR, load_Semeval2017A
 from utils.load_embeddings import load_word_vectors
 
 import numpy as np
 from sklearn.metrics import f1_score, accuracy_score, recall_score
 import matplotlib.pyplot as plt
+import sys
 
 warnings.filterwarnings("ignore", category=UndefinedMetricWarning)
 
@@ -97,13 +100,24 @@ for i, ex in enumerate(train_set.data[:5]):
 
 
 # EX7 - Define our PyTorch-based DataLoader
-train_loader = DataLoader(train_set, batch_size=BATCH_SIZE, shuffle=True)  # EX7
+train_loader, val_loader = torch_train_val_split(
+    train_set, batch_train=BATCH_SIZE, batch_eval=BATCH_SIZE
+) #2.1
+#train_loader = DataLoader(train_set, batch_size=BATCH_SIZE, shuffle=True)  # EX7
 test_loader = DataLoader(train_set, batch_size=BATCH_SIZE)   # EX7
 
 #############################################################################
 # Model Definition (Model, Loss Function, Optimizer)
 #############################################################################
-model = BaselineDNN(output_size=n_classes,  # EX8
+
+
+model_name = sys.argv[1] # (BaselineDNN, MaxPoolingDNN, LSTM, LSTMbi)
+if model_name == "LSTMbi":
+    model = LSTM(output_size=n_classes,  # EX8
+                        embeddings=embeddings,
+                        trainable_emb=EMB_TRAINABLE, bidirectional=True)
+else:
+    model = eval(model_name)(output_size=n_classes,  # EX8
                     embeddings=embeddings,
                     trainable_emb=EMB_TRAINABLE)
 
@@ -126,6 +140,12 @@ optimizer = torch.optim.Adam(parameters) # EX8
 TRAIN_LOSS = []
 TEST_LOSS = []
 
+
+save_path = f'{DATASET}_{model.__class__.__name__}.pth'
+
+# Stop if validation loss keeps increasing for 5 epochs
+early_stopper = EarlyStopper(model, save_path, patience=5)
+
 for epoch in range(1, EPOCHS + 1):
     # train the model for one epoch
     train_dataset(epoch, train_loader, model, criterion, optimizer, DATASET)
@@ -135,9 +155,21 @@ for epoch in range(1, EPOCHS + 1):
                                                             model,
                                                             criterion,DATASET)
 
+    validation_loss, (y_validation_gold, y_validation_pred) = eval_dataset(val_loader,
+                                                            model,
+                                                            criterion,DATASET)
+
+    # 2.1
+    if model_name.startswith("LSTM") and early_stopper.early_stop(validation_loss):
+        print("Early stopping triggered. Training stopped.")
+        EPOCHS = epoch-1 # for plot
+        break
+
     test_loss, (y_test_gold, y_test_pred) = eval_dataset(test_loader,
                                                          model,
                                                          criterion, DATASET)
+
+
 
     TRAIN_LOSS.append(train_loss)
     TEST_LOSS.append(test_loss)
@@ -153,9 +185,9 @@ for epoch in range(1, EPOCHS + 1):
     print("Test Recall:", recall_score(y_test_gold, y_test_pred, average='macro'))
 
 plt.plot(range(1, EPOCHS + 1), TRAIN_LOSS, label='Training Loss')
-plt.plot(range(1, EPOCHS + 1), TEST_LOSS, label='Validation Loss')
+plt.plot(range(1, EPOCHS + 1), TEST_LOSS, label='Test Loss')
 plt.xlabel('Epoch')
 plt.ylabel('Loss')
-plt.title('Training and Validation Loss')
+plt.title('Training and Test Loss')
 plt.legend()
 plt.show()
