@@ -13,6 +13,8 @@ class Head(nn.Module):
         self.query = nn.Linear(n_embd, head_size, bias=False)
         self.value = nn.Linear(n_embd, head_size, bias=False)
 
+        self.head_size = head_size
+
         self.dropout = nn.Dropout(dropout)
 
     def forward(self, x):
@@ -21,7 +23,7 @@ class Head(nn.Module):
         q = self.query(x)  # (B,T,C)
         # compute attention scores ("affinities")
         # (B, T, C) @ (B, C, T) -> (B, T, T)
-        wei = q @ k.transpose(-2, -1) * C**-0.5
+        wei = q @ k.transpose(-2, -1) * self.head_size**-0.5 # normalize dividing with root of head_size
         wei = F.softmax(wei, dim=-1)  # (B, T, T)
         wei = self.dropout(wei)
         # perform the weighted aggregation of the values
@@ -69,9 +71,9 @@ class SimpleSelfAttentionModel(nn.Module):
         self.ln2 = nn.LayerNorm(dim)
 
         # TODO: Main-lab-Q3 - define output classification layer
-        self.output = ...
+        self.output = nn.Linear(dim, output_size)
 
-    def forward(self, x):
+    def forward(self, x, lengths=None):
         B, T = x.shape
         tok_emb = self.token_embedding_table(x)  # (B,T,C)
         pos_emb = self.position_embedding_table(torch.arange(T))  # (T,C)
@@ -80,7 +82,7 @@ class SimpleSelfAttentionModel(nn.Module):
         x = x + self.ffwd(self.ln2(x))
 
         # TODO: Main-lab-Q3 - avg pooling to get a sentence embedding
-        x = ...  # (B,C)
+        x =  torch.mean(x, dim=1)  # (B,C)
 
         logits = self.output(x)  # (C,output)
         return logits
@@ -104,18 +106,42 @@ class MultiHeadAttention(nn.Module):
 
 class MultiHeadAttentionModel(nn.Module):
 
-    def __init__(self, output_size, embeddings, max_length=60, n_head=3):
+    def __init__(self, output_size, embeddings, max_length=60, n_head=5):
         super().__init__()
 
         # TODO: Main-Lab-Q4 - define the model
         # Hint: it will be similar to `SimpleSelfAttentionModel` but
         # `MultiHeadAttention` will be utilized for the self-attention module here
-        ...
+        self.n_head = n_head
+        self.max_length = max_length
 
-    def forward(self, x):
-        ...
+        embeddings = np.array(embeddings)
+        num_embeddings, dim = embeddings.shape
 
-        logits = ...
+        self.token_embedding_table = nn.Embedding(num_embeddings, dim)
+        self.token_embedding_table = self.token_embedding_table.from_pretrained(
+            torch.Tensor(embeddings), freeze=True)
+        self.position_embedding_table = nn.Embedding(self.max_length, dim)
+
+        head_size = dim // self.n_head
+        self.sa = MultiHeadAttention(n_head, head_size, dim)
+        self.ffwd = FeedFoward(dim)
+        self.ln1 = nn.LayerNorm(dim)
+        self.ln2 = nn.LayerNorm(dim)
+
+        self.output = nn.Linear(dim, output_size)
+
+    def forward(self, x, lengths=None):
+        B, T = x.shape
+        tok_emb = self.token_embedding_table(x)  # (B,T,C)
+        pos_emb = self.position_embedding_table(torch.arange(T))  # (T,C)
+        x = tok_emb + pos_emb  # (B,T,C)
+        x = x + self.sa(self.ln1(x))
+        x = x + self.ffwd(self.ln2(x))
+
+        x =  torch.mean(x, dim=1)  # (B,C)
+
+        logits = self.output(x)  # (C,output)
         return logits
 
 

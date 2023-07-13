@@ -120,23 +120,6 @@ class SentenceDataset(Dataset):
         """
 
         # EX3
-        # Map tokens to numbers
-        # word2idx = self.word2idx
-        # example = np.array([word2idx[w] if w in word2idx else word2idx['<unk>'] for w in self.data[index]])
-
-        # # We choose 50 as a vector size that covers most of the sentences
-        # length = 50
-        # if len(example) > 50:
-        #     example = example[:50]
-
-        # if len(example) < 50:
-        #     length = len(example)
-        #     example = np.concatenate((example,np.zeros(50-length)))
-
-        # label = self.labels[index]
-
-
-        # return example, label, length
 
         sentence = self.data[index]
 
@@ -144,7 +127,7 @@ class SentenceDataset(Dataset):
         encoded_sentence = [self.word2idx.get(word, self.word2idx["<unk>"]) for word in sentence]
 
         # Pad or truncate the sentence to a fixed length
-        max_length = 42  # Choose a suitable maximum length
+        max_length = 25  # Choose a suitable maximum length
         length = max_length
         if len(encoded_sentence) < max_length:
             length = len(encoded_sentence)

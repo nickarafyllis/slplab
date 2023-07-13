@@ -9,7 +9,7 @@ from torch.utils.data import DataLoader
 from config import EMB_PATH
 from dataloading import SentenceDataset
 from models import BaselineDNN, MaxPoolingDNN, LSTM
-from attention import SimpleSelfAttentionModel, MultiHeadAttentionModel
+from attention import SimpleSelfAttentionModel, MultiHeadAttentionModel, TransformerEncoderModel
 from training import train_dataset, eval_dataset, torch_train_val_split
 from early_stopper import EarlyStopper
 from utils.load_datasets import load_MR, load_Semeval2017A
@@ -91,7 +91,7 @@ hist_of_lens = {}
 for i in range(max(lengths)):
     hist_of_lens[i+1] = lengths.count(i+1)
 
-print(hist_of_lens) # We choose 50 as a vector size that covers most of the sentences
+print(hist_of_lens) # We choose 25 as a vector size that covers most of the sentences
 
 # Question 3
 for i, ex in enumerate(train_set.data[:5]):
@@ -111,11 +111,15 @@ test_loader = DataLoader(train_set, batch_size=BATCH_SIZE)   # EX7
 #############################################################################
 
 
-model_name = sys.argv[1] # (BaselineDNN, MaxPoolingDNN, LSTM, LSTMbi)
+model_name = sys.argv[1] # (BaselineDNN, MaxPoolingDNN, LSTM, LSTMbi, SimpleSelfAttentionModel, MultiHeadAttentionModel)
 if model_name == "LSTMbi":
-    model = LSTM(output_size=n_classes,  # EX8
+    model = LSTM(output_size=n_classes,
                         embeddings=embeddings,
                         trainable_emb=EMB_TRAINABLE, bidirectional=True)
+elif model_name.endswith("Model"):          # attention models
+    model = eval(model_name)(output_size=n_classes,
+                        embeddings=embeddings,
+                        max_length=25)
 else:
     model = eval(model_name)(output_size=n_classes,  # EX8
                     embeddings=embeddings,
@@ -160,6 +164,7 @@ for epoch in range(1, EPOCHS + 1):
                                                             criterion,DATASET)
 
     # 2.1
+    # Early stopping in LSTM
     if model_name.startswith("LSTM") and early_stopper.early_stop(validation_loss):
         print("Early stopping triggered. Training stopped.")
         EPOCHS = epoch-1 # for plot
