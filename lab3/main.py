@@ -111,7 +111,7 @@ test_loader = DataLoader(train_set, batch_size=BATCH_SIZE)   # EX7
 #############################################################################
 
 
-model_name = sys.argv[1] # (BaselineDNN, MaxPoolingDNN, LSTM, LSTMbi, SimpleSelfAttentionModel, MultiHeadAttentionModel)
+model_name = sys.argv[1] # (BaselineDNN, MaxPoolingDNN, LSTM, LSTMbi, SimpleSelfAttentionModel, MultiHeadAttentionModel, TransformerEncoderModel)
 if model_name == "LSTMbi":
     model = LSTM(output_size=n_classes,
                         embeddings=embeddings,
